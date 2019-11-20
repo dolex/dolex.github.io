@@ -76,7 +76,6 @@ li{
 }
 .totals{
 	padding-top: 10px;
-	font-size: 2em;
 	color: #777;
 	font-family: 'Alatsi', sans-serif;
 }
@@ -104,6 +103,9 @@ li{
 	#app h2{
 		font-size: 2em;
 	}
+	.totals{
+		font-size: 2em;
+	}
 }
 
 @media (max-width:999.98px){
@@ -112,7 +114,7 @@ li{
 		top: 24px;
 		z-index: 2;
 		font-family: 'Alatsi', sans-serif;
-		left: 30%;
+		right: 40px;
 		color:#64729d;
 		font-size: 1em;
 	}
@@ -128,5 +130,8 @@ li{
 	}
 	#app h2{
 		font-size: 1.3em;
+	}
+	.totals{
+		font-size: 1.4em;
 	}
 }

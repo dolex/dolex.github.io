@@ -29,7 +29,7 @@
             <!-- v-bind:value sets "value" to "true" if the response is correct -->
             <!-- v-bind:name sets "name" to question index to group answers by question -->
             <!-- v-model creates binding with userResponses -->
-            <input type="radio" 
+            <input type="radio"
                    v-bind:value="response.correct" 
 									 v-bind:name="index"
                    v-model="userResponses[index]"> {{response.text}}
