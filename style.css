@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alatsi&display=swap');
+*{
+	padding: 0;
+	margin: 0;	
+}
+html{
+	background: rgb(238, 238, 238)
+}
+ol{
+	list-style-type:none
+}
+.global{
+	width: 100%;
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.london{
+	text-align: center;
+	margin-top: 20px;
+}
+.london img{
+	max-width: 90%;
+}
+#app{
+	padding: 30px;
+	margin: 0 auto;
+	background: #fff;
+	margin-top: 10px;
+	-webkit-box-shadow: 0px 0px 35px -21px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 35px -21px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 35px -21px rgba(0,0,0,0.75);
+	max-width: 450px;
+	width: 90%;
+}
+#app h1{
+	font-family: 'Alatsi', sans-serif;
+	border-bottom: 1px solid #aaa;
+	color: #64729d;
+}
+#app h2{
+	font-size: 2em;
+	font-family: 'Alatsi', sans-serif;
+	color: #bb2665;
+	padding-top: 20px;
+}
+.verbs{
+	padding-top: 10px;
+	font-family: 'Alatsi', sans-serif;
+	color: #555;
+	font-size: 1em;
+}
+ol{
+	margin-top: 20px;
+}
+li{
+	font-size: 1.5em;
+  font-family: 'Raleway', sans-serif;
+	color: #5b5862;
+}
+#app button{
+	text-transform: uppercase;
+	font-family: 'Alatsi', sans-serif;
+	border: 0;
+	padding: 10px;
+	font-size: 1em;
+	text-align: center;
+	margin-top: 20px;
+	background: rgb(255, 230, 0);
+	color: #000;
+	max-width: 200px;
+	width: 80%;
+	cursor: pointer;
+}
+.totals{
+	padding-top: 10px;
+	font-size: 2em;
+	color: #777;
+	font-family: 'Alatsi', sans-serif;
+}
+
+@media (min-width:1000px) {
+	.eng{
+		position: relative;
+		top: 38px;
+		z-index: 2;
+		font-family: 'Alatsi', sans-serif;
+		left: 116px;
+		color:#64729d;
+		font-size: 1.5em;
+	}
+	#app{
+		padding: 30px;
+	}
+	#app h1{
+		font-size: 3em;
+	}
+	li{
+		font-size: 1.5em;
+		line-height: 1.5;
+	}
+	#app h2{
+		font-size: 2em;
+	}
+}
+
+@media (max-width:999.98px){
+	.eng{
+		position: relative;
+		top: 24px;
+		z-index: 2;
+		font-family: 'Alatsi', sans-serif;
+		left: 30%;
+		color:#64729d;
+		font-size: 1em;
+	}
+	#app{
+		padding: 15px;
+	}
+	#app h1{
+		font-size: 2em;
+	}
+	li{
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	#app h2{
+		font-size: 1.3em;
+	}
+}

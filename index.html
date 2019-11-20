@@ -1,153 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <title>Дом Современного Искусства Чебоксары</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Неправильне глаголы (Irregular Verbs)</title>
+	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="top-head">
-
-    <div><i class="fa fa-envelope-o" aria-hidden="true"></i> e-mail: info@site.ru</div>
-    <div><i class="fa fa-map-marker" aria-hidden="true"></i> Адрес: г. Чебоксары УЛ. Лен6ина 45</div>
-    <div><i class="fa fa-envelope-open-o" aria-hidden="true"></i> Задать вопрос</div>
-    <div><i class="fa fa-vk" aria-hidden="true"></i></div>
-    <div>
-        <a href="#" onclick="doGTranslate('ru|en');return false;" title="English" class="gflag nturl" style="background-position:-0px -0px;"><img src="//gtranslate.net/flags/blank.png" height="32" width="32" alt="English" /></a><a href="#" onclick="doGTranslate('ru|ru');return false;" title="Russian" class="gflag nturl" style="background-position:-500px -200px;"><img src="//gtranslate.net/flags/blank.png" height="32" width="32" alt="Russian" /></a>
-        
-        <style type="text/css">
-
-        a.gflag {vertical-align:middle;font-size:32px;padding-right:7px;background-repeat:no-repeat;background-image:url(//gtranslate.net/flags/32.png);}
-        a.gflag img {border:0;}
-        a.gflag:hover {background-image:url(//gtranslate.net/flags/32a.png);}
-        #goog-gt-tt {display:none !important;}
-        .goog-te-banner-frame {display:none !important;}
-        .goog-te-menu-value:hover {text-decoration:none !important;}
-        body {top:0 !important;}
-        #google_translate_element2 {display:none!important;}
-
-        </style>
-
-        <div id="google_translate_element2"></div>
-        <script type="text/javascript">
-        function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'ru',autoDisplay: false}, 'google_translate_element2');}
-        </script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
-        
-        <script>
-        /* <![CDATA[ */
-        eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}',43,43,'||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element2|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'),0,{}))
-        /* ]]> */
-        </script>
-        </div>
-
+<div class="global">
+	<div class="london">
+		<div class="eng">English</div>
+		<img src="london.png" alt="">
+	</div>
+<div id="app">
+	<h1>{{ quiz.title }}</h1>
+	<p class="verbs">Выберете правильный перевод [ 1 формы ] глагола</p>
+  <!-- index is used to check with current question index -->
+  <div v-for="(question, index) in quiz.questions">
+    <!-- Hide all questions, show only the one with index === to current question index -->
+    <div v-show="index === questionIndex">
+      <h2>{{ question.text }}</h2>
+      <ol>
+        <li v-for="response in question.responses">
+          <label>
+            <!-- The radio button has three new directives -->
+            <!-- v-bind:value sets "value" to "true" if the response is correct -->
+            <!-- v-bind:name sets "name" to question index to group answers by question -->
+            <!-- v-model creates binding with userResponses -->
+            <input type="radio" 
+                   v-bind:value="response.correct" 
+									 v-bind:name="index"
+                   v-model="userResponses[index]"> {{response.text}}
+									</label>
+        </li>
+      </ol>
+      <!-- The two navigation buttons -->
+      <!-- Note: prev is hidden on first question -->
+      <!-- <button v-if="questionIndex > 0" v-on:click="prev">
+        prev
+      </button> -->
+      <button v-on:click="next">
+        next
+      </button>
+    </div>
+  </div>
+  <div v-show="questionIndex === quiz.questions.length">
+    <h2>
+    Finished
+  </h2>
+    <p class="totals">
+      Right answers: {{ score() }} of {{ quiz.questions.length }}
+    </p>
+  </div>
+</div>
 </div>
 
-<div class="logo-header">
-
-    <div class="logo-head1">
-        <div><img src="img/logo-top.png" alt="Дом Современного Искусства Чебоксары" title="Дом Современного Искусства Чебоксары"></div>
-        <div class="title-top">Свое дело <p>многопрофильный консальтинговый и тренинговый центр</p></div>
-        <div class="title-top1">
-            <p>dsi21@mail.ru</p>
-            <p>Г.Чебоксары, ул Мичмана Павлова д 37 А</p>
-        </div>
-    </div>
-
-    <div class="logo-head2">
-        <div class="phone-top">8 (962) 321 31-45</div>
-        <div class="top-buttom">Заказать звонок</div>
-    </div>
-
-</div>
-
-<div class="nav">
-    <nav>
-        <ul>
-            <li><a href="#">меню</a></li>
-            <li><a href="#">меню</a></li>
-            <li><a href="#">меню</a></li>
-            <li><a href="#">меню</a></li>
-            <li><a href="#">меню</a></li>
-        </ul>
-    </nav>
-    <a href="javascript:onoff('div11');" class="openModal1"><i class="fa fa-bars" aria-hidden="true"></i></a>
-
-    <script language="JavaScript" type="text/javascript">
-        function onoff(t)
-        {
-            p=document.getElementById(t);
-            if(p.style.display=="none"){
-                p.style.display="block";}
-            else{
-                p.style.display="none";}
-        }
-        </script>
-
-    <div id="div11" class="modalDialog" style="display:none;">
-        <ul>
-            <li><a href="#page1">Преимущества</a></li>
-            <li><a href="#page2">Отзывы</a></li>
-            <li><a href="#page3">Гарантия</a></li>
-            <li><a href="#page4">Контакты</a></li>
-        </ul>
-    </div>
-
-    </div>
-    <!-- <ul class="onclick-menu-content">
-        <li><button onclick="alert('click 1')">Look, mom</button></li>
-        <li><button onclick="alert('click 2')">no JavaScript!</button></li>
-        <li><button onclick="alert('click 3')">Pretty nice, right?</button></li>
-    </ul> -->
-
-</div>
-
-<div class="header-banner">
-    <div class="banner-text">
-        <h1>Lorem, ipsum.</h1>
-        <h2>Lorem, ipsum.</h2>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla harum laboriosam sequi ipsam repellendus!</p>
-        <dicv class="block-b">
-            <div class="b-col-top-1"><a href="#">Lorem, ipsum.</a></div>
-            <div class="b-col-top-2"><a href="#">Lorem, ipsum.</a></div>
-        </dicv>
-        
-    </div>
-    <div class="banner-girl"></div>
-</div>
-
-<div class="block-main-top">
-    <div class="block-main">
-        <div class="block-main-p">
-        <h1>Lorem</h1>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit beatae animi delectus rem blanditiis voluptatem nesciunt nulla nobis odit quasi aliquam commodi consectetur fuga eaque sit, pariatur possimus vero atque.</p>
-        </div>
-    </div>
-    <div class="block-main">
-            <div class="block-main-p">
-            <h1>Lorem</h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit beatae animi delectus rem blanditiis voluptatem nesciunt nulla nobis odit quasi aliquam commodi consectetur fuga eaque sit, pariatur possimus vero atque.</p>
-            </div>
-        </div>
-        <div class="block-main">
-                <div class="block-main-p">
-                <h1>Lorem</h1>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit beatae animi delectus rem blanditiis voluptatem nesciunt nulla nobis odit quasi aliquam commodi consectetur fuga eaque sit, pariatur possimus vero atque.</p>
-                </div>
-            </div>
-</div>
-
-    <div class="main">
-        <div class="content">
-            <div class="title-h1">Lorem, ipsum.</div>
-            <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia perferendis necessitatibus ratione error at inventore repellat facere sit recusandae. Repellat eligendi asperiores dolor debitis ratione, nisi optio eveniet vitae. Modi repellendus ab vero suscipit consectetur atque laborum aliquid sint consequatur ex ullam voluptas doloribus natus commodi doloremque inventore perferendis quis quam dicta minus, aliquam reprehenderit recusandae ipsam. Fugit aliquam et facilis quo assumenda suscipit quis deleniti consequuntur eveniet, officiis illum quod velit recusandae culpa dignissimos amet architecto quas, voluptatum odio! Modi officia, aliquam ducimus quasi omnis nihil! Placeat ullam optio fugiat cumque, rerum qui sapiente corporis temporibus mollitia harum quam suscipit, libero dolore pariatur vel? Eaque in culpa nulla facere pariatur libero repudiandae natus ducimus, dolore rerum molestiae illo assumenda obcaecati odit!
-            </p>
-        </div>
-    </div>
+	<script src="vue-js/test.js"></script>
 
 </body>
 </html>
+
