@@ -30,3 +30,19 @@ p{
  max-width: 250px;
  text-align: center;
 }
+.global span{
+ background: #ffebde;
+ border-left: 5px solid #ffebde;
+ border-right: 5px solid #ffebde;
+}
+.tooltip {
+ position: fixed;
+ padding: 10px 20px;
+ border: 1px solid #7a7a7a;
+ border-radius: 4px;
+ text-align: center;
+ font: italic 14px/1.3 sans-serif;
+ color: rgb(44, 44, 44);
+ background: rgb(255, 235, 148);
+ box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.164);
+}
