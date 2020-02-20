@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+*{
+ padding: 0;
+ margin: 0;
+}
+.global{
+ padding: 20px;
+}
+h1{
+ font-family: 'Oswald', sans-serif;
+ font-size: 2.7em;
+ margin-bottom: 20px;
+ margin-top: 20px;
+}
+h2{
+ font-family: 'Oswald', sans-serif;
+ font-size: 2em;
+ color: rgb(34, 66, 206);
+ padding: 10px;
+}
+p{
+ font-family: -system-ui,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+ font-size: 1.5em;
+ padding: 10px;
+}
+.kangaroos{
+ margin: 0 auto;
+ display: block;
+ width: 99%;
+ max-width: 250px;
+ text-align: center;
+}
