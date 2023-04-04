@@ -16,7 +16,17 @@
   },
   {
     "id" : 4,
-    "title" : "Earth Moving (animated)",
+    "title" : "Earth Moving",
     "image" : "1665466513_626b0cab91.jpg"
+  },
+  {
+    "id" : 5,
+    "title" : "Gears",
+    "image" : "1665934585_cc935dc173.jpg"
+  },
+  {
+    "id" : 6,
+    "title" : "Hello Kitty",
+    "image" : "1600914788_31b6da191a.jpg"
   }
 ]
