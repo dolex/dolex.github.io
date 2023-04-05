@@ -6,22 +6,22 @@
       {
         "id": 1,
         "name": "Подкатегория 1",
-        "parent_id": 1
+        "parent_id": "sub_1"
       },
       {
         "id": 2,
         "name": "Подкатегория 2",
-        "parent_id": 1
+        "parent_id": "sub_1"
       },
       {
         "id": 3,
         "name": "Подкатегория 3",
-        "parent_id": 1
+        "parent_id": "sub_1"
       },
       {
         "id": 4,
         "name": "Подкатегория 4",
-        "parent_id": 1
+        "parent_id": "sub_1"
       }
     ]
   },
@@ -32,22 +32,22 @@
       {
         "id": 1,
         "name": "Подкатегория 1",
-        "parent_id": 2
+        "parent_id": "sub_2"
       },
       {
         "id": 2,
         "name": "Подкатегория 2",
-        "parent_id": 2
+        "parent_id": "sub_2"
       },
       {
         "id": 3,
         "name": "Подкатегория 3",
-        "parent_id": 2
+        "parent_id": "sub_2"
       },
       {
         "id": 4,
         "name": "Подкатегория 4",
-        "parent_id": 2
+        "parent_id": "sub_2"
       }
     ]
   }
