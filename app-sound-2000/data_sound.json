@@ -61,5 +61,12 @@
     "title": "Сабрина — маленькая ведьма",
     "sound": "tv_show/sound/sabrina_the_teenage_witch",
     "image": "tv_show/img/sabrina_the_teenage_witch.jpg"
+  },
+  {
+    "id": 10,
+    "cat": "tv_show",
+    "title": "Дикий ангел",
+    "sound": "tv_show/sound/wild_angel",
+    "image": "tv_show/img/wild_angel.jpg"
   }
 ]
