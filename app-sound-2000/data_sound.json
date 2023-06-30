@@ -9,37 +9,37 @@
   {
     "id": 2,
     "cat": "game",
-    "title": "Counter Strike: Ok Lets Go",
-    "sound": "game/sound/counter_strike_jingle_cs_radio_ok_lets_go",
-    "image": "game/img/cs_1_6.jpg"
+    "title": "Экран загрузки Dreamcast",
+    "sound": "game/sound/dreamcast_startup",
+    "image": "game/img/dreamcast_startup.jpg"
   },
   {
     "id": 3,
     "cat": "game",
-    "title": "Counter Strike: Ok Lets Go",
-    "sound": "game/sound/counter_strike_jingle_cs_radio_ok_lets_go",
-    "image": "game/img/cs_1_6.jpg"
+    "title": "Стартовое меню GTA San Andreas",
+    "sound": "game/sound/gta_san_andreas_main_theme",
+    "image": "game/img/gta_san_andreas_main_theme.jpg"
   },
   {
     "id": 4,
     "cat": "game",
-    "title": "Counter Strike: Ok Lets Go",
-    "sound": "game/sound/counter_strike_jingle_cs_radio_ok_lets_go",
-    "image": "game/img/cs_1_6.jpg"
+    "title": "Запуск Playstation 2",
+    "sound": "game/sound/playstation_2_startup_intro",
+    "image": "game/img/playstation_2_startup_intro.jpg"
   },
   {
     "id": 5,
-    "cat": "tv_show",
-    "title": "Счастливы вместе",
-    "sound": "tv_show/sound/happy_together",
-    "image": "tv_show/img/happy_together.jpg"
+    "cat": "game",
+    "title": "Запуск Playstation 1",
+    "sound": "game/sound/ps1_startup",
+    "image": "game/img/ps1_startup.jpg"
   },
   {
     "id": 6,
-    "cat": "tv_show",
-    "title": "Счастливы вместе",
-    "sound": "tv_show/sound/happy_together",
-    "image": "tv_show/img/happy_together.jpg"
+    "cat": "game",
+    "title": "Counter Strike: Go Go Go",
+    "sound": "game/sound/counter_strike_go_go_go",
+    "image": "game/img/counter_strike_go_go_go.jpg"
   },
   {
     "id": 7,
@@ -51,8 +51,15 @@
   {
     "id": 8,
     "cat": "tv_show",
-    "title": "Счастливы вместе",
-    "sound": "tv_show/sound/happy_together",
-    "image": "tv_show/img/happy_together.jpg"
+    "title": "Беверли Хиллс 90210",
+    "sound": "tv_show/sound/beverly_hills_90210",
+    "image": "tv_show/img/beverly_hills_90210.jpg"
+  },
+  {
+    "id": 9,
+    "cat": "tv_show",
+    "title": "Сабрина — маленькая ведьма",
+    "sound": "tv_show/sound/sabrina_the_teenage_witch",
+    "image": "tv_show/img/sabrina_the_teenage_witch.jpg"
   }
 ]
