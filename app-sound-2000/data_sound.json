@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "cat": "game",
+    "title": "Counter Strike: Ok Lets Go",
+    "sound": "game/sound/counter_strike_jingle_cs_radio_ok_lets_go",
+    "image": "game/img/cs_1_6.jpg"
+  },
+  {
+    "id": 2,
+    "cat": "game",
+    "title": "Counter Strike: Ok Lets Go",
+    "sound": "game/sound/counter_strike_jingle_cs_radio_ok_lets_go",
+    "image": "game/img/cs_1_6.jpg"
+  },
+  {
+    "id": 3,
+    "cat": "game",
+    "title": "Counter Strike: Ok Lets Go",
+    "sound": "game/sound/counter_strike_jingle_cs_radio_ok_lets_go",
+    "image": "game/img/cs_1_6.jpg"
+  },
+  {
+    "id": 4,
+    "cat": "game",
+    "title": "Counter Strike: Ok Lets Go",
+    "sound": "game/sound/counter_strike_jingle_cs_radio_ok_lets_go",
+    "image": "game/img/cs_1_6.jpg"
+  },
+  {
+    "id": 5,
+    "cat": "tv_show",
+    "title": "Счастливы вместе",
+    "sound": "tv_show/img/happy_together.jpg",
+    "image": "tv_show/sound/happy_together"
+  },
+  {
+    "id": 6,
+    "cat": "tv_show",
+    "title": "Счастливы вместе",
+    "sound": "tv_show/img/happy_together.jpg",
+    "image": "tv_show/sound/happy_together"
+  },
+  {
+    "id": 7,
+    "cat": "tv_show",
+    "title": "Счастливы вместе",
+    "sound": "tv_show/img/happy_together.jpg",
+    "image": "tv_show/sound/happy_together"
+  },
+  {
+    "id": 8,
+    "cat": "tv_show",
+    "title": "Счастливы вместе",
+    "sound": "tv_show/img/happy_together.jpg",
+    "image": "tv_show/sound/happy_together"
+  }
+]
