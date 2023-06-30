@@ -31,28 +31,28 @@
     "id": 5,
     "cat": "tv_show",
     "title": "Счастливы вместе",
-    "sound": "tv_show/img/happy_together.jpg",
-    "image": "tv_show/sound/happy_together"
+    "sound": "tv_show/sound/happy_together",
+    "image": "tv_show/img/happy_together.jpg"
   },
   {
     "id": 6,
     "cat": "tv_show",
     "title": "Счастливы вместе",
-    "sound": "tv_show/img/happy_together.jpg",
-    "image": "tv_show/sound/happy_together"
+    "sound": "tv_show/sound/happy_together",
+    "image": "tv_show/img/happy_together.jpg"
   },
   {
     "id": 7,
     "cat": "tv_show",
     "title": "Счастливы вместе",
-    "sound": "tv_show/img/happy_together.jpg",
-    "image": "tv_show/sound/happy_together"
+    "sound": "tv_show/sound/happy_together",
+    "image": "tv_show/img/happy_together.jpg"
   },
   {
     "id": 8,
     "cat": "tv_show",
     "title": "Счастливы вместе",
-    "sound": "tv_show/img/happy_together.jpg",
-    "image": "tv_show/sound/happy_together"
+    "sound": "tv_show/sound/happy_together",
+    "image": "tv_show/img/happy_together.jpg"
   }
 ]
