@@ -80,105 +80,105 @@
     "id": 12,
     "cat": "cartoon",
     "title": "Аладдин (1992)",
-    "sound": "tv_show/sound/aladdin_arabskaya_noch",
-    "image": "tv_show/img/aladdin_arabskaya_noch.jpg"
+    "sound": "cartoon/sound/aladdin_arabskaya_noch",
+    "image": "cartoon/img/aladdin_arabskaya_noch.jpg"
   },
   {
     "id": 13,
     "cat": "cartoon",
     "title": "Черепашки-ниндзя (1987)",
-    "sound": "tv_show/sound/teenage_mutant_ninja_turtles_opening_theme",
-    "image": "tv_show/img/teenage_mutant_ninja_turtles_opening_theme.jpg"
+    "sound": "cartoon/sound/teenage_mutant_ninja_turtles_opening_theme",
+    "image": "cartoon/img/teenage_mutant_ninja_turtles_opening_theme.jpg"
   },
   {
     "id": 14,
     "cat": "cartoon",
     "title": "Вуншпунш",
-    "sound": "tv_show/sound/wounchpounch",
-    "image": "tv_show/img/wounchpounch.jpg"
+    "sound": "cartoon/sound/wounchpounch",
+    "image": "cartoon/img/wounchpounch.jpg"
   },
   {
     "id": 15,
     "cat": "game",
     "title": "Старт меню Xbox original",
-    "sound": "tv_show/sound/original_xbox_startup",
-    "image": "tv_show/img/original_xbox_startup.jpg"
+    "sound": "game/sound/original_xbox_startup",
+    "image": "game/img/original_xbox_startup.jpg"
   },
   {
     "id": 16,
     "cat": "another",
     "title": "Nokia Classic рингтон",
-    "sound": "tv_show/sound/nokia_tune_classic",
-    "image": "tv_show/img/nokia_tune_classic.jpg"
+    "sound": "another/sound/nokia_tune_classic",
+    "image": "another/img/nokia_tune_classic.jpg"
   },
   {
     "id": 17,
     "cat": "another",
     "title": "Запуск Windows XP",
-    "sound": "tv_show/sound/windows_xp_startup",
-    "image": "tv_show/img/windows_xp_startup.jpg"
+    "sound": "another/sound/windows_xp_startup",
+    "image": "another/img/windows_xp_startup.jpg"
   },
   {
     "id": 18,
     "cat": "another",
     "title": "Заставка НТВ 2003-2004гг",
-    "sound": "tv_show/sound/intro_ntv_2003_2004",
-    "image": "tv_show/img/intro_ntv_2003_2004.jpg"
+    "sound": "another/sound/intro_ntv_2003_2004",
+    "image": "another/img/intro_ntv_2003_2004.jpg"
   },
   {
     "id": 19,
     "cat": "another",
     "title": "Заставка СТС 2003г",
-    "sound": "tv_show/sound/intro_sts_2003",
-    "image": "tv_show/img/intro_sts_2003.jpg"
+    "sound": "another/sound/intro_sts_2003",
+    "image": "another/img/intro_sts_2003.jpg"
   },
   {
     "id": 20,
     "cat": "another",
     "title": "Звук двигателя ЛиАЗ-677М",
-    "sound": "tv_show/sound/liaz_677m",
-    "image": "tv_show/img/liaz_677m.jpg"
+    "sound": "another/sound/liaz_677m",
+    "image": "another/img/liaz_677m.jpg"
   },
   {
     "id": 21,
     "cat": "another",
     "title": "Разгон и торможение электропоезда ЭТ2М",
-    "sound": "tv_show/sound/et2m_train",
-    "image": "tv_show/img/et2m_train.jpg"
+    "sound": "another/sound/et2m_train",
+    "image": "another/img/et2m_train.jpg"
   },
   {
     "id": 22,
     "cat": "another",
     "title": "Мелодия из фильма Бумер",
-    "sound": "tv_show/sound/bumer_movie",
-    "image": "tv_show/img/bumer_movie.jpg"
+    "sound": "another/sound/bumer_movie",
+    "image": "another/img/bumer_movie.jpg"
   },
   {
     "id": 23,
     "cat": "cartoon",
     "title": "Интро Человек Паук 1994",
-    "sound": "tv_show/sound/spider_man_1994",
-    "image": "tv_show/img/spider_man_1994.jpg"
+    "sound": "cartoon/sound/spider_man_1994",
+    "image": "cartoon/img/spider_man_1994.jpg"
   },
   {
     "id": 24,
     "cat": "cartoon",
     "title": "Интро Люди Икс: Эволюция",
-    "sound": "tv_show/sound/x_men_evolution",
-    "image": "tv_show/img/x_men_evolution.jpg"
+    "sound": "cartoon/sound/x_men_evolution",
+    "image": "cartoon/img/x_men_evolution.jpg"
   },
   {
     "id": 25,
     "cat": "cartoon",
     "title": "Музыка из мультсериала Русалочка",
-    "sound": "tv_show/sound/mermaid",
-    "image": "tv_show/img/mermaid.jpg"
+    "sound": "cartoon/sound/mermaid",
+    "image": "cartoon/img/mermaid.jpg"
   },
   {
     "id": 26,
     "cat": "cartoon",
     "title": "Инспектор Гаджет (заставка)",
-    "sound": "tv_show/sound/inspector_gadget",
-    "image": "tv_show/img/inspector_gadget.jpg"
+    "sound": "cartoon/sound/inspector_gadget",
+    "image": "cartoon/img/inspector_gadget.jpg"
   }
 ]
