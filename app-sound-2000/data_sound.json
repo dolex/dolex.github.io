@@ -73,8 +73,8 @@
     "id": 11,
     "cat": "cartoon",
     "title": "Футурама",
-    "sound": "tv_show/sound/futurama_end_title",
-    "image": "tv_show/img/futurama_end_title.jpg"
+    "sound": "cartoon/sound/futurama_end_title",
+    "image": "cartoon/img/futurama_end_title.jpg"
   },
   {
     "id": 12,
