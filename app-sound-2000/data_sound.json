@@ -180,5 +180,47 @@
     "title": "Инспектор Гаджет (заставка)",
     "sound": "cartoon/sound/inspector_gadget",
     "image": "cartoon/img/inspector_gadget.jpg"
+  },
+  {
+    "id": 26,
+    "cat": "tv_show",
+    "title": "Могучие рейнджеры",
+    "sound": "tv_show/sound/power_rangers",
+    "image": "tv_show/img/power_rangers.jpg"
+  },
+  {
+    "id": 27,
+    "cat": "tv_show",
+    "title": "Рыцарь дорог - вступительные титры",
+    "sound": "tv_show/sound/knight_rider",
+    "image": "tv_show/img/knight_rider.jpg"
+  },
+  {
+    "id": 28,
+    "cat": "tv_show",
+    "title": "Альф",
+    "sound": "tv_show/sound/alf",
+    "image": "tv_show/img/alf.jpg"
+  },
+  {
+    "id": 29,
+    "cat": "tv_show",
+    "title": "Комиссар Рекс",
+    "sound": "tv_show/sound/rex",
+    "image": "tv_show/img/rex.jpg"
+  },
+  {
+    "id": 30,
+    "cat": "tv_show",
+    "title": "Горец",
+    "sound": "tv_show/sound/highlander",
+    "image": "tv_show/img/highlander.jpg"
+  },
+  {
+    "id": 31,
+    "cat": "tv_show",
+    "title": "Санта Барбара ",
+    "sound": "tv_show/sound/santa_barbara",
+    "image": "tv_show/img/santa_barbara.jpg"
   }
 ]
