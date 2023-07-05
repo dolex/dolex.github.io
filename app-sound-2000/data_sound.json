@@ -219,8 +219,78 @@
   {
     "id": 31,
     "cat": "tv_show",
-    "title": "Санта Барбара ",
+    "title": "Санта Барбара",
     "sound": "tv_show/sound/santa_barbara",
     "image": "tv_show/img/santa_barbara.jpg"
+  },
+  {
+    "id": 32,
+    "cat": "another",
+    "title": "Тетрис",
+    "sound": "another/sound/tetris_theme",
+    "image": "another/img/tetris.jpg"
+  },
+  {
+    "id": 33,
+    "cat": "game",
+    "title": "Герои Меча и Магии III",
+    "sound": "game/sound/heroes_of_might_and_magic_3",
+    "image": "game/img/heroes_of_might_and_magic_3.jpg"
+  },
+  {
+    "id": 33,
+    "cat": "another",
+    "title": "Nokia 1100 рингтон",
+    "sound": "another/sound/nokia_ringtone_1100",
+    "image": "another/img/nokia_ringtone_1100.jpg"
+  },
+  {
+    "id": 33,
+    "cat": "game",
+    "title": "Заставка Sega Mega Drive",
+    "sound": "game/sound/sega_mega_drive",
+    "image": "game/img/sega_mega_drive.jpg"
+  },
+  {
+    "id": 34,
+    "cat": "game",
+    "title": "Заставка The Sims 1",
+    "sound": "game/sound/the_sims_1",
+    "image": "game/img/the_sims_1.jpg"
+  },
+  {
+    "id": 35,
+    "cat": "game",
+    "title": "GTA 3 вступительная заставка",
+    "sound": "game/sound/gta_3",
+    "image": "game/img/gta_3.jpg"
+  },
+  {
+    "id": 36,
+    "cat": "game",
+    "title": "GTA 2 вступительная заставка",
+    "sound": "game/sound/gta_2",
+    "image": "game/img/gta_2.jpg"
+  },
+  {
+    "id": 37,
+    "cat": "another",
+    "title": "Windows 95 старт",
+    "sound": "another/sound/windows_95",
+    "image": "another/img/windows_95.jpg"
+  },
+  {
+    "id": 37,
+    "cat": "another",
+    "title": "Windows 98 старт",
+    "sound": "another/sound/windows_98",
+    "image": "another/img/windows_98.jpg"
+  },
+  {
+    "id": 38,
+    "cat": "game",
+    "title": "Halo Combat Evolved главное меню",
+    "sound": "game/sound/halo_combat_evolved",
+    "image": "game/img/halo_combat_evolved.jpg"
   }
 ]
