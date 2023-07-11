@@ -341,5 +341,103 @@
     "title": "33 квадратных метра (заставка)",
     "sound": "tv_show/sound/33_square_meters",
     "image": "tv_show/img/33_square_meters.jpg"
+  },
+  {
+    "id": 46,
+    "cat": "cartoon",
+    "title": "Что с Энди? (заставка)",
+    "sound": "cartoon/sound/whats_with_andy",
+    "image": "cartoon/img/whats_with_andy.jpg"
+  },
+  {
+    "id": 47,
+    "cat": "cartoon",
+    "title": "Охотники за привидениями (заставка)",
+    "sound": "cartoon/sound/ghostbusters",
+    "image": "cartoon/img/ghostbusters.jpg"
+  },
+  {
+    "id": 48,
+    "cat": "cartoon",
+    "title": "Мыши-рокеры с Марса (заставка)",
+    "sound": "cartoon/sound/biker_mice_from_mars",
+    "image": "cartoon/img/biker_mice_from_mars.jpg"
+  },
+  {
+    "id": 49,
+    "cat": "cartoon",
+    "title": "Друпи: Детектив (заставка)",
+    "sound": "cartoon/sound/droopy_master_detective",
+    "image": "cartoon/img/droopy_master_detective.jpg"
+  },
+  {
+    "id": 50,
+    "cat": "cartoon",
+    "title": "Бен-10 (заставка)",
+    "sound": "cartoon/sound/ben_10",
+    "image": "cartoon/img/ben_10.jpg"
+  },
+  {
+    "id": 51,
+    "cat": "game",
+    "title": "Казаки: Европейские войны",
+    "sound": "game/sound/cossacks_european_wars",
+    "image": "game/img/cossacks_european_wars.jpg"
+  },
+  {
+    "id": 52,
+    "cat": "game",
+    "title": "Космические рейнджеры",
+    "sound": "game/sound/space_rangers",
+    "image": "game/img/space_rangers.jpg"
+  },
+  {
+    "id": 53,
+    "cat": "game",
+    "title": "Duke Nukem 3D (1996). Главная тема",
+    "sound": "game/sound/duke_nukem_3d",
+    "image": "game/img/duke_nukem_3d.jpg"
+  },
+  {
+    "id": 54,
+    "cat": "game",
+    "title": "Crash Bandicoot 1. Главная тема",
+    "sound": "game/sound/crash_bandicoot_1",
+    "image": "game/img/crash_bandicoot_1.jpg"
+  },
+  {
+    "id": 55,
+    "cat": "game",
+    "title": "Diablo 1. Главная тема",
+    "sound": "game/sound/diablo_main_theme",
+    "image": "game/img/diablo_main_theme.jpg"
+  },
+  {
+    "id": 56,
+    "cat": "game",
+    "title": "The Elder Scrolls III: Morrowind. Главная тема",
+    "sound": "game/sound/morrowind",
+    "image": "game/img/morrowind.jpg"
+  },
+  {
+    "id": 57,
+    "cat": "game",
+    "title": "Star Wars: The Old Republic. Главная тема",
+    "sound": "game/sound/star_wars_the_old_republic_theme",
+    "image": "game/img/star_wars_the_old_republic_theme.jpg"
+  },
+  {
+    "id": 58,
+    "cat": "game",
+    "title": "Resident Evil 2 (1998 г). Комната сохранения",
+    "sound": "game/sound/resident_evil_2_ps_1_save_room",
+    "image": "game/img/resident_evil_2_ps_1_save_room.jpg"
+  },
+  {
+    "id": 59,
+    "cat": "game",
+    "title": "DOOM (1993 г). Главная тема",
+    "sound": "game/sound/doom_1993",
+    "image": "game/img/doom_1993.jpg"
   }
 ]
