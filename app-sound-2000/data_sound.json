@@ -292,5 +292,54 @@
     "title": "Halo Combat Evolved главное меню",
     "sound": "game/sound/halo_combat_evolved",
     "image": "game/img/halo_combat_evolved.jpg"
+  },
+  {
+    "id": 39,
+    "cat": "tv_show",
+    "title": "Моя прекрасная няня (заставка)",
+    "sound": "tv_show/sound/my_lovely_nanny",
+    "image": "tv_show/img/my_lovely_nanny.jpg"
+  },
+  {
+    "id": 40,
+    "cat": "tv_show",
+    "title": "Кадетство (заставка)",
+    "sound": "tv_show/sound/kadetstvo",
+    "image": "tv_show/img/kadetstvo.jpg"
+  },
+  {
+    "id": 41,
+    "cat": "tv_show",
+    "title": "Галилео (заставка)",
+    "sound": "tv_show/sound/galileo",
+    "image": "tv_show/img/galileo.jpg"
+  },
+  {
+    "id": 42,
+    "cat": "tv_show",
+    "title": "Ханна Монтана (заставка)",
+    "sound": "tv_show/sound/hannah_montana",
+    "image": "tv_show/img/hannah_montana.jpg"
+  },
+  {
+    "id": 43,
+    "cat": "tv_show",
+    "title": "Дом 2 (заставка)",
+    "sound": "tv_show/sound/house_2",
+    "image": "tv_show/img/house_2.jpg"
+  },
+  {
+    "id": 44,
+    "cat": "tv_show",
+    "title": "Дорогая Передача (заставка)",
+    "sound": "tv_show/sound/dear_transfer",
+    "image": "tv_show/img/dear_transfer.jpg"
+  },
+  {
+    "id": 45,
+    "cat": "tv_show",
+    "title": "33 квадратных метра (заставка)",
+    "sound": "tv_show/sound/33_square_meters",
+    "image": "tv_show/img/33_square_meters.jpg"
   }
 ]
