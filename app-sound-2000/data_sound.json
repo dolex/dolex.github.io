@@ -456,9 +456,9 @@
   },
   {
     "id": 62,
-    "cat": "game",
+    "cat": "tv_show",
     "title": "Ералаш. Главная тема",
-    "sound": "game/sound/eralash",
-    "image": "game/img/eralash.jpg"
+    "sound": "tv_show/sound/eralash",
+    "image": "tv_show/img/eralash.jpg"
   }
 ]
