@@ -439,5 +439,26 @@
     "title": "DOOM (1993 г). Главная тема",
     "sound": "game/sound/doom_1993",
     "image": "game/img/doom_1993.jpg"
+  },
+  {
+    "id": 60,
+    "cat": "game",
+    "title": "Need For Speed: Underground. Главная тема",
+    "sound": "game/sound/need_for_speed_underground",
+    "image": "game/img/need_for_speed_underground.jpg"
+  },
+  {
+    "id": 61,
+    "cat": "game",
+    "title": "Quake 2 PS1. Главная тема",
+    "sound": "game/sound/quake_2",
+    "image": "game/img/quake_2.jpg"
+  },
+  {
+    "id": 62,
+    "cat": "game",
+    "title": "Ералаш. Главная тема",
+    "sound": "game/sound/eralash",
+    "image": "game/img/eralash.jpg"
   }
 ]
