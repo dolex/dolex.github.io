@@ -506,61 +506,40 @@
   {
     "id": 68,
     "cat": "game",
-    "title": "Need for Speed: Porsche Unleashed",
-    "sound": "game/sound/need_for_speed_5_porsche_unleashed",
-    "image": "game/img/need_for_speed_5_porsche_unleashed.jpg"
-  },
-  {
-    "id": 69,
-    "cat": "game",
-    "title": "Need for Speed: Porsche Unleashed",
-    "sound": "game/sound/resident_evil_code_veronica",
-    "image": "game/img/resident_evil_code_veronica.jpg"
-  },
-  {
-    "id": 70,
-    "cat": "game",
     "title": "Resident Evil Code: Veronica",
     "sound": "game/sound/resident_evil_code_veronica",
     "image": "game/img/resident_evil_code_veronica.jpg"
   },
   {
-    "id": 71,
+    "id": 69,
     "cat": "game",
     "title": "Driver 1",
     "sound": "game/sound/driver_1",
     "image": "game/img/driver_1.jpg"
   },
   {
-    "id": 72,
+    "id": 70,
     "cat": "game",
     "title": "Driver 2",
     "sound": "game/sound/driver_2",
     "image": "game/img/driver_2.jpg"
   },
   {
-    "id": 73,
-    "cat": "game",
-    "title": "Driver 2",
-    "sound": "game/sound/driver_2",
-    "image": "game/img/driver_2.jpg"
-  },
-  {
-    "id": 74,
+    "id": 71,
     "cat": "game",
     "title": "Dino Crisis 1",
     "sound": "game/sound/dino_crisis_1",
     "image": "game/img/dino_crisis_1.jpg"
   },
   {
-    "id": 75,
+    "id": 72,
     "cat": "game",
     "title": "Dino Crisis 2",
     "sound": "game/sound/dino_crisis_2",
     "image": "game/img/dino_crisis_2.jpg"
   },
   {
-    "id": 76,
+    "id": 73,
     "cat": "game",
     "title": "Корсары: Проклятье дальних морей",
     "sound": "game/sound/corsairs_the_curse_of_distant_seas",
