@@ -544,5 +544,12 @@
     "title": "Корсары: Проклятье дальних морей",
     "sound": "game/sound/corsairs_the_curse_of_distant_seas",
     "image": "game/img/corsairs_the_curse_of_distant_seas.jpg"
+  },
+  {
+    "id": 74,
+    "cat": "cartoon",
+    "title": "Эй, Арнольд!",
+    "sound": "cartoon/sound/hey_arnold",
+    "image": "cartoon/img/hey_arnold.jpg"
   }
 ]
