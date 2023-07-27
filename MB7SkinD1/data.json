@@ -3,82 +3,98 @@
     {
     "title": "title watch",
     "author": "Author: IgorKH",
-    "img": "img/mi_band7_skin_0.gif"
+    "img": "img/mi_band7_skin_0.gif",
+    "skin": "skin/mi_band7_skin_0.bin"
     },
     {
       "title": "title watch",
       "author": "Author: IgorKH",
-      "img": "img/mi_band7_skin_1.gif"
+      "img": "img/mi_band7_skin_1.gif",
+      "skin": "skin/mi_band7_skin_1.bin"
     },
     {
       "title": "title watch",
       "author": "Author: IgorKH",
-      "img": "img/mi_band7_skin_2.gif"
+      "img": "img/mi_band7_skin_2.gif",
+      "skin": "skin/mi_band7_skin_2.bin"
     },
     {
       "title": "title watch",
       "author": "Author: mediatouch",
-      "img": "img/mi_band7_skin_3.gif"
+      "img": "img/mi_band7_skin_3.gif",
+      "skin": "skin/mi_band7_skin_3.bin"
     },
     {
       "title": "title watch",
       "author": "Author: lavr1973",
-      "img": "img/mi_band7_skin_4.gif"
+      "img": "img/mi_band7_skin_4.gif",
+      "skin": "skin/mi_band7_skin_4.bin"
     },
     {
       "title": "title watch",
       "author": "Author: lavr1973",
-      "img": "img/mi_band7_skin_5.gif"
+      "img": "img/mi_band7_skin_5.gif",
+      "skin": "skin/mi_band7_skin_5.bin"
     },
     {
       "title": "title watch",
       "author": "Author: lavr1973",
-      "img": "img/mi_band7_skin_6.gif"
+      "img": "img/mi_band7_skin_6.gif",
+      "skin": "skin/mi_band7_skin_6.bin"
     },
     {
       "title": "title watch",
       "author": "Author: lavr1973",
-      "img": "img/mi_band7_skin_7.gif"
+      "img": "img/mi_band7_skin_7.gif",
+      "skin": "skin/mi_band7_skin_7.bin"
     },
     {
       "title": "title watch",
       "author": "Author: lavr1973",
-      "img": "img/mi_band7_skin_8.gif"
+      "img": "img/mi_band7_skin_8.gif",
+      "skin": "skin/mi_band7_skin_8.bin"
     },
     {
       "title": "title watch",
       "author": "Author: lavr1973",
-      "img": "img/mi_band7_skin_9.gif"
+      "img": "img/mi_band7_skin_9.gif",
+      "skin": "skin/mi_band7_skin_9.bin"
     },
     {
       "title": "title watch",
       "author": "Author: lavr1973",
-      "img": "img/mi_band7_skin_10.gif"
+      "img": "img/mi_band7_skin_10.gif",
+      "skin": "skin/mi_band7_skin_10.bin"
     },
     {
       "title": "title watch",
       "author": "Author: Kosmik",
-      "img": "img/mi_band7_skin_11.gif"
+      "img": "img/mi_band7_skin_11.gif",
+      "skin": "skin/mi_band7_skin_11.bin"
     },
     {
       "title": "title watch",
       "author": "Author: Kosmik",
-      "img": "img/mi_band7_skin_12.gif"
+      "img": "img/mi_band7_skin_12.gif",
+      "skin": "skin/mi_band7_skin_12.bin"
     },
     {
       "title": "title watch",
       "author": "Author: Kosmik",
-      "img": "img/mi_band7_skin_13.gif"
+      "img": "img/mi_band7_skin_13.gif",
+      "skin": "skin/mi_band7_skin_13.bin"
     },
     {
       "title": "title watch",
       "author": "Author: Kosmik",
-      "img": "img/mi_band7_skin_14.gif"
+      "img": "img/mi_band7_skin_14.gif",
+      "skin": "skin/mi_band7_skin_14.bin"
     },
     {
       "title": "title watch",
       "author": "Author: Kosmik",
-      "img": "img/mi_band7_skin_15.gif"
+      "img": "img/mi_band7_skin_15.gif",
+      "skin": "skin/mi_band7_skin_15.bin"
     }
   ]
 }
