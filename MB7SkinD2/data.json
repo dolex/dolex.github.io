@@ -1,4 +1,5 @@
-[
+{
+  "watch_list": [
     {
     "title": "title watch",
     "author": "author watch",
@@ -65,3 +66,4 @@
       "img": "img/mi_band7_skin_12.jpg"
     }
   ]
+}
