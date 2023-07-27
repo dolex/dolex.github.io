@@ -1,69 +1,67 @@
-{
-  "watch_list": [
-    {
+[
+  {
+  "title": "title watch",
+  "author": "author watch",
+  "img": "img/mi_band7_skin_0.jpg"
+  },
+  {
     "title": "title watch",
     "author": "author watch",
-    "img": "img/mi_band7_skin_0.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_1.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_2.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_3.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_4.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_5.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_6.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_7.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_8.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_9.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_10.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_11.jpg"
-    },
-    {
-      "title": "title watch",
-      "author": "author watch",
-      "img": "img/mi_band7_skin_12.jpg"
-    }
-  ]
-}
+    "img": "img/mi_band7_skin_1.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_2.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_3.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_4.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_5.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_6.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_7.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_8.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_9.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_10.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_11.jpg"
+  },
+  {
+    "title": "title watch",
+    "author": "author watch",
+    "img": "img/mi_band7_skin_12.jpg"
+  }
+]
