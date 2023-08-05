@@ -551,5 +551,61 @@
     "title": "Эй, Арнольд!",
     "sound": "cartoon/sound/hey_arnold",
     "image": "cartoon/img/hey_arnold.jpg"
+  },
+  {
+    "id": 74,
+    "cat": "game",
+    "title": "Final Fanstasy 7",
+    "sound": "game/sound/ff7",
+    "image": "game/img/ff7.jpg"
+  },
+  {
+    "id": 74,
+    "cat": "game",
+    "title": "Crazy Taxi 1",
+    "sound": "game/sound/crazy_taxi_1",
+    "image": "game/img/crazy_taxi_1.jpg"
+  },
+  {
+    "id": 74,
+    "cat": "game",
+    "title": "Serious Sam 1",
+    "sound": "game/sound/serious_sam_1",
+    "image": "game/img/serious_sam_1.jpg"
+  },
+  {
+    "id": 74,
+    "cat": "game",
+    "title": "GTA: Vice City",
+    "sound": "game/sound/gta_vice_city",
+    "image": "game/img/gta_vice_city.jpg"
+  },
+  {
+    "id": 74,
+    "cat": "game",
+    "title": "Shenmue 1",
+    "sound": "game/sound/shenmue_1",
+    "image": "game/img/shenmue_1.jpg"
+  },
+  {
+    "id": 74,
+    "cat": "game",
+    "title": "Dynasty Warriors 2",
+    "sound": "game/sound/dynasty_warriors_2",
+    "image": "game/img/dynasty_warriors_2.jpg"
+  },
+  {
+    "id": 74,
+    "cat": "game",
+    "title": "Final Fantasy X",
+    "sound": "game/sound/final_fantasy_x",
+    "image": "game/img/final_fantasy_x.jpg"
+  },
+  {
+    "id": 74,
+    "cat": "game",
+    "title": "Max Payne",
+    "sound": "game/sound/max_payne",
+    "image": "game/img/max_payne.jpg"
   }
 ]
