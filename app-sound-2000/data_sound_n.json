@@ -520,5 +520,11 @@
     "title": "Max Payne",
     "sound": "game/sound/max_payne",
     "image": "game/img/max_payne.jpg"
+  },
+  {
+    "cat": "another",
+    "title": "Windows 2000",
+    "sound": "another/sound/windows_2000",
+    "image": "another/img/windows_2000.jpg"
   }
 ]
