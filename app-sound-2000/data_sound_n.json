@@ -526,5 +526,41 @@
     "title": "Windows 2000",
     "sound": "another/sound/windows_2000",
     "image": "another/img/windows_2000.jpg"
+  },
+  {
+    "cat": "ads_video",
+    "title": "Пена Gillette (2002 г)",
+    "sound": "ads_video/sound/ads_video_1",
+    "image": "ads_video/img/ads_video_1.jpg"
+  },
+  {
+    "cat": "ads_video",
+    "title": "Крем L'Oréal",
+    "sound": "ads_video/sound/ads_video_2",
+    "image": "ads_video/img/ads_video_2.jpg"
+  },
+  {
+    "cat": "ads_video",
+    "title": "LG DVD+Karaoke",
+    "sound": "ads_video/sound/ads_video_3",
+    "image": "ads_video/img/ads_video_3.jpg"
+  },
+  {
+    "cat": "ads_video",
+    "title": "Майонез Моя Семья",
+    "sound": "ads_video/sound/ads_video_4",
+    "image": "ads_video/img/ads_video_4.jpg"
+  },
+  {
+    "cat": "ads_video",
+    "title": "Билайн GSM",
+    "sound": "ads_video/sound/ads_video_5",
+    "image": "ads_video/img/ads_video_5.jpg"
+  },
+  {
+    "cat": "ads_video",
+    "title": "Strepsils таблетки для рассасывания",
+    "sound": "ads_video/sound/ads_video_5",
+    "image": "ads_video/img/ads_video_5.jpg"
   }
 ]
