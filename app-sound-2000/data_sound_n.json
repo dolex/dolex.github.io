@@ -562,5 +562,47 @@
     "title": "Strepsils таблетки для рассасывания",
     "sound": "ads_video/sound/ads_video_6",
     "image": "ads_video/img/ads_video_6.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка a Sony Pictures Entertainment Company (2000)",
+    "sound": "movie/sound/a_sony_pictures_entertainment_company_2000",
+    "image": "movie/img/a_sony_pictures_entertainment_company_2000.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка MGM (2000)",
+    "sound": "movie/sound/metro_goldwyn_mayer_2000",
+    "image": "movie/img/metro_goldwyn_mayer_2000.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка New Line Cinema",
+    "sound": "movie/sound/new_line_cinema",
+    "image": "movie/img/new_line_cinema.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка Universal Studio (1993-2000 гг)",
+    "sound": "movie/sound/universal_studio_1993_2000",
+    "image": "movie/img/universal_studio_1993_2000.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка Universal Studio (2000-2005 гг)",
+    "sound": "movie/sound/universal_studio_2000_2005",
+    "image": "movie/img/universal_studio_2000_2005.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка Walt Disney Pictures",
+    "sound": "movie/sound/walt_disney_pictures_intro",
+    "image": "movie/img/walt_disney_pictures_intro.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка Warner Bros Pictures (2000)",
+    "sound": "movie/sound/warner_bros_pictures_2000",
+    "image": "movie/img/warner_bros_pictures_2000.jpg"
   }
 ]
