@@ -604,5 +604,11 @@
     "title": "Заставка Warner Bros Pictures (2000)",
     "sound": "movie/sound/warner_bros_pictures_2000",
     "image": "movie/img/warner_bros_pictures_2000.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка Warner Bros Pictures (2000)",
+    "sound": "movie/sound/warner_bros_pictures_2000",
+    "image": "movie/img/warner_bros_pictures_2000.jpg"
   }
 ]
