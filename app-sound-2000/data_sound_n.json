@@ -604,5 +604,150 @@
     "title": "Заставка Warner Bros Pictures (2000)",
     "sound": "movie/sound/warner_bros_pictures_2000",
     "image": "movie/img/warner_bros_pictures_2000.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка 20th Century Fox (2000)",
+    "sound": "movie/sound/20th_Century_Fox_2000",
+    "image": "movie/img/20th_Century_Fox_2000.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка Spider Man | Marvel (2002)",
+    "sound": "movie/sound/Spider_Man_Marvel_Intro_2002",
+    "image": "movie/img/Spider_Man_Marvel_Intro_2002.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Криминальная Россия - Музыкальная тема",
+    "sound": "tv_show/sound/criminal_russian_sound",
+    "image": "tv_show/img/criminal_russian_sound.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Покемон. 1 сезон - заставка",
+    "sound": "cartoon/sound/Pokemon_Season_1_Russian_Opening",
+    "image": "cartoon/img/Pokemon_Season_1_Russian_Opening.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Последний герой (1 сезон) - заставка",
+    "sound": "tv_show/sound/last_hero_1",
+    "image": "tv_show/img/last_hero_1.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Заставка \"Кто хочет стать миллионером\" (2001-2005)",
+    "sound": "tv_show/sound/Who_Wants_to_Be_a_Millionaire_2001",
+    "image": "tv_show/img/Who_Wants_to_Be_a_Millionaire_2001.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Заставка Угадай Мелодию! (1995-1999)",
+    "sound": "tv_show/sound/Guess_the_melody_1995_1999",
+    "image": "tv_show/img/Guess_the_melody_1995_1999.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "В мире животных — заставка (2000-2009)",
+    "sound": "tv_show/sound/In_the_world_ofanimals_2000_2009",
+    "image": "tv_show/img/In_the_world_ofanimals_2000_2009.jpg"
+  },
+  {
+    "cat": "ads_video",
+    "title": "Реклама Dendy (1993) - играют все!",
+    "sound": "ads_video/sound/Dendy_1993",
+    "image": "ads_video/img/Dendy_1993.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Реклама Dendy (1993) - играют все!",
+    "sound": "tv_show/sound/Field_of_Dreams_2000_2001",
+    "image": "tv_show/img/Field_of_Dreams_2000_2001.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Окна ТНТ (2002)",
+    "sound": "tv_show/sound/windows_tnt_2002",
+    "image": "tv_show/img/windows_tnt_2002.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Заставка DreamWorks (2001)",
+    "sound": "movie/sound/DreamWorks_Intro_2001",
+    "image": "movie/img/DreamWorks_Intro_2001.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Заставка Симпсоны",
+    "sound": "cartoon/sound/The_Simpsons",
+    "image": "cartoon/img/The_Simpsons.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Заставка Губка Боб Квадратные Штаны",
+    "sound": "cartoon/sound/Sponge_Bob_Square_Pants",
+    "image": "cartoon/img/Sponge_Bob_Square_Pants.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Заставка Южный Парк",
+    "sound": "cartoon/sound/South_Park_Intro_2000",
+    "image": "cartoon/img/South_Park_Intro_2000.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Гриффины：заставка 2х2",
+    "sound": "cartoon/sound/Family_Guy",
+    "image": "cartoon/img/Family_Guy.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Котопес заставка",
+    "sound": "cartoon/sound/CatDog",
+    "image": "cartoon/img/CatDog.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Смертельная битва 2: Истребление. Главная музыкальня тема",
+    "sound": "movie/sound/Mortal_Kombat_2_Theme",
+    "image": "movie/img/Mortal_Kombat_2_Theme.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Приключения Джеки Чана (Главная тема)",
+    "sound": "cartoon/sound/Jackie_Chan_Adventures",
+    "image": "cartoon/img/Jackie_Chan_Adventures.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Крутые Бобры (заставка)",
+    "sound": "cartoon/sound/The_Angry_Beavers",
+    "image": "cartoon/img/The_Angry_Beavers.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "\"Как говорит Джинджер\" (заставка 2005)",
+    "sound": "cartoon/sound/As_Told_by_Ginger",
+    "image": "cartoon/img/As_Told_by_Ginger.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Ох, уж эти детки! (заставка)",
+    "sound": "cartoon/sound/Rugrats",
+    "image": "cartoon/img/Rugrats.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Сейлор Мун (заставка 1-го сезона)",
+    "sound": "cartoon/sound/Sailor_Moon",
+    "image": "cartoon/img/Sailor_Moon.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Джим Баттон (заставка)",
+    "sound": "cartoon/sound/Jim_Knopf",
+    "image": "cartoon/img/Jim_Knopf.jpg"
   }
+
 ]
