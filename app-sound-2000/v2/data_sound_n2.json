@@ -620,8 +620,8 @@
   {
     "cat": "tv_series",
     "title": "Криминальная Россия - Музыкальная тема",
-    "sound": "tv_show/sound/criminal_russian_sound",
-    "image": "tv_show/img/criminal_russian_sound.jpg"
+    "sound": "tv_series/sound/criminal_russian_sound",
+    "image": "tv_series/img/criminal_russian_sound.jpg"
   },
   {
     "cat": "cartoon",
@@ -632,8 +632,8 @@
   {
     "cat": "tv_series",
     "title": "Последний герой (1 сезон) - заставка",
-    "sound": "tv_show/sound/last_hero_1",
-    "image": "tv_show/img/last_hero_1.jpg"
+    "sound": "tv_series/sound/last_hero_1",
+    "image": "tv_series/img/last_hero_1.jpg"
   },
   {
     "cat": "tv_show",
@@ -650,8 +650,8 @@
   {
     "cat": "tv_series",
     "title": "В мире животных — заставка (2000-2009)",
-    "sound": "tv_show/sound/In_the_world_ofanimals_2000_2009",
-    "image": "tv_show/img/In_the_world_ofanimals_2000_2009.jpg"
+    "sound": "tv_series/sound/In_the_world_ofanimals_2000_2009",
+    "image": "tv_series/img/In_the_world_ofanimals_2000_2009.jpg"
   },
   {
     "cat": "ads_video",
