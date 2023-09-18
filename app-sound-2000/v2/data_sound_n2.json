@@ -742,5 +742,119 @@
     "title": "Джим Баттон (заставка)",
     "sound": "cartoon/sound/Jim_Knopf",
     "image": "cartoon/img/Jim_Knopf.jpg"
+  },
+  {
+    "cat": "tv_series",
+    "title": "Куклы - НТВ (заставка)",
+    "sound": "tv_series/sound/NTV_dolls",
+    "image": "tv_series/img/NTV_dolls.jpg"
+  },
+  {
+    "cat": "tv_series",
+    "title": "Заставка \"Осторожно, Модерн!\" (1996-98)",
+    "sound": "tv_series/sound/Ostorojno_Modern",
+    "image": "tv_series/img/Ostorojno_Modern.jpg"
+  },
+  {
+    "cat": "tv_series",
+    "title": "Взгляд - Заставка (1988-1991, 1997-2000)",
+    "sound": "tv_series/sound/Sight_TV",
+    "image": "tv_series/img/Sight_TV.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Любовь с первого взгляда - Заставка",
+    "sound": "tv_show/sound/love_at_first_sight",
+    "image": "tv_show/img/love_at_first_sight.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "МузОбоз (заставка)",
+    "sound": "tv_show/sound/MuzOboz",
+    "image": "tv_show/img/MuzOboz.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Заставка \"Золотая лихорадка\" (1997-1998)",
+    "sound": "tv_show/sound/Zolotaya_Likhoradka",
+    "image": "tv_show/img/Zolotaya_Likhoradka.jpg"
+  },
+  {
+    "cat": "tv_series",
+    "title": "Маски-шоу (заставка)",
+    "sound": "tv_series/sound/Mask_show",
+    "image": "tv_series/img/Mask_show.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Акулы пера (заставка)",
+    "sound": "tv_show/sound/Akuly_pera",
+    "image": "tv_show/img/Akuly_pera.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Джентльмен-шоу (заставка)",
+    "sound": "tv_show/sound/Gentleman_show",
+    "image": "tv_show/img/Gentleman_show.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Фабрика звёзд (заставка)",
+    "sound": "tv_show/sound/Star_Factory",
+    "image": "tv_show/img/Star_Factory.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "За стеклом (заставка)",
+    "sound": "tv_show/sound/Za_steklom",
+    "image": "tv_show/img/Za_steklom.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Слабое звено (заставка)",
+    "sound": "tv_show/sound/Weak_link",
+    "image": "tv_show/img/Weak_link.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Зов Джунглей (заставка)",
+    "sound": "tv_show/sound/Call_of_the_Jungle",
+    "image": "tv_show/img/Call_of_the_Jungle.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Каламбур (заставка)",
+    "sound": "tv_show/sound/Kalambur",
+    "image": "tv_show/img/Kalambur.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Городок (заставка)",
+    "sound": "tv_show/sound/Gorodok",
+    "image": "tv_show/img/Gorodok.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Империя страсти (заставка)",
+    "sound": "tv_show/sound/Imperiya_strasti",
+    "image": "tv_show/img/Imperiya_strasti.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "КБ-Легонавт (заставка)",
+    "sound": "tv_show/sound/KB_Legonaut",
+    "image": "tv_show/img/KB_Legonaut.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Сам себе режиссер (заставка)",
+    "sound": "tv_show/sound/My_own_director",
+    "image": "tv_show/img/My_own_director.jpg"
+  },
+  {
+    "cat": "tv_show",
+    "title": "Дог-шоу (заставка)",
+    "sound": "tv_show/sound/Dog_show",
+    "image": "tv_show/img/Dog_show.jpg"
   }
 ]
