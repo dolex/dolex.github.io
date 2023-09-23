@@ -1,0 +1,2 @@
+		Èí¼þ°æ±¾ºÅ£º		         1.0.0package_imgGUI1.1.676switch_imgui_switch_watce_face_img.binui_bitmap_mapping.cswitch_res.h__UI_RES__H__g_u32ResTotalLenswitch_imgC:\Users\24697\Desktop\applehonor\Applewatchgreen\watchface\res\switch_img\img16\A000SwitchWatch
+C:\Users\24697\Desktop\applehonor\Applewatchgreen\watchface\res\switch_img\img16\A000SwitchWatch\001.bmp

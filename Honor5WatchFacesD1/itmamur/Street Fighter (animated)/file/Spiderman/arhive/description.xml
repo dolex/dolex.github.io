@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>BP05</title>
+    <title-cn>蜘蛛侠</title-cn>
+    <author>宇豪</author>
+    <designer>宇豪</designer>
+    <screen>HWHD03</screen>
+    <version>4.1.1</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"zh_CN":"蜘蛛侠
+"}</briefinfo>
+</HwTheme>

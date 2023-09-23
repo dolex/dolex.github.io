@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>QuanHuang</title>
+    <title-cn>动态拳皇</title-cn>
+    <author>ZFP</author>
+    <designer>ZFP</designer>
+    <screen>HWHD03</screen>
+    <version>4.1.1</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"zh_CN":"拳皇-旭动态发大招"}</briefinfo>
+</HwTheme>

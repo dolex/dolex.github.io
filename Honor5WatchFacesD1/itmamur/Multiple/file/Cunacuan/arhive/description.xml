@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>CunaCuan</title>
+    <title-cn>串串</title-cn>
+    <author>猴赛雷的二师</author>
+    <designer>猴赛雷的二师</designer>
+    <screen>HWHD03</screen>
+    <version>4.1.1</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"zh_CN":"本表盘移植于小米表盘"}</briefinfo>
+</HwTheme>

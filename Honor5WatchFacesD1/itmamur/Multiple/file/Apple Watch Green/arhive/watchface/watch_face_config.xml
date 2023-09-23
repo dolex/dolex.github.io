@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<providers>
+    <TemplateWatch dpi="120">
+        <Widget widget_type="SINGLEIMAGE">
+            <SingleImage align="DIGIT_ALIGN_CENTER_LEFT" x="0" type="static" offset_distance_y="0" res_dir_id="A009" filter_color="0" data_type="DATA_BACKGROUND" label="layer 10 - 背景" y="0"/>
+        </Widget>
+        <Widget widget_type="DIGITALIMAGE">
+            <DigitalImage align="DIGIT_ALIGN_CENTER_LEFT" x="63" type="static" offset_distance_y="0" res_dir_id="A008" number_of_digits="0" filter_color="0" data_type="DATA_MINITE_LOW" label="layer 9 - 分钟个位" y="145"/>
+        </Widget>
+        <Widget widget_type="DIGITALIMAGE">
+            <DigitalImage align="DIGIT_ALIGN_CENTER_LEFT" x="3" type="static" offset_distance_y="0" res_dir_id="A007" number_of_digits="0" filter_color="0" data_type="DATA_MINITE_HIGH" label="layer 8 - 分钟十位" y="145"/>
+        </Widget>
+        <Widget widget_type="DIGITALIMAGE">
+            <DigitalImage align="DIGIT_ALIGN_CENTER_LEFT" x="63" type="static" offset_distance_y="0" res_dir_id="A006" number_of_digits="0" filter_color="0" data_type="DATA_HOUR_LOW" label="layer 7 - 小时个位" y="44"/>
+        </Widget>
+        <Widget widget_type="DIGITALIMAGE">
+            <DigitalImage align="DIGIT_ALIGN_CENTER_LEFT" x="0" type="static" offset_distance_y="0" res_dir_id="A005" number_of_digits="0" filter_color="0" data_type="DATA_HOUR_HIGH" label="layer 6 - 小时十位" y="43"/>
+        </Widget>
+        <Widget widget_type="SINGLEIMAGE">
+            <SingleImage align="DIGIT_ALIGN_CENTER_LEFT" x="101" type="static" offset_distance_y="0" res_dir_id="A004" filter_color="0" data_type="DATA_BATTERY" label="layer 5 - 电池" y="1"/>
+        </Widget>
+        <Widget widget_type="DIGITALIMAGE">
+            <DigitalImage align="DIGIT_ALIGN_CENTER_LEFT" x="81" type="static" offset_distance_y="0" res_dir_id="A003" number_of_digits="0" filter_color="0" data_type="DATA_BATTERYNUM" label="layer 4 - 数字选图" y="1"/>
+        </Widget>
+        <Widget widget_type="MUTILLANGUAGE">
+            <MutilLanguage align="DIGIT_ALIGN_CENTER_LEFT" single_language_img_num="7" x="1" type="static" res_dir_id="A002" support_languages="zh" filter_color="0" data_type="DATA_WEEK" label="layer 3 - 多语言" y="19" default_language="zh"/>
+        </Widget>
+        <Widget widget_type="DIGITALIMAGE">
+            <DigitalImage align="DIGIT_ALIGN_CENTER_LEFT" x="63" type="static" offset_distance_y="0" res_dir_id="A001" number_of_digits="0" filter_color="0" data_type="DATA_MONTH" label="layer 2 - 月" y="17"/>
+        </Widget>
+        <Widget widget_type="DIGITALIMAGE">
+            <DigitalImage align="DIGIT_ALIGN_CENTER_LEFT" x="94" type="static" offset_distance_y="0" res_dir_id="A000" number_of_digits="0" filter_color="0" data_type="DATA_DATE" label="layer 1 - 日" y="17"/>
+        </Widget>
+    </TemplateWatch>
+</providers>

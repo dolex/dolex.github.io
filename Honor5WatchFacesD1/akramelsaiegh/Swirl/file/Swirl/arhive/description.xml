@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>Swirl</title>
+    <title-cn>漩涡</title-cn>
+    <author>Akram Elsaiegh</author>
+    <designer>Akram Elsaiegh</designer>
+    <screen>HWHD03</screen>
+    <version>4.1.1</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"en_US":"Fascinating water swirl."}</briefinfo>
+</HwTheme>

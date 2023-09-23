@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>KXOXCB</title>
+    <title-cn>卡西欧炫彩版</title-cn>
+    <author>ZFP</author>
+    <designer>ZFP</designer>
+    <screen>HWHD03</screen>
+    <version>4.1.1</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"zh_CN":"移植于友商，去掉了动态环，加入了天气显示，锁型标志代替消息"}</briefinfo>
+</HwTheme>
