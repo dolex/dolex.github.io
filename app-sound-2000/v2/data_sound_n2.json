@@ -946,5 +946,41 @@
     "title": "Snickers",
     "sound": "ads_video/sound/snickers",
     "image": "ads_video/img/snickers.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Гарри Поттер и философский камень",
+    "sound": "movie/sound/Harry_Potter",
+    "image": "movie/img/Harry_Potter.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Терминатор",
+    "sound": "movie/sound/terminator_1",
+    "image": "movie/img/terminator_1.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Терминатор 2: Судный день",
+    "sound": "movie/sound/terminator_2",
+    "image": "movie/img/terminator_2.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Властелин колец: Братство кольца",
+    "sound": "movie/sound/The_Lord_of_the_Rings_1",
+    "image": "movie/img/The_Lord_of_the_Rings_1.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Властелин колец: Две крепости",
+    "sound": "movie/sound/The_Lord_of_the_Rings_2",
+    "image": "movie/img/The_Lord_of_the_Rings_2.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Титаник (отрывок главной песни)",
+    "sound": "movie/sound/titanic",
+    "image": "movie/img/titanic.jpg"
   }
 ]
