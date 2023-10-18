@@ -67,6 +67,36 @@
   },
   {
     "cat": "cartoon",
+    "title": "Унесенные призраками",
+    "sound": "cartoon/sound/Spirited_Away",
+    "image": "cartoon/img/Spirited_Away.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Шрек 1",
+    "sound": "cartoon/sound/Shrek",
+    "image": "cartoon/img/Shrek.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Корпорация монстров",
+    "sound": "cartoon/sound/Monsters_Inc",
+    "image": "cartoon/img/Monsters_Inc.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Ледниковый период 1",
+    "sound": "cartoon/sound/IceAge",
+    "image": "cartoon/img/IceAge.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Лило и Стич (2002)",
+    "sound": "cartoon/sound/Lilo_Stitch",
+    "image": "cartoon/img/Lilo_Stitch.jpg"
+  },
+  {
+    "cat": "cartoon",
     "title": "Аладдин (1992)",
     "sound": "cartoon/sound/aladdin_arabskaya_noch",
     "image": "cartoon/img/aladdin_arabskaya_noch.jpg"
@@ -82,6 +112,18 @@
     "title": "Вуншпунш",
     "sound": "cartoon/sound/wounchpounch",
     "image": "cartoon/img/wounchpounch.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Атлантида: Затерянный мир",
+    "sound": "cartoon/sound/Atlantis_the_Lost_Empire",
+    "image": "cartoon/img/Atlantis_the_Lost_Empire.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Дорога на Эльдорадо",
+    "sound": "cartoon/sound/The_Road_to_El_Dorado",
+    "image": "cartoon/img/The_Road_to_El_Dorado.jpg"
   },
   {
     "cat": "game",
