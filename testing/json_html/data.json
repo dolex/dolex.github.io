@@ -1,46 +1,42 @@
 [
     {
-      "category": [
-        {
         "id": 1,
         "titleCat": "Птицы",
         "imgCat": "https://dolex.github.io/testing/json_html/img-cat/bird.png"
-      },
-      {
+    },
+    {
         "id": 2,
         "titleCat": "Животные",
         "imgCat": "https://dolex.github.io/testing/json_html/img-cat/animal.png"
-      },
-      {
+    },
+    {
         "id": 3,
         "titleCat": "Корабли",
         "imgCat": "https://dolex.github.io/testing/json_html/img-cat/ship.png"
-      },
-      {
+    },
+    {
         "id": 4,
         "titleCat": "Насекомые",
         "imgCat": "https://dolex.github.io/testing/json_html/img-cat/insect.png"
-      },
-      {
+    },
+    {
         "id": 5,
         "titleCat": "Цветы",
         "imgCat": "https://dolex.github.io/testing/json_html/img-cat/flower.png"
-      },
-      {
+    },
+    {
         "id": 6,
         "titleCat": "Люди",
         "imgCat": "https://dolex.github.io/testing/json_html/img-cat/people.png"
-      },
-      {
+    },
+    {
         "id": 7,
         "titleCat": "Самолётики",
         "imgCat": "https://dolex.github.io/testing/json_html/img-cat/airplane.png"
-      },
-      {
+    },
+    {
         "id": 8,
         "titleCat": "Одежда",
         "imgCat": "https://dolex.github.io/testing/json_html/img-cat/clothes.png"
-      }
-      ]
     }
-  ]
+]
