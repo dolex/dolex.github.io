@@ -67,6 +67,24 @@
   },
   {
     "cat": "cartoon",
+    "title": "Аладдин (1992)",
+    "sound": "cartoon/sound/aladdin_arabskaya_noch",
+    "image": "cartoon/img/aladdin_arabskaya_noch.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Черепашки-ниндзя (1987)",
+    "sound": "cartoon/sound/teenage_mutant_ninja_turtles_opening_theme",
+    "image": "cartoon/img/teenage_mutant_ninja_turtles_opening_theme.jpg"
+  },
+  {
+    "cat": "cartoon",
+    "title": "Вуншпунш",
+    "sound": "cartoon/sound/wounchpounch",
+    "image": "cartoon/img/wounchpounch.jpg"
+  },
+  {
+    "cat": "cartoon",
     "title": "Унесенные призраками",
     "sound": "cartoon/sound/Spirited_Away",
     "image": "cartoon/img/Spirited_Away.jpg"
@@ -94,24 +112,6 @@
     "title": "Лило и Стич (2002)",
     "sound": "cartoon/sound/Lilo_Stitch",
     "image": "cartoon/img/Lilo_Stitch.jpg"
-  },
-  {
-    "cat": "cartoon",
-    "title": "Аладдин (1992)",
-    "sound": "cartoon/sound/aladdin_arabskaya_noch",
-    "image": "cartoon/img/aladdin_arabskaya_noch.jpg"
-  },
-  {
-    "cat": "cartoon",
-    "title": "Черепашки-ниндзя (1987)",
-    "sound": "cartoon/sound/teenage_mutant_ninja_turtles_opening_theme",
-    "image": "cartoon/img/teenage_mutant_ninja_turtles_opening_theme.jpg"
-  },
-  {
-    "cat": "cartoon",
-    "title": "Вуншпунш",
-    "sound": "cartoon/sound/wounchpounch",
-    "image": "cartoon/img/wounchpounch.jpg"
   },
   {
     "cat": "cartoon",
@@ -751,7 +751,7 @@
   },
   {
     "cat": "movie",
-    "title": "Смертельная битва 2: Истребление. Главная музыкальня тема",
+    "title": "Смертельная битва 2: Истребление. Главная тема",
     "sound": "movie/sound/Mortal_Kombat_2_Theme",
     "image": "movie/img/Mortal_Kombat_2_Theme.jpg"
   },
