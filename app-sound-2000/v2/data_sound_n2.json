@@ -36,6 +36,30 @@
     "image": "game/img/cs_1_6.jpg"
   },
   {
+    "cat": "game",
+    "title": "Final Fantasy 8: Balamb Gargen",
+    "sound": "game/sound/FF_8_Balamb_Gargen",
+    "image": "game/img/FF_8_Balamb_Gargen.jpg"
+  },
+  {
+    "cat": "game",
+    "title": "Oddworld: Abe's Oddysee",
+    "sound": "game/sound/Oddworld_Abe_Oddysee_Main_Theme",
+    "image": "game/img/Oddworld_Abe_Oddysee_Main_Theme.jpg"
+  },
+  {
+    "cat": "game",
+    "title": "Resident Evil 1: Комната сохранения",
+    "sound": "game/sound/Resident_Evil_1_Save_Room",
+    "image": "game/img/Resident_Evil_1_Save_Room.jpg"
+  },
+  {
+    "cat": "game",
+    "title": "Resident Evil 3: Nemesis. Главный Холл",
+    "sound": "game/sound/Resident_Evil_3_Nemesis_The_Front_Hall",
+    "image": "game/img/Resident_Evil_3_Nemesis_The_Front_Hall.jpg"
+  },
+  {
     "cat": "tv_series",
     "title": "Счастливы вместе",
     "sound": "tv_series/sound/happy_together",
