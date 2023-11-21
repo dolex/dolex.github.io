@@ -28,7 +28,11 @@
         "image": "https://dolex.github.io/json_html/origami/docs/bird/6/imgBg.png"
     },
     {
-        "title": "Попугайчик",
+        "title": "Утка",
         "image": "https://dolex.github.io/json_html/origami/docs/bird/7/imgBg.png"
+    },
+    {
+        "title": "Попугайчик",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/8/imgBg.png"
     }
 ]
