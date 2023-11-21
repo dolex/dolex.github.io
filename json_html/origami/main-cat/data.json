@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "titleCat": "Птицы",
+        "imgCat": "https://dolex.github.io/json_html/origami/main-cat/bird.png",
+        "linkCat": "bird"
+    },
+    {
+        "id": 2,
+        "titleCat": "Животные",
+        "imgCat": "https://dolex.github.io/json_html/origami/main-cat/animal.png",
+        "linkCat": "animal"
+    },
+    {
+        "id": 3,
+        "titleCat": "Корабли",
+        "imgCat": "https://dolex.github.io/json_html/origami/main-cat/ship.png",
+        "linkCat": "ship"
+    },
+    {
+        "id": 4,
+        "titleCat": "Насекомые",
+        "imgCat": "https://dolex.github.io/json_html/origami/main-cat/insect.png",
+        "linkCat": "insect"
+    },
+    {
+        "id": 5,
+        "titleCat": "Цветы",
+        "imgCat": "https://dolex.github.io/json_html/origami/main-cat/flower.png",
+        "linkCat": "flower"
+    },
+    {
+        "id": 6,
+        "titleCat": "Люди",
+        "imgCat": "https://dolex.github.io/json_html/origami/main-cat/people.png",
+        "linkCat": "people"
+    },
+    {
+        "id": 7,
+        "titleCat": "Самолётики",
+        "imgCat": "https://dolex.github.io/json_html/origami/main-cat/airplane.png",
+        "linkCat": "airplane"
+    },
+    {
+        "id": 8,
+        "titleCat": "Одежда",
+        "imgCat": "https://dolex.github.io/json_html/origami/main-cat/clothes.png",
+        "linkCat": "clothes"
+    }
+]

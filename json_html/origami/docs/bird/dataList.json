@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Журавль",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/0/imgBg.png"
+    },
+    {
+        "title": "Жёлтая птица (Чокобо)",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/1/imgBg.png"
+    },
+    {
+        "title": "Фламинго",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/2/imgBg.png"
+    },
+    {
+        "title": "Чайка",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/3/imgBg.png"
+    },
+    {
+        "title": "Птицы 5",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/4/imgBg.png"
+    },
+    {
+        "title": "Птицы 6",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/bird.png"
+    },
+    {
+        "title": "Птицы 7",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/bird.png"
+    },
+    {
+        "title": "Птицы 8",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/bird.png"
+    },
+    {
+        "title": "Птицы 9",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/bird.png"
+    }
+]
