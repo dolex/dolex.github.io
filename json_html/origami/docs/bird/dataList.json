@@ -34,5 +34,13 @@
     {
         "title": "Попугайчик",
         "image": "https://dolex.github.io/json_html/origami/docs/bird/8/imgBg.png"
+    },
+    {
+        "title": "Волнистый попугайчик",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/9/imgBg.png"
+    },
+    {
+        "title": "Попугай для начинающих",
+        "image": "https://dolex.github.io/json_html/origami/docs/bird/10/imgBg.png"
     }
 ]
