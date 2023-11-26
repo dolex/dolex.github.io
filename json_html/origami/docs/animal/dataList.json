@@ -18,5 +18,9 @@
     {
         "title": "Бык",
         "image": "https://dolex.github.io/json_html/origami/docs/animal/4/imgBg.png"
+    },
+    {
+        "title": "Козёл",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/5/imgBg.png"
     }
 ]
