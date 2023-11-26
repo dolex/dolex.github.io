@@ -2,5 +2,9 @@
     {
         "title": "Пиранья",
         "image": "https://dolex.github.io/json_html/origami/docs/animal/0/imgBg.png"
+    },
+    {
+        "title": "Морской конёк",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/1/imgBg.png"
     }
 ]
