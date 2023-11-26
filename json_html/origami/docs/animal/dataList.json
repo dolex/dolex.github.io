@@ -22,5 +22,9 @@
     {
         "title": "Козёл",
         "image": "https://dolex.github.io/json_html/origami/docs/animal/5/imgBg.png"
+    },
+    {
+        "title": "Лягушка",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/6/imgBg.png"
     }
 ]
