@@ -1,38 +1,30 @@
 [
     {
-        "title": "Животные 1",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
+        "title": "Пиранья",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/0/imgBg.png"
     },
     {
-        "title": "Животные 2",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
+        "title": "Морской конёк",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/1/imgBg.png"
     },
     {
-        "title": "Животные 3",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
+        "title": "Кошка. Схема от Roman Diaz",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/2/imgBg.png"
     },
     {
-        "title": "Животные 4",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
+        "title": "Бык",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/3/imgBg.png"
     },
     {
-        "title": "Животные 5",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
+        "title": "Бык",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/4/imgBg.png"
     },
     {
-        "title": "Животные 6",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
+        "title": "Козёл",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/5/imgBg.png"
     },
     {
-        "title": "Животные 7",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    },
-    {
-        "title": "Животные 8",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    },
-    {
-        "title": "Животные 9",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
+        "title": "Лягушка",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/6/imgBg.png"
     }
 ]
