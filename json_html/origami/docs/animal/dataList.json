@@ -30,5 +30,9 @@
     {
         "title": "Лягушка",
         "image": "https://dolex.github.io/json_html/origami/docs/animal/7/imgBg.png"
+    },
+    {
+        "title": "Апатозавр",
+        "image": "https://dolex.github.io/json_html/origami/docs/animal/8/imgBg.png"
     }
 ]
