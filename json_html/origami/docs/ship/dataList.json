@@ -2,5 +2,8 @@
     {
         "title": "Кораблик",
         "image": "https://dolex.github.io/json_html/origami/docs/ship/0/imgBg.png"
+    },{
+        "title": "Кораблик из бумаги",
+        "image": "https://dolex.github.io/json_html/origami/docs/ship/1/imgBg.png"
     }
 ]
