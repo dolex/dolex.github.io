@@ -10,5 +10,9 @@
   {
     "title": "Кораблик-каноэ",
     "image": "https://dolex.github.io/json_html/origami/docs/ship/2/imgBg.png"
+  },
+  {
+    "title": "Парусник",
+    "image": "https://dolex.github.io/json_html/origami/docs/ship/3/imgBg.png"
   }
 ]
