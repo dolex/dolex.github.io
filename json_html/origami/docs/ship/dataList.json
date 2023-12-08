@@ -14,5 +14,9 @@
   {
     "title": "Парусник",
     "image": "https://dolex.github.io/json_html/origami/docs/ship/3/imgBg.png"
+  },
+  {
+    "title": "Пароход с двумя трубами",
+    "image": "https://dolex.github.io/json_html/origami/docs/ship/4/imgBg.png"
   }
 ]
