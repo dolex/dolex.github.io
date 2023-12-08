@@ -18,5 +18,9 @@
   {
     "title": "Пароход с двумя трубами",
     "image": "https://dolex.github.io/json_html/origami/docs/ship/4/imgBg.png"
+  },
+  {
+    "title": "Лодочка",
+    "image": "https://dolex.github.io/json_html/origami/docs/ship/5/imgBg.jpg"
   }
 ]
