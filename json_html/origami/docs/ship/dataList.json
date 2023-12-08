@@ -22,5 +22,9 @@
   {
     "title": "Лодочка",
     "image": "https://dolex.github.io/json_html/origami/docs/ship/5/imgBg.jpg"
+  },
+  {
+    "title": "Каноэ",
+    "image": "https://dolex.github.io/json_html/origami/docs/ship/6/imgBg.jpg"
   }
 ]
