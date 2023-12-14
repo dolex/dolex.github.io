@@ -1,6 +1,10 @@
 [
-    {
-        "title": "Примула",
-        "image": "https://dolex.github.io/json_html/origami/docs/flower/0/imgBg.jpg"
-    }
+  {
+    "title": "Примула",
+    "image": "https://dolex.github.io/json_html/origami/docs/flower/0/imgBg.jpg"
+  },
+  {
+    "title": "Колокольчик",
+    "image": "https://dolex.github.io/json_html/origami/docs/flower/1/imgBg.jpg"
+  }
 ]
