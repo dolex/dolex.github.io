@@ -18,5 +18,9 @@
   {
     "title": "Роза",
     "image": "https://dolex.github.io/json_html/origami/docs/flower/4/imgBg.jpg"
+  },
+  {
+    "title": "Клевер",
+    "image": "https://dolex.github.io/json_html/origami/docs/flower/5/imgBg.jpg"
   }
 ]
