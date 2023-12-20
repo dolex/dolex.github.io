@@ -1,0 +1,40 @@
+{
+  "watch_list": [
+    {
+      "title": "Honor Band 8",
+      "author": "Author: anzaga",
+      "img": "img/skin_1.jpg",
+      "bin": "bin/skin_1.hwt"
+    },
+    {
+      "title": "Digital AOD",
+      "author": "Author: Neal01",
+      "img": "img/skin_2.png",
+      "bin": "bin/skin_2.hwt"
+    },
+    {
+      "title": "Thin AOD",
+      "author": "Author: Neal01",
+      "img": "img/skin_3.png",
+      "bin": "bin/skin_3.hwt"
+    },
+    {
+      "title": "Medium AOD",
+      "author": "Author: Neal01",
+      "img": "img/skin_4.png",
+      "bin": "bin/skin_4.hwt"
+    },
+    {
+      "title": "Analog AOD",
+      "author": "Author: Neal01",
+      "img": "img/skin_5.png",
+      "bin": "bin/skin_5.hwt"
+    },
+    {
+      "title": "ONike",
+      "author": "Author: liv3",
+      "img": "img/skin_6.png",
+      "bin": "bin/skin_6.hwt"
+    }
+  ]
+}
