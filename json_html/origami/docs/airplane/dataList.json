@@ -1,38 +1,42 @@
 [
-    {
-        "title": "Самолеты 1",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    },
-    {
-        "title": "Самолеты 2",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    },
-    {
-        "title": "Самолеты 3",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    },
-    {
-        "title": "Самолеты 4",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    },
-    {
-        "title": "Самолеты 5",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    },
-    {
-        "title": "Самолеты 6",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    },
-    {
-        "title": "Самолеты 7",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    },
-    {
-        "title": "Самолеты 8",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    },
-    {
-        "title": "Самолеты 9",
-        "image": "https://dolex.github.io/testing/json_html/child/bird/bird.png"
-    }
+  {
+    "title": "Самолёт 1",
+    "image": "https://dolex.github.io/json_html/origami/docs/airplane/0/imgBg.jpg"
+  },
+  {
+    "title": "Самолёт 2",
+    "image": "https://dolex.github.io/json_html/origami/docs/airplane/1/imgBg.jpg"
+  },
+  {
+    "title": "Самолёт Ястреб",
+    "image": "https://dolex.github.io/json_html/origami/docs/airplane/2/imgBg.jpg"
+  },
+  {
+    "title": "Самолёт 3",
+    "image": "https://dolex.github.io/json_html/origami/docs/airplane/3/imgBg.jpg"
+  },
+  {
+    "title": "Самолёт Игла",
+    "image": "https://dolex.github.io/json_html/origami/docs/airplane/4/imgBg.jpg"
+  },
+  {
+    "title": "Планер",
+    "image": "https://dolex.github.io/json_html/origami/docs/airplane/5/imgBg.jpg"
+  },
+  {
+    "title": "Планер",
+    "image": "https://dolex.github.io/json_html/origami/docs/airplane/6/imgBg.jpg"
+  },
+  {
+    "title": "Истребитель",
+    "image": "https://dolex.github.io/json_html/origami/docs/airplane/7/imgBg.jpg"
+  },
+  {
+    "title": "Истребитель",
+    "image": "https://dolex.github.io/json_html/origami/docs/airplane/8/imgBg.jpg"
+  },
+  {
+    "title": "Самолётик",
+    "image": "https://dolex.github.io/json_html/origami/docs/airplane/9/imgBg.jpg"
+  }
 ]
