@@ -2,5 +2,37 @@
   {
     "title": "Юбка",
     "image": "https://dolex.github.io/json_html/origami/docs/clothes/0/imgBg.jpg"
+  },
+  {
+    "title": "Шорты",
+    "image": "https://dolex.github.io/json_html/origami/docs/clothes/1/imgBg.jpg"
+  },
+  {
+    "title": "Туфелька",
+    "image": "https://dolex.github.io/json_html/origami/docs/clothes/2/imgBg.jpg"
+  },
+  {
+    "title": "Очки",
+    "image": "https://dolex.github.io/json_html/origami/docs/clothes/3/imgBg.jpg"
+  },
+  {
+    "title": "Спортивный костюм",
+    "image": "https://dolex.github.io/json_html/origami/docs/clothes/4/imgBg.jpg"
+  },
+  {
+    "title": "Свадебное платье",
+    "image": "https://dolex.github.io/json_html/origami/docs/clothes/5/imgBg.jpg"
+  },
+  {
+    "title": "Самурайский шлем",
+    "image": "https://dolex.github.io/json_html/origami/docs/clothes/6/imgBg.jpg"
+  },
+  {
+    "title": "Рюкзак",
+    "image": "https://dolex.github.io/json_html/origami/docs/clothes/7/imgBg.jpg"
+  },
+  {
+    "title": "Рубашка",
+    "image": "https://dolex.github.io/json_html/origami/docs/clothes/8/imgBg.jpg"
   }
 ]
