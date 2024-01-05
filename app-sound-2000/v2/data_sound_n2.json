@@ -1048,5 +1048,41 @@
     "title": "Титаник (отрывок главной песни)",
     "sound": "movie/sound/titanic",
     "image": "movie/img/titanic.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Матрица",
+    "sound": "movie/sound/The_Matrix_Soundtrack_Spybreak",
+    "image": "movie/img/The_Matrix_Soundtrack_Spybreak.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Матрица: Перезагрузка",
+    "sound": "movie/sound/the_matrix_reloaded",
+    "image": "movie/img/the_matrix_reloaded.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Гладиатор",
+    "sound": "movie/sound/Gladiator",
+    "image": "movie/img/Gladiator.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Реквием по мечте",
+    "sound": "movie/sound/Requiem_For_A_Dream",
+    "image": "movie/img/Requiem_For_A_Dream.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Брат 1",
+    "sound": "movie/sound/Brat_1",
+    "image": "movie/img/Brat_1.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Брат 2",
+    "sound": "movie/sound/Brat_2",
+    "image": "movie/img/Brat_2.jpg"
   }
 ]
