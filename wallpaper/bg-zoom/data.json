@@ -5,6 +5,126 @@
       "author": "author",
       "big": "img/big/space_1.jpg",
       "min": "img/min/space_1.jpg"
+    },
+    {
+      "title": "Man Planet",
+      "author": "author",
+      "big": "img/big/space_2.jpg",
+      "min": "img/min/space_2.jpg"
+    },
+    {
+      "title": "Galaxy Cosmic phenomena",
+      "author": "author",
+      "big": "img/big/space_3.jpg",
+      "min": "img/min/space_3.jpg"
+    },
+    {
+      "title": "AG Carinae Hubble Space Telescope",
+      "author": "author",
+      "big": "img/big/space_4.jpg",
+      "min": "img/min/space_4.jpg"
+    },
+    {
+      "title": "Earth Sunrise",
+      "author": "author",
+      "big": "img/big/space_5.jpg",
+      "min": "img/min/space_5.jpg"
+    },
+    {
+      "title": "Earth Sunrise",
+      "author": "author",
+      "big": "img/big/space_6.jpg",
+      "min": "img/min/space_6.jpg"
+    },
+    {
+      "title": "Earth, Orbit",
+      "author": "author",
+      "big": "img/big/space_6.jpg",
+      "min": "img/min/space_6.jpg"
+    },
+    {
+      "title": "Saturn, Solar system",
+      "author": "author",
+      "big": "img/big/space_7.jpg",
+      "min": "img/min/space_7.jpg"
+    },
+    {
+      "title": "Astronaut, Planets",
+      "author": "author",
+      "big": "img/big/space_8.jpg",
+      "min": "img/min/space_8.jpg"
+    },
+    {
+      "title": "Gargantua black hole",
+      "author": "author",
+      "big": "img/big/space_9.jpg",
+      "min": "img/min/space_9.jpg"
+    },
+    {
+      "title": "Galaxy, Cosmic",
+      "author": "author",
+      "big": "img/big/space_10.jpg",
+      "min": "img/min/space_10.jpg"
+    },
+    {
+      "title": "Spiral Galaxy",
+      "author": "author",
+      "big": "img/big/space_11.jpg",
+      "min": "img/min/space_11.jpg"
+    },
+    {
+      "title": "Moon, 3D Render",
+      "author": "author",
+      "big": "img/big/space_12.jpg",
+      "min": "img/min/space_12.jpg"
+    },
+    {
+      "title": "Planet Earth",
+      "author": "author",
+      "big": "img/big/space_13.jpg",
+      "min": "img/min/space_13.jpg"
+    },
+    {
+      "title": "The Lion Nebula",
+      "author": "author",
+      "big": "img/big/space_14.jpg",
+      "min": "img/min/space_14.jpg"
+    },
+    {
+      "title": "Stars in the open space",
+      "author": "author",
+      "big": "img/big/space_15.jpg",
+      "min": "img/min/space_15.jpg"
+    },
+    {
+      "title": "Nebula",
+      "author": "author",
+      "big": "img/big/space_16.jpg",
+      "min": "img/min/space_16.jpg"
+    },
+    {
+      "title": "Planet above clouds",
+      "author": "author",
+      "big": "img/big/space_17.jpg",
+      "min": "img/min/space_17.jpg"
+    },
+    {
+      "title": "Sun Solar system",
+      "author": "author",
+      "big": "img/big/space_18.jpg",
+      "min": "img/min/space_18.jpg"
+    },
+    {
+      "title": "Milky Way Galaxy",
+      "author": "author",
+      "big": "img/big/space_19.jpg",
+      "min": "img/min/space_19.jpg"
+    },
+    {
+      "title": "Blood Moon",
+      "author": "author",
+      "big": "img/big/space_20.jpg",
+      "min": "img/min/space_20.jpg"
     }
   ]
 }
