@@ -119,6 +119,90 @@
       "author": "author",
       "big": "img/big/space_20.jpg",
       "min": "img/min/space_20.jpg"
+    },
+    {
+      "title": "Planet Earth Orbit",
+      "author": "author",
+      "big": "img/big/space_21.jpg",
+      "min": "img/min/space_21.jpg"
+    },
+    {
+      "title": "Solarus red planet",
+      "author": "author",
+      "big": "img/big/space_22.jpg",
+      "min": "img/min/space_22.jpg"
+    },
+    {
+      "title": "Planet Frozen",
+      "author": "author",
+      "big": "img/big/space_23.jpg",
+      "min": "img/min/space_23.jpg"
+    },
+    {
+      "title": "Mars",
+      "author": "author",
+      "big": "img/big/space_24.jpg",
+      "min": "img/min/space_24.jpg"
+    },
+    {
+      "title": "Exoplanet",
+      "author": "author",
+      "big": "img/big/space_25.jpg",
+      "min": "img/min/space_25.jpg"
+    },
+    {
+      "title": "Nebula. Deep Space",
+      "author": "author",
+      "big": "img/big/space_26.jpg",
+      "min": "img/min/space_26.jpg"
+    },
+    {
+      "title": "Bubble Nebula. NGC 7635",
+      "author": "author",
+      "big": "img/big/space_27.jpg",
+      "min": "img/min/space_27.jpg"
+    },
+    {
+      "title": "Planets Colorful",
+      "author": "author",
+      "big": "img/big/space_28.jpg",
+      "min": "img/min/space_28.jpg"
+    },
+    {
+      "title": "Spiral galaxy",
+      "author": "author",
+      "big": "img/big/space_29.jpg",
+      "min": "img/min/space_29.jpg"
+    },
+    {
+      "title": "Pink clouds",
+      "author": "author",
+      "big": "img/big/space_30.jpg",
+      "min": "img/min/space_30.jpg"
+    },
+    {
+      "title": "Supernova Deep space",
+      "author": "author",
+      "big": "img/big/space_31.jpg",
+      "min": "img/min/space_31.jpg"
+    },
+    {
+      "title": "Nebulae Cosmic",
+      "author": "author",
+      "big": "img/big/space_32.jpg",
+      "min": "img/min/space_32.jpg"
+    },
+    {
+      "title": "Helix Nebula Constellation",
+      "author": "author",
+      "big": "img/big/space_33.jpg",
+      "min": "img/min/space_33.jpg"
+    },
+    {
+      "title": "Astronaut",
+      "author": "author",
+      "big": "img/big/space_34.jpg",
+      "min": "img/min/space_34.jpg"
     }
   ]
 }
