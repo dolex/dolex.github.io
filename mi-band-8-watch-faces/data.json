@@ -307,6 +307,55 @@
       "author": "neux",
       "img": "img/mi_band_8_43.png",
       "wf": "bin/mi_band_8_43.bin"
+    },
+    {
+      "id": 44,
+      "title": "Zelda",
+      "author": "MagiicMiind",
+      "img": "img/mi_band_8_44.webp",
+      "wf": "bin/mi_band_8_44.bin"
+    },
+    {
+      "id": 45,
+      "title": "Juxtaposition Hazko Mod",
+      "author": "HaZk0l0k0",
+      "img": "img/mi_band_8_45.webp",
+      "wf": "bin/mi_band_8_45.bin"
+    },
+    {
+      "id": 46,
+      "title": "First All",
+      "author": "leandro1988n",
+      "img": "img/mi_band_8_46.webp",
+      "wf": "bin/mi_band_8_46.bin"
+    },
+    {
+      "id": 47,
+      "title": "Simple Necessities",
+      "author": "nerdpersonthing",
+      "img": "img/mi_band_8_47.webp",
+      "wf": "bin/mi_band_8_47.bin"
+    },
+    {
+      "id": 48,
+      "title": "Contour Pro (EN)",
+      "author": "Ml1nker",
+      "img": "img/mi_band_8_48.webp",
+      "wf": "bin/mi_band_8_48.bin"
+    },
+    {
+      "id": 49,
+      "title": "Ubuntu Style",
+      "author": "neux",
+      "img": "img/mi_band_8_49.webp",
+      "wf": "bin/mi_band_8_49.bin"
+    },
+    {
+      "id": 50,
+      "title": "Ubuntu Style",
+      "author": "neux",
+      "img": "img/mi_band_8_50.webp",
+      "wf": "bin/mi_band_8_50.bin"
     }
   ]
 }
