@@ -1045,6 +1045,12 @@
   },
   {
     "cat": "movie",
+    "title": "Властелин колец: Возвращение короля",
+    "sound": "movie/sound/The_Lord_of_the_Rings_The_Return_of_the_King",
+    "image": "movie/img/The_Lord_of_the_Rings_The_Return_of_the_King.jpg"
+  },
+  {
+    "cat": "movie",
     "title": "Титаник (отрывок главной песни)",
     "sound": "movie/sound/titanic",
     "image": "movie/img/titanic.jpg"
@@ -1084,5 +1090,17 @@
     "title": "Брат 2",
     "sound": "movie/sound/Brat_2",
     "image": "movie/img/Brat_2.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Форсаж 1",
+    "sound": "movie/sound/The_Fast_and_the_Furious",
+    "image": "movie/img/The_Fast_and_the_Furious.jpg"
+  },
+  {
+    "cat": "movie",
+    "title": "Очень страшное кино",
+    "sound": "movie/sound/Scary_Movie_1",
+    "image": "movie/img/Scary_Movie_1.jpg"
   }
 ]
