@@ -3,42 +3,42 @@
     "cat": "ambient",
     "title": "Ambient Light",
     "sound": "sound/ambient/ambient_light",
-    "image": "ambient/img_cat.png"
+    "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
     "title": "Beach Serenity",
     "sound": "sound/ambient/beach_serenity",
-    "image": "ambient/img_cat.png"
+    "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
     "title": "By The Fire",
     "sound": "sound/ambient/by_the_fire",
-    "image": "ambient/img_cat.png"
+    "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
     "title": "Calmness",
     "sound": "sound/ambient/calmness",
-    "image": "ambient/img_cat.png"
+    "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
     "title": "Cinelax",
     "sound": "sound/ambient/cinelax",
-    "image": "ambient/img_cat.png"
+    "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
     "title": "Deep Meditation",
     "sound": "sound/ambient/deep_meditation",
-    "image": "ambient/img_cat.png"
+    "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
     "title": "Deeper Meaning",
     "sound": "sound/ambient/deeper_meaning",
-    "image": "ambient/img_cat.png"
+    "image": "sound/ambient/img_cat.png"
   }
 ]
