@@ -102,6 +102,12 @@
     "image": "sound/ambient/img_cat.png"
   },
   {
+    "cat": "ambient",
+    "title": "Smooth Meditation Study Beat Instrumental",
+    "sound": "sound/ambient/Smooth_Meditation_Study_Beat_Instrumental",
+    "image": "sound/ambient/img_cat.png"
+  },
+  {
     "cat": "forest",
     "title": "Forest 1",
     "sound": "sound/forest/forest_1",
