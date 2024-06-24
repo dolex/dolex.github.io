@@ -176,26 +176,26 @@
   {
     "cat": "ocean_wave",
     "title": "Ocean 1",
-    "sound": "sound/ocean/ocean_1",
-    "image": "sound/ocean/img_cat.png"
+    "sound": "sound/ocean_wave/ocean_1",
+    "image": "sound/ocean_wave/img_cat.png"
   },
   {
     "cat": "ocean_wave",
     "title": "Ocean 2",
-    "sound": "sound/ocean/ocean_2",
-    "image": "sound/ocean/img_cat.png"
+    "sound": "sound/ocean_wave/ocean_2",
+    "image": "sound/ocean_wave/img_cat.png"
   },
   {
     "cat": "ocean_wave",
     "title": "Ocean 3",
-    "sound": "sound/ocean/ocean_3",
-    "image": "sound/ocean/img_cat.png"
+    "sound": "sound/ocean_wave/ocean_3",
+    "image": "sound/ocean_wave/img_cat.png"
   },
   {
     "cat": "ocean_wave",
-    "title": "Ocean 3",
-    "sound": "sound/ocean/ocean_3",
-    "image": "sound/ocean/img_cat.png"
+    "title": "Ocean 4",
+    "sound": "sound/ocean_wave/ocean_4",
+    "image": "sound/ocean_wave/img_cat.png"
   },
   {
     "cat": "rain",
