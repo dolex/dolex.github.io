@@ -262,5 +262,29 @@
     "title": "White Noise 1 (60 min)",
     "sound": "sound/white_noise/White_Noise_60min_1",
     "image": "sound/white_noise/img_cat.png"
+  },
+  {
+    "cat": "white_noise",
+    "title": "White Noise 2 (60 min)",
+    "sound": "sound/white_noise/White_Noise_60min_2",
+    "image": "sound/white_noise/img_cat.png"
+  },
+  {
+    "cat": "white_noise",
+    "title": "White Noise 3 (60 min)",
+    "sound": "sound/white_noise/White_Noise_60min_3",
+    "image": "sound/white_noise/img_cat.png"
+  },
+  {
+    "cat": "white_noise",
+    "title": "White Noise 4 (60 min)",
+    "sound": "sound/white_noise/White_Noise_60min_4",
+    "image": "sound/white_noise/img_cat.png"
+  },
+  {
+    "cat": "white_noise",
+    "title": "White Noise 5 (60 min)",
+    "sound": "sound/white_noise/White_Noise_60min_5",
+    "image": "sound/white_noise/img_cat.png"
   }
 ]
