@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>Minecraft</title>
+    <title-cn>我的世界</title-cn>
+    <author>依栏听雨</author>
+    <designer>依栏听雨</designer>
+    <screen>HWHD03</screen>
+    <version>4.1.1</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"zh_CN":"Minecraft风格表盘"}</briefinfo>
+</HwTheme>

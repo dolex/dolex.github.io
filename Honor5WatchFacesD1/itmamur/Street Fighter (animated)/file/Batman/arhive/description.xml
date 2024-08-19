@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>telltimequickly</title>
+    <title-cn>快说几点-蝙蝠侠</title-cn>
+    <author>幻川</author>
+    <designer>幻川</designer>
+    <screen>HWHD03</screen>
+    <version>4.1.2</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"zh_CN":"幻川制作感谢米坛坛长kindyear的教程，memo的制作"}</briefinfo>
+</HwTheme>

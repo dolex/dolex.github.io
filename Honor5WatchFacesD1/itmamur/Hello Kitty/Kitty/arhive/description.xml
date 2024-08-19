@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>Kitty</title>
+    <title-cn>猫咪</title-cn>
+    <author>Akram Elsaiegh</author>
+    <designer>Akram Elsaiegh</designer>
+    <screen>HWHD03</screen>
+    <version>4.1.1</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"en_US":"It's for cats lovers and for who has the pink band."}</briefinfo>
+</HwTheme>
