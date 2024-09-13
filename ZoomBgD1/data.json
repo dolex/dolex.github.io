@@ -1,0 +1,29 @@
+{
+  "bg_zoom": [
+    {
+      "title": "Rest Zone",
+      "big": "big/bg_big_1.png",
+      "min": "min/bg_min_1.png"
+    },
+    {
+      "title": "Pool Party",
+      "big": "big/bg_big_2.png",
+      "min": "min/bg_min_2.png"
+    },
+    {
+      "title": "Destination Paris",
+      "big": "big/bg_big_3.png",
+      "min": "min/bg_min_3.png"
+    },
+    {
+      "title": "Field and Trees",
+      "big": "big/bg_big_4.png",
+      "min": "min/bg_min_4.png"
+    },
+    {
+      "title": "Night Beijing",
+      "big": "big/bg_big_5.png",
+      "min": "min/bg_min_5.png"
+    }
+  ]
+}
