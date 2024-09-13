@@ -24,6 +24,81 @@
       "title": "Night Beijing",
       "big": "big/bg_big_5.png",
       "min": "min/bg_min_5.png"
+    },
+    {
+      "title": "Flowers and Mountain",
+      "big": "big/bg_big_6.png",
+      "min": "min/bg_min_6.png"
+    },
+    {
+      "title": "Sunny Room",
+      "big": "big/bg_big_7.png",
+      "min": "min/bg_min_7.png"
+    },
+    {
+      "title": "Eiffel Tower",
+      "big": "big/bg_big_8.png",
+      "min": "min/bg_min_8.png"
+    },
+    {
+      "title": "Field Yellow Flowers",
+      "big": "big/bg_big_9.png",
+      "min": "min/bg_min_9.png"
+    },
+    {
+      "title": "Golden Gate",
+      "big": "big/bg_big_10.png",
+      "min": "min/bg_min_10.png"
+    },
+    {
+      "title": "Miami City",
+      "big": "big/bg_big_11.png",
+      "min": "min/bg_min_11.png"
+    },
+    {
+      "title": "Palm and Beach",
+      "big": "big/bg_big_12.png",
+      "min": "min/bg_min_12.png"
+    },
+    {
+      "title": "Palm Trees",
+      "big": "big/bg_big_13.png",
+      "min": "min/bg_min_13.png"
+    },
+    {
+      "title": "Winter Forest",
+      "big": "big/bg_big_14.png",
+      "min": "min/bg_min_14.png"
+    },
+    {
+      "title": "Vacation",
+      "big": "big/bg_big_15.png",
+      "min": "min/bg_min_15.png"
+    },
+    {
+      "title": "Sea and Purple Sky",
+      "big": "big/bg_big_16.png",
+      "min": "min/bg_min_16.png"
+    },
+    {
+      "title": "Siesta in Spain",
+      "big": "big/bg_big_17.png",
+      "min": "min/bg_min_17.png"
+    },
+    {
+      "title": "Office Space",
+      "big": "big/bg_big_18.png",
+      "min": "min/bg_min_18.png"
+    },
+    {
+      "title": "Desert Scene",
+      "big": "big/bg_big_19.png",
+      "min": "min/bg_min_19.png"
+    },
+    {
+      "title": "Gardens Trocadero",
+      "big": "big/bg_big_20.png",
+      "min": "min/bg_min_20.png"
     }
   ]
 }
