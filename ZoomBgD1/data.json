@@ -99,6 +99,31 @@
       "title": "Gardens Trocadero",
       "big": "big/bg_big_20.png",
       "min": "min/bg_min_20.png"
-    }
+    },
+    {
+      "title": "Tropical Foliage",
+      "big": "big/bg_big_21.png",
+      "min": "min/bg_min_21.png"
+    },
+    {
+      "title": "Mountains in Switzerland",
+      "big": "big/bg_big_22.png",
+      "min": "min/bg_min_22.png"
+    },
+    {
+      "title": "Vector golden linear",
+      "big": "big/bg_big_23.png",
+      "min": "min/bg_min_23.png"
+    },
+    {
+      "title": "Stakkholtsgja canyon, Iceland",
+      "big": "big/bg_big_24.png",
+      "min": "min/bg_min_24.png"
+    },
+    {
+      "title": "Lower Antelope Canyon",
+      "big": "big/bg_big_25.png",
+      "min": "min/bg_min_25.png"
+    } 
   ]
 }
