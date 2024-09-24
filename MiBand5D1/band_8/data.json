@@ -1,112 +1,202 @@
 {
   "watch_list": [
     {
-      "title": "MONWATCH",
-      "author": "Author: waldo1234",
-      "img": "img/skin_1.webp",
-      "bin": "bin/skin_1.bin"
+      "title": "WATCH 1 mi band 9",
+      "author": "Author",
+      "img": "1/1.webp",
+      "bin": "1/1.bin"
     },
     {
-      "title": "Raiden Shogun (Genshin Impact)",
+      "title": "WATCH 2 mi band 9",
+      "author": "Author",
+      "img": "2/2.webp",
+      "bin": "2/2.bin"
+    },
+    {
+      "title": "WATCH 3 mi band 9",
       "author": "Author: neux",
-      "img": "img/skin_2.gif",
-      "bin": "bin/skin_2.bin"
+      "img": "3/3.webp",
+      "bin": "3/3.bin"
     },
     {
-      "title": "Broken Screen (Prank)",
-      "author": "Author: neux",
-      "img": "img/skin_3.webp",
-      "bin": "bin/skin_3.bin"
+      "title": "WATCH 4 mi band 9",
+      "author": "Author",
+      "img": "4/4.gif",
+      "bin": "4/4.rpk"
     },
     {
-      "title": "Modern UI",
-      "author": "Author: neux",
-      "img": "img/skin_4.webp",
-      "bin": "bin/skin_4.bin"
+      "title": "WATCH 5 mi band 9",
+      "author": "Author",
+      "img": "5/5.webp",
+      "bin": "5/5.bin"
     },
     {
-      "title": "Atatürk",
-      "author": "Author: neux",
-      "img": "img/skin_5.webp",
-      "bin": "bin/skin_5.bin"
+      "title": "WATCH 6 mi band 9",
+      "author": "Author",
+      "img": "6/6.webp",
+      "bin": "6/6.bin"
     },
     {
-      "title": "Ubuntu Style",
-      "author": "Author: neux",
-      "img": "img/skin_6.webp",
-      "bin": "bin/skin_6.bin"
+      "title": "WATCH 7 mi band 9",
+      "author": "Author",
+      "img": "7/7.webp",
+      "bin": "7/7.bin"
     },
     {
-      "title": "MiWin8",
-      "author": "Author: neux",
-      "img": "img/skin_7.webp",
-      "bin": "bin/skin_7.bin"
+      "title": "WATCH 8 mi band 9",
+      "author": "Author",
+      "img": "8/8.webp",
+      "bin": "8/8.rpk"
     },
     {
-      "title": "Daisy [AOD]",
-      "author": "Author: neux",
-      "img": "img/skin_8.webp",
-      "bin": "bin/skin_8.bin"
+      "title": "WATCH 9 mi band 9",
+      "author": "Author",
+      "img": "9/9.webp",
+      "bin": "9/9.rpk"
     },
     {
-      "title": "Anime Girl [AOD]",
-      "author": "Author: neux",
-      "img": "img/skin_9.webp",
-      "bin": "bin/skin_9.bin"
+      "title": "WATCH 10 mi band 9",
+      "author": "Author",
+      "img": "10/10.webp",
+      "bin": "10/10.rpk"
     },
     {
-      "title": "Cat Flopping [Animated & AOD]",
-      "author": "Author: neux",
-      "img": "img/skin_10.webp",
-      "bin": "bin/skin_10.bin"
+      "title": "WATCH 11 mi band 9",
+      "author": "Author",
+      "img": "11/11.webp",
+      "bin": "11/11.bin"
     },
     {
-      "title": "Circle 2",
-      "author": "Author: magnim",
-      "img": "img/skin_11.webp",
-      "bin": "bin/skin_11.bin"
+      "title": "WATCH 12 mi band 9",
+      "author": "Author",
+      "img": "12/12.webp",
+      "bin": "12/12.bin"
     },
     {
-      "title": "Analog 2",
-      "author": "Author: kvdkvd",
-      "img": "img/skin_12.webp",
-      "bin": "bin/skin_12.bin"
+      "title": "WATCH 13 mi band 9",
+      "author": "Author",
+      "img": "13/13.webp",
+      "bin": "13/13.bin"
     },
     {
-      "title": "Real Madrid Digital",
-      "author": "Author: HaZk0l0k0",
-      "img": "img/skin_13.webp",
-      "bin": "bin/skin_13.bin"
+      "title": "WATCH 14 mi band 9",
+      "author": "Author",
+      "img": "14/14.png",
+      "bin": "14/14.bin"
     },
     {
-      "title": "Led Time",
-      "author": "Author: Merc4tor",
-      "img": "img/skin_14.webp",
-      "bin": "bin/skin_14.bin"
+      "title": "WATCH 15 mi band 9",
+      "author": "Author",
+      "img": "15/15.png",
+      "bin": "15/15.bin"
     },
     {
-      "title": "Simple",
-      "author": "Author: djoleee",
-      "img": "img/skin_15.png",
-      "bin": "bin/skin_15.bin"
+      "title": "WATCH 16 mi band 9",
+      "author": "Author:",
+      "img": "16/16.png",
+      "bin": "16/16.bin"
     },
     {
-      "title": "Analog",
-      "author": "Author: kvdkvd",
-      "img": "img/skin_16.webp",
-      "bin": "bin/skin_16.bin"
+      "title": "WATCH 17 mi band 9",
+      "author": "Author:",
+      "img": "17/17.png",
+      "bin": "17/17.bin"
     },
     {
-      "title": "ninomae inanis",
-      "author": "Author: noonegrata",
-      "img": "img/skin_17.jpg",
-      "bin": "bin/skin_17.bin"
+      "title": "WATCH 18 mi band 9",
+      "author": "Author:",
+      "img": "18/18.png",
+      "bin": "18/18.bin"
     },
     {
-      "title": "First",
-      "author": "Author: kvdkvd",
-      "img": "img/skin_18.webp",
-      "bin": "bin/skin_18.bin"
+      "title": "WATCH 19 mi band 9",
+      "author": "Author:",
+      "img": "19/19.jpg",
+      "bin": "19/19.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: only_USAR",
+      "img": "img/mi_band5_skin_1.png",
+      "bin": "bin/mi_band5_skin_1.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: only_USAR",
+      "img": "img/mi_band5_skin_2.png",
+      "bin": "bin/mi_band5_skin_2.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: only_USAR",
+      "img": "img/mi_band5_skin_3.png",
+      "bin": "bin/mi_band5_skin_3.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: only_USAR",
+      "img": "img/mi_band5_skin_4.png",
+      "bin": "bin/mi_band5_skin_4.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: sosaaleph",
+      "img": "img/mi_band5_skin_5.gif",
+      "bin": "bin/mi_band5_skin_5.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: sosaaleph",
+      "img": "img/mi_band5_skin_6.gif",
+      "bin": "bin/mi_band5_skin_6.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: Selim57",
+      "img": "img/mi_band5_skin_7.png",
+      "bin": "bin/mi_band5_skin_7.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: Selim57",
+      "img": "img/mi_band5_skin_8.png",
+      "bin": "bin/mi_band5_skin_8.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: Selim57",
+      "img": "img/mi_band5_skin_9.gif",
+      "bin": "bin/mi_band5_skin_9.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: jcmastersd",
+      "img": "img/mi_band5_skin_10.gif",
+      "bin": "bin/mi_band5_skin_10.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: jcmastersd",
+      "img": "img/mi_band5_skin_11.gif",
+      "bin": "bin/mi_band5_skin_11.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: jcmastersd",
+      "img": "img/mi_band5_skin_12.gif",
+      "bin": "bin/mi_band5_skin_12.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: jcmastersd",
+      "img": "img/mi_band5_skin_13.gif",
+      "bin": "bin/mi_band5_skin_13.bin"
+    },
+    {
+      "title": "Mi Band 5",
+      "author": "Author: Ekosw",
+      "img": "img/mi_band5_skin_14.gif",
+      "bin": "bin/mi_band5_skin_14.bin"
     }
   ]
 }
