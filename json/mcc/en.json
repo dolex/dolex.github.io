@@ -1,6 +1,7 @@
 {
   "title_main_screen_top": "MCC-коды",
   "title_sub_screen_top": "Категории MCC-кодов",
+  "main_banner": "https://dolex.github.io/json/mcc/main_banner.png",
   "main_category": [
     {
       "postID": "what_mcc_info_screen",
