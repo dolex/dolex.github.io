@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "category": "animals",
+        "categoryTitle": "Animals",
+        "previewShowCount": 10,
+        "allCategoryCount": 40
+    },
+    {
+        "id": 2,
+        "category": "architecture",
+        "categoryTitle": "Architecture",
+        "previewShowCount": 10,
+        "allCategoryCount": 46
+    },
+    {
+        "id": 3,
+        "category": "art",
+        "categoryTitle": "Art",
+        "previewShowCount": 10,
+        "allCategoryCount": 40
+    },
+    {
+        "id": 4,
+        "category": "cars",
+        "categoryTitle": "Cars",
+        "previewShowCount": 10,
+        "allCategoryCount": 41
+    }
+]
