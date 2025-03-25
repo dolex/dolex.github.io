@@ -100,11 +100,13 @@
         ]
     },
     {
-        "fullWF": {
+        "fullWF": [
+            {
             "id": 1,
             "category": "premium",
             "categoryTitle": "Premium",
             "totalCount": 108
         }
+        ]
     }
 ]
