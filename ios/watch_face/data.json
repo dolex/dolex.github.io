@@ -100,11 +100,14 @@
         ]
     },
     {
-        "fullWF": {
-            "id": 1,
-            "category": "premium",
-            "categoryTitle": "Premium",
-            "totalCount": 108
-        }
+        "fullWF": [
+            {
+                "id": 1,
+                "category": "premium",
+                "categoryTitle": "Premium",
+                "totalCount": 108,
+                "freeAccess": [3, 7, 14, 15, 20, 27, 36, 50, 65, 70, 93]
+            }
+        ]
     }
 ]
