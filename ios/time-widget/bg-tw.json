@@ -2,6 +2,9 @@
     {
         "arrayPremiumTW": [
             {
+                "pathImg": "bg/0.jpg"
+            },
+            {
                 "pathImg": "bg/1.jpg"
             },
             {
@@ -30,9 +33,6 @@
             },
             {
                 "pathImg": "bg/10.jpg"
-            },
-            {
-                "pathImg": "bg/11.jpg"
             }
         ]
     }
