@@ -1,41 +1,41 @@
 [
     {
-        "bgTM": [
+        "arrayPremiumTW": [
             {
-                "url": "bg/1.jpg"
+                "pathImg": "bg/1.jpg"
             },
             {
-                "url": "bg/2.jpg"
+                "pathImg": "bg/2.jpg"
             },
             {
-                "url": "bg/3.jpg"
+                "pathImg": "bg/3.jpg"
             },
             {
-                "url": "bg/4.jpg"
+                "pathImg": "bg/4.jpg"
             },
             {
-                "url": "bg/5.jpg"
+                "pathImg": "bg/5.jpg"
             },
             {
-                "url": "bg/6.jpg"
+                "pathImg": "bg/6.jpg"
             },
             {
-                "url": "bg/7.jpg"
+                "pathImg": "bg/7.jpg"
             },
             {
-                "url": "bg/8.jpg"
+                "pathImg": "bg/8.jpg"
             },
             {
-                "url": "bg/9.jpg"
+                "pathImg": "bg/9.jpg"
             },
             {
-                "url": "bg/10.jpg"
+                "pathImg": "bg/10.jpg"
             },
             {
-                "url": "bg/11.jpg"
+                "pathImg": "bg/11.jpg"
             },
             {
-                "url": "bg/12.jpg"
+                "pathImg": "bg/12.jpg"
             }
         ]
     }
