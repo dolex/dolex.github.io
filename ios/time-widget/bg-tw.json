@@ -2,37 +2,59 @@
     {
         "arrayPremiumTW": [
             {
-                "pathImg": "bg/0.jpg"
+                "pathImg": "bg/0.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             },
             {
-                "pathImg": "bg/1.jpg"
+                "pathImg": "bg/1.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             },
             {
-                "pathImg": "bg/2.jpg"
+                "pathImg": "bg/2.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             },
             {
-                "pathImg": "bg/3.jpg"
+                "pathImg": "bg/3.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             },
             {
-                "pathImg": "bg/4.jpg"
+                "pathImg": "bg/4.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             },
             {
-                "pathImg": "bg/5.jpg"
+                "pathImg": "bg/5.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             },
             {
-                "pathImg": "bg/6.jpg"
+                "pathImg": "bg/6.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             },
             {
-                "pathImg": "bg/7.jpg"
+                "pathImg": "bg/7.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             },
             {
-                "pathImg": "bg/8.jpg"
+                "pathImg": "bg/8.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             },
             {
-                "pathImg": "bg/9.jpg"
+                "pathImg": "bg/9.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             },
             {
-                "pathImg": "bg/10.jpg"
+                "pathImg": "bg/10.jpg",
+                "colorDate": ".white",
+                "colorDigit": ".white"
             }
         ]
     }
