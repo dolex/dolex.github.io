@@ -55,6 +55,36 @@
                 "pathImg": "bg/10.jpg",
                 "colorDate": "white",
                 "colorDigit": "white"
+            },
+            {
+                "pathImg": "bg/11.jpg",
+                "colorDate": "white",
+                "colorDigit": "white"
+            },
+            {
+                "pathImg": "bg/12.jpg",
+                "colorDate": "white",
+                "colorDigit": "white"
+            },
+            {
+                "pathImg": "bg/13.jpg",
+                "colorDate": "white",
+                "colorDigit": "white"
+            },
+            {
+                "pathImg": "bg/14.jpg",
+                "colorDate": "white",
+                "colorDigit": "white"
+            },
+            {
+                "pathImg": "bg/15.jpg",
+                "colorDate": "white",
+                "colorDigit": "white"
+            },
+            {
+                "pathImg": "bg/16.jpg",
+                "colorDate": "white",
+                "colorDigit": "white"
             }
         ]
     }
