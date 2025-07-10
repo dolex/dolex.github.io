@@ -68,8 +68,8 @@
             },
             {
                 "pathImg": "bg/13.jpg",
-                "colorDate": "white",
-                "colorDigit": "white"
+                "colorDate": "black",
+                "colorDigit": "black"
             },
             {
                 "pathImg": "bg/14.jpg",
