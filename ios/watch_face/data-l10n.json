@@ -34,7 +34,8 @@
                     { "lang": "vi", "value": "Halloween" }
                 ],
                 "previewCount": 10,
-                "totalCount": 42
+                "totalCount": 42,
+                "freeAccess": [3, 7, 15, 28, 39]
             },
             {
                 "id": 2,
@@ -76,7 +77,8 @@
                     { "lang": "zh-Hant_off", "value": "動物" }
                 ],
                 "previewCount": 10,
-                "totalCount": 40
+                "totalCount": 40,
+                "freeAccess": [2, 8, 19, 25, 33]
             },
             {
                 "id": 3,
@@ -118,7 +120,8 @@
                     { "lang": "zh-Hant_off", "value": "日本動漫" }
                 ],
                 "previewCount": 10,
-                "totalCount": 48
+                "totalCount": 48,
+                "freeAccess": [1, 10, 16, 22, 40]
             },
             {
                 "id": 4,
@@ -160,7 +163,8 @@
                     { "lang": "zh-Hant_off", "value": "建築" }
                 ],
                 "previewCount": 10,
-                "totalCount": 46
+                "totalCount": 46,
+                "freeAccess": [5, 7, 14, 20, 31]
             },
             {
                 "id": 5,
@@ -202,7 +206,8 @@
                     { "lang": "zh-Hant_off", "value": "藝術" }
                 ],
                 "previewCount": 10,
-                "totalCount": 40
+                "totalCount": 40,
+                "freeAccess": [4, 11, 18, 29, 36]
             },
             {
                 "id": 6,
@@ -244,7 +249,8 @@
                     { "lang": "zh-Hant_off", "value": "汽車" }
                 ],
                 "previewCount": 10,
-                "totalCount": 41
+                "totalCount": 41,
+                "freeAccess": [6, 13, 23, 30, 38]
             },
             {
                 "id": 7,
@@ -286,7 +292,8 @@
                     { "lang": "zh-Hant_off", "value": "花卉" }
                 ],
                 "previewCount": 10,
-                "totalCount": 42
+                "totalCount": 42,
+                "freeAccess": [2, 9, 21, 27, 35]
             },
             {
                 "id": 8,
@@ -328,7 +335,8 @@
                     { "lang": "zh-Hant_off", "value": "食物" }
                 ],
                 "previewCount": 10,
-                "totalCount": 42
+                "totalCount": 42,
+                "freeAccess": [3, 12, 17, 26, 32]
             },
             {
                 "id": 9,
@@ -370,7 +378,8 @@
                     { "lang": "zh-Hant_off", "value": "高科技" }
                 ],
                 "previewCount": 10,
-                "totalCount": 41
+                "totalCount": 41,
+                "freeAccess": [5, 10, 19, 34, 40]
             },
             {
                 "id": 10,
@@ -412,7 +421,8 @@
                     { "lang": "zh-Hant_off", "value": "摩托車" }
                 ],
                 "previewCount": 10,
-                "totalCount": 42
+                "totalCount": 42,
+                "freeAccess": [1, 8, 14, 24, 37]
             },
             {
                 "id": 11,
@@ -454,7 +464,8 @@
                     { "lang": "zh-Hant_off", "value": "自然" }
                 ],
                 "previewCount": 10,
-                "totalCount": 42
+                "totalCount": 42,
+                "freeAccess": [6, 11, 20, 25, 30]
             },
             {
                 "id": 12,
@@ -496,7 +507,8 @@
                     { "lang": "zh-Hant_off", "value": "空間" }
                 ],
                 "previewCount": 10,
-                "totalCount": 43
+                "totalCount": 43,
+                "freeAccess": [3, 7, 16, 22, 39]
             },
             {
                 "id": 13,
@@ -538,7 +550,8 @@
                     { "lang": "zh-Hant_off", "value": "運動" }
                 ],
                 "previewCount": 10,
-                "totalCount": 37
+                "totalCount": 37,
+                "freeAccess": [4, 9, 13, 28, 31]
             },
             {
                 "id": 14,
@@ -580,7 +593,8 @@
                     { "lang": "zh-Hant_off", "value": "紋理" }
                 ],
                 "previewCount": 10,
-                "totalCount": 49
+                "totalCount": 49,
+                "freeAccess": [2, 18, 23, 33, 36]
             }
         ]
     },
