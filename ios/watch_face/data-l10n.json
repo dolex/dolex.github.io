@@ -1,6 +1,6 @@
 [
     {
-        "previewWF": [
+        "horizontalWF": [
             {
                 "id": 1,
                 "isHidden": true,
@@ -585,7 +585,7 @@
         ]
     },
     {
-        "fullWF": [
+        "verticalWF": [
             {
                 "id": 1,
                 "category": "premium",
