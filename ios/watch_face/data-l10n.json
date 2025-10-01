@@ -73,8 +73,8 @@
                     { "lang": "th", "value": "สัตว์" },
                     { "lang": "tr", "value": "Hayvanlar" },
                     { "lang": "vi", "value": "Động vật" },
-                    { "lang": "zh-Hans_off", "value": "动物" },
-                    { "lang": "zh-Hant_off", "value": "動物" }
+                    { "lang": "zh-Hans", "value": "动物" },
+                    { "lang": "zh-Hant", "value": "動物" }
                 ],
                 "previewCount": 10,
                 "totalCount": 40,
@@ -116,8 +116,8 @@
                     { "lang": "th", "value": "อะนิเมะ" },
                     { "lang": "tr", "value": "Anime" },
                     { "lang": "vi", "value": "Anime" },
-                    { "lang": "zh-Hans_off", "value": "日本动漫" },
-                    { "lang": "zh-Hant_off", "value": "日本動漫" }
+                    { "lang": "zh-Hans", "value": "日本动漫" },
+                    { "lang": "zh-Hant", "value": "日本動漫" }
                 ],
                 "previewCount": 10,
                 "totalCount": 48,
@@ -159,8 +159,8 @@
                     { "lang": "th", "value": "สถาปัตยกรรม" },
                     { "lang": "tr", "value": "Mimari" },
                     { "lang": "vi", "value": "Kiến trúc" },
-                    { "lang": "zh-Hans_off", "value": "建筑" },
-                    { "lang": "zh-Hant_off", "value": "建築" }
+                    { "lang": "zh-Hans", "value": "建筑" },
+                    { "lang": "zh-Hant", "value": "建築" }
                 ],
                 "previewCount": 10,
                 "totalCount": 46,
@@ -202,8 +202,8 @@
                     { "lang": "th", "value": "ศิลปะ" },
                     { "lang": "tr", "value": "Sanat" },
                     { "lang": "vi", "value": "Nghệ thuật" },
-                    { "lang": "zh-Hans_off", "value": "艺术" },
-                    { "lang": "zh-Hant_off", "value": "藝術" }
+                    { "lang": "zh-Hans", "value": "艺术" },
+                    { "lang": "zh-Hant", "value": "藝術" }
                 ],
                 "previewCount": 10,
                 "totalCount": 40,
@@ -245,8 +245,8 @@
                     { "lang": "th", "value": "รถยนต์" },
                     { "lang": "tr", "value": "Arabalar" },
                     { "lang": "vi", "value": "Ô tô" },
-                    { "lang": "zh-Hans_off", "value": "汽车" },
-                    { "lang": "zh-Hant_off", "value": "汽車" }
+                    { "lang": "zh-Hans", "value": "汽车" },
+                    { "lang": "zh-Hant", "value": "汽車" }
                 ],
                 "previewCount": 10,
                 "totalCount": 41,
@@ -288,8 +288,8 @@
                     { "lang": "th", "value": "ดอกไม้" },
                     { "lang": "tr", "value": "Çiçekler" },
                     { "lang": "vi", "value": "Hoa" },
-                    { "lang": "zh-Hans_off", "value": "花卉" },
-                    { "lang": "zh-Hant_off", "value": "花卉" }
+                    { "lang": "zh-Hans", "value": "花卉" },
+                    { "lang": "zh-Hant", "value": "花卉" }
                 ],
                 "previewCount": 10,
                 "totalCount": 42,
@@ -331,8 +331,8 @@
                     { "lang": "th", "value": "อาหาร" },
                     { "lang": "tr", "value": "Yiyecek" },
                     { "lang": "vi", "value": "Thức ăn" },
-                    { "lang": "zh-Hans_off", "value": "食物" },
-                    { "lang": "zh-Hant_off", "value": "食物" }
+                    { "lang": "zh-Hans", "value": "食物" },
+                    { "lang": "zh-Hant", "value": "食物" }
                 ],
                 "previewCount": 10,
                 "totalCount": 42,
@@ -374,8 +374,8 @@
                     { "lang": "th", "value": "ไฮเทค" },
                     { "lang": "tr", "value": "Yüksek Teknoloji" },
                     { "lang": "vi", "value": "Công nghệ cao" },
-                    { "lang": "zh-Hans_off", "value": "高科技" },
-                    { "lang": "zh-Hant_off", "value": "高科技" }
+                    { "lang": "zh-Hans", "value": "高科技" },
+                    { "lang": "zh-Hant", "value": "高科技" }
                 ],
                 "previewCount": 10,
                 "totalCount": 41,
@@ -417,8 +417,8 @@
                     { "lang": "th", "value": "มอเตอร์ไซค์" },
                     { "lang": "tr", "value": "Motosikletler" },
                     { "lang": "vi", "value": "Xe máy" },
-                    { "lang": "zh-Hans_off", "value": "摩托车" },
-                    { "lang": "zh-Hant_off", "value": "摩托車" }
+                    { "lang": "zh-Hans", "value": "摩托车" },
+                    { "lang": "zh-Hant", "value": "摩托車" }
                 ],
                 "previewCount": 10,
                 "totalCount": 42,
@@ -460,8 +460,8 @@
                     { "lang": "th", "value": "ธรรมชาติ" },
                     { "lang": "tr", "value": "Doğa" },
                     { "lang": "vi", "value": "Thiên nhiên" },
-                    { "lang": "zh-Hans_off", "value": "自然" },
-                    { "lang": "zh-Hant_off", "value": "自然" }
+                    { "lang": "zh-Hans", "value": "自然" },
+                    { "lang": "zh-Hant", "value": "自然" }
                 ],
                 "previewCount": 10,
                 "totalCount": 42,
@@ -503,8 +503,8 @@
                     { "lang": "th", "value": "อวกาศ" },
                     { "lang": "tr", "value": "Uzay" },
                     { "lang": "vi", "value": "Không gian" },
-                    { "lang": "zh-Hans_off", "value": "空间" },
-                    { "lang": "zh-Hant_off", "value": "空間" }
+                    { "lang": "zh-Hans", "value": "空间" },
+                    { "lang": "zh-Hant", "value": "空間" }
                 ],
                 "previewCount": 10,
                 "totalCount": 43,
@@ -546,8 +546,8 @@
                     { "lang": "th", "value": "กีฬา" },
                     { "lang": "tr", "value": "Spor" },
                     { "lang": "vi", "value": "Thể thao" },
-                    { "lang": "zh-Hans_off", "value": "运动" },
-                    { "lang": "zh-Hant_off", "value": "運動" }
+                    { "lang": "zh-Hans", "value": "运动" },
+                    { "lang": "zh-Hant", "value": "運動" }
                 ],
                 "previewCount": 10,
                 "totalCount": 37,
@@ -589,8 +589,8 @@
                     { "lang": "th", "value": "พื้นผิว" },
                     { "lang": "tr", "value": "Dokular" },
                     { "lang": "vi", "value": "Họa tiết" },
-                    { "lang": "zh-Hans_off", "value": "纹理" },
-                    { "lang": "zh-Hant_off", "value": "紋理" }
+                    { "lang": "zh-Hans", "value": "纹理" },
+                    { "lang": "zh-Hant", "value": "紋理" }
                 ],
                 "previewCount": 10,
                 "totalCount": 49,
@@ -635,8 +635,8 @@
                     { "lang": "th", "value": "พรีเมียม" },
                     { "lang": "tr", "value": "Premium" },
                     { "lang": "vi", "value": "Premium" },
-                    { "lang": "zh-Hans_off", "value": "高级" },
-                    { "lang": "zh-Hant_off", "value": "高級" }
+                    { "lang": "zh-Hans", "value": "高级" },
+                    { "lang": "zh-Hant", "value": "高級" }
                 ],
                 "totalCount": 108,
                 "freeAccess": [
