@@ -31,7 +31,9 @@
                     { "lang": "sv", "value": "Halloween" },
                     { "lang": "th", "value": "ฮาโลวีน" },
                     { "lang": "tr", "value": "Cadılar Bayramı" },
-                    { "lang": "vi", "value": "Halloween" }
+                    { "lang": "vi", "value": "Halloween" },
+                    { "lang": "zh-Hans", "value": "万圣夜" },
+                    { "lang": "zh-Hant", "value": "萬聖夜" }
                 ],
                 "previewCount": 10,
                 "totalCount": 42,
