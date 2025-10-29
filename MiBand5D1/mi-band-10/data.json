@@ -2,129 +2,141 @@
   "watch_list": [
     {
       "title": "Mi Band 10",
-      "author": "Author: Nixel3",
+      "author": "Author: Pjoter2000",
       "img": "img/1.png",
-      "bin": "bin/1.face"
+      "bin": "bin/1.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: VitalMomen",
+      "title": "Roundish10",
+      "author": "Author: alan0ford",
       "img": "img/2.png",
-      "bin": "bin/2.face"
+      "bin": "bin/2.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: Simple",
+      "title": "Idea10",
+      "author": "Author: alan0ford",
       "img": "img/3.png",
-      "bin": "bin/3.face"
+      "bin": "bin/3.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: Pipboy",
+      "title": "NewModLand10",
+      "author": "Author: alan0ford",
       "img": "img/4.png",
-      "bin": "bin/4.face"
+      "bin": "bin/4.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: SHMElegantPulseDistanceRed",
+      "title": "Botanicula",
+      "author": "Author: alan0ford",
       "img": "img/5.png",
-      "bin": "bin/5.face"
+      "bin": "bin/5.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: Rust",
-      "img": "img/6.png",
-      "bin": "bin/6.face"
+      "title": "BigWatch",
+      "author": "Author: HuNT21",
+      "img": "img/6.gif",
+      "bin": "bin/6.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: CASIO MG-Q",
-      "img": "img/7.png",
-      "bin": "bin/7.face"
+      "title": "WhatTime",
+      "author": "Author: HuNT21",
+      "img": "img/7.gif",
+      "bin": "bin/7.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: PixelBandPlus ORANGE",
-      "img": "img/8.png",
-      "bin": "bin/8.face"
+      "title": "Pure Simplicity",
+      "author": "Author: EdoNINJA93",
+      "img": "img/8.gif",
+      "bin": "bin/8.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: PixelDots",
-      "img": "img/9.png",
-      "bin": "bin/9.face"
+      "title": "s1mple",
+      "author": "Author: djoleee",
+      "img": "img/9.gif",
+      "bin": "bin/9.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: N-functional",
+      "title": "Skull & Blood",
+      "author": "Author: GrimReaperCZ",
       "img": "img/10.png",
-      "bin": "bin/10.face"
+      "bin": "bin/10.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: ContourPro Weather",
-      "img": "img/11.png",
-      "bin": "bin/11.face"
+      "title": "RetroPix",
+      "author": "Author: krzhu",
+      "img": "img/11.gif",
+      "bin": "bin/11.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: ImitationMachinery",
-      "img": "img/11.png",
-      "bin": "bin/11.face"
+      "title": "Tetris",
+      "author": "Author: krzhu",
+      "img": "img/12.gif",
+      "bin": "bin/12.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: ImitationMachinery v2",
-      "img": "img/12.png",
-      "bin": "bin/12.face"
+      "title": "PipBoyGreen_MB10",
+      "author": "Author: krzhu",
+      "img": "img/13.gif",
+      "bin": "bin/13.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: ARC",
-      "img": "img/13.png",
-      "bin": "bin/13.face"
+      "title": "DeltaFace",
+      "author": "Author: Lazy_lkeda",
+      "img": "img/14.gif",
+      "bin": "bin/14.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: ARC",
-      "img": "img/14.png",
-      "bin": "bin/14.face"
+      "title": "Cascade Digits",
+      "author": "Author: krzhu",
+      "img": "img/15.gif",
+      "bin": "bin/15.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: ColorfulChic Multi Color",
-      "img": "img/15.png",
-      "bin": "bin/15.face"
-    },
-    {
-      "title": "Mi Band 10",
-      "author": "Author: BlackStyle v3",
+      "title": "ChaoticColorful",
+      "author": "Author: Pjoter2000",
       "img": "img/16.png",
-      "bin": "bin/16.face"
+      "bin": "bin/16.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: Sport v2",
+      "title": "YellBluu",
+      "author": "Author: Pjoter2000",
       "img": "img/17.png",
-      "bin": "bin/17.face"
+      "bin": "bin/17.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: AdrenalineRush",
+      "title": "Disenchantment Arch Druidess",
+      "author": "Author: screampanda",
       "img": "img/18.png",
-      "bin": "bin/18.face"
+      "bin": "bin/18.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: ooo packed",
+      "title": "Disenchantment Bean",
+      "author": "Author: screampanda",
       "img": "img/19.png",
-      "bin": "bin/19.face"
+      "bin": "bin/19.bin"
     },
     {
-      "title": "Mi Band 10",
-      "author": "Author: MakGreen02-rus-woWeather",
+      "title": "Disenchantment Luci",
+      "author": "Author: screampanda",
       "img": "img/20.png",
-      "bin": "bin/20.face"
+      "bin": "bin/20.bin"
+    },
+    {
+      "title": "Minimalism",
+      "author": "Author: screampanda",
+      "img": "img/21.png",
+      "bin": "bin/21.bin"
+    },
+    {
+      "title": "Nike color",
+      "author": "Author: screampanda",
+      "img": "img/22.png",
+      "bin": "bin/22.bin"
+    },
+    {
+      "title": "Nothing",
+      "author": "Author: screampanda",
+      "img": "img/22.png",
+      "bin": "bin/22.bin"
     }
   ]
 }
