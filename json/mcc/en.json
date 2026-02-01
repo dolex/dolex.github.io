@@ -1,1255 +1,1255 @@
 {
-  "title_main_screen_top": "MCC-коды",
-  "title_sub_screen_top": "Категории MCC-кодов",
+  "title_main_screen_top": "MCC codes",
+  "title_sub_screen_top": "MCC code categories",
   "main_banner": "https://dolex.github.io/json/mcc/main_banner.png",
   "main_category": [
     {
       "postID": "what_mcc_info_screen",
-      "title": "Что такое MCC-коды",
+      "title": "What are MCC codes",
       "icon": "https://dolex.github.io/json/mcc/icon/what_mcc_info_screen.png",
-      "description": "MCC — это код, состоящий из четырёх цифр, который помогает определить вид деятельности предпринимателя (его товар или услугу) во время банковских операций, связанных с картой, чтобы уточнить категорию покупки, а также процент кешбэка. Например, вы выбрали товар в аптеке и произвели оплату банковской картой. Благодаря МСС-коду банк поймёт, где была совершена покупка, и начислит повышенные бонусы, если до этого вы выбирали «Аптеки» в качестве категории увеличенного кешбэка"
+      "description": "MCC is a four-digit code that helps determine the type of business of an entrepreneur (their product or service) during bank card transactions to clarify the purchase category, as well as the cashback percentage. For example, you have selected a product in a pharmacy and paid with a bank card. Thanks to the MCC code, the bank will understand where the purchase was made and will award increased bonuses if you had previously selected 'Pharmacies' as the increased cashback category"
     },
     {
       "postID": "mcc_list_screen",
-      "title": "Справочник MCC-кодов",
+      "title": "MCC code directory",
       "icon": "https://dolex.github.io/json/mcc/icon/mcc_list_screen.png"
     }
   ],
   "sub_category": [
     {
-      "title": "Авиабилеты",
+      "title": "Air tickets",
       "list": [
         {
           "code": "3000–3350",
-          "description": "коды конкретных авиакомпаний, например 3011 код «Аэрофлота», а также коды для покупки авиабилетов в целом"
+          "description": "codes of specific airlines, for example, 3011 is the code for Aeroflot, as well as codes for purchasing air tickets in general"
         },
         {
           "code": "4511",
-          "description": "авиалинии и авиакомпании, которые ранее не были классифицированы"
+          "description": "airlines and air carriers not elsewhere classified"
         },
         {
           "code": "4582",
-          "description": "аэропорты, терминалы, лётные поля"
+          "description": "airports, terminals, flying fields"
         }
       ]
     },
     {
-      "title": "Автоуслуги",
+      "title": "Auto services",
       "list": [
         {
           "code": "5511",
-          "description": "продажа, сервис, ремонт, запчасти и лизинг легкового и грузового транспорта"
+          "description": "sale, service, repair, parts and leasing of cars and trucks"
         },
         {
           "code": "5521",
-          "description": "продажа подержанных легковых и грузовых автомобилей"
+          "description": "used car and truck sales"
         },
         {
           "code": "5531–5533",
-          "description": "автомагазины и товары для дома, магазин автошин, автозапчасти и аксессуары (соответственно)"
+          "description": "auto and home supply stores, tire stores, auto parts and accessories (respectively)"
         },
         {
           "code": "5571",
-          "description": "продажа мотоциклов"
+          "description": "motorcycle sales"
         },
         {
           "code": "7012",
-          "description": "таймшер"
+          "description": "timeshare"
         },
         {
           "code": "7531",
-          "description": "станции технического обслуживания для автомобильного транспорта"
+          "description": "automotive service shops"
         },
         {
           "code": "7534",
-          "description": "шиномонтаж и вулканизация"
+          "description": "tire retreading and repair"
         },
         {
           "code": "7535",
-          "description": "покраска автомобилей"
+          "description": "automotive paint shops"
         },
         {
           "code": "7538",
-          "description": "СТО общего назначения"
+          "description": "general purpose service stations"
         },
         {
           "code": "7542",
-          "description": "автомойки"
+          "description": "car washes"
         },
         {
           "code": "7549",
-          "description": "буксировка"
+          "description": "towing services"
         }
       ]
     },
     {
-      "title": "Аптеки",
+      "title": "Pharmacies",
       "list": [
         {
           "code": "5122",
-          "description": "лекарства, их распространители, аптеки"
+          "description": "drugs, drug proprietors, and pharmacies"
         },
         {
           "code": "5912",
-          "description": "аптеки"
+          "description": "pharmacies"
         }
       ]
     },
     {
-      "title": "Аренда авто",
+      "title": "Car rental",
       "list": [
         {
           "code": "3351–3398",
-          "description": "названия конкретных арендодателей автомобилей, например 3351 Affiliated Auto Rental"
+          "description": "names of specific car rental companies, for example 3351 Affiliated Auto Rental"
         },
         {
           "code": "3400–3439",
-          "description": "агентства по аренде автомобилей"
+          "description": "car rental agencies"
         },
         {
           "code": "3441",
-          "description": "агентства по аренде автомобилей"
+          "description": "car rental agencies"
         },
         {
           "code": "7512",
-          "description": "прокат автомобилей"
+          "description": "car rental"
         },
         {
           "code": "7513",
-          "description": "прокат аксессуаров для трейлеров и грузовиков"
+          "description": "trailer and truck accessory rental"
         },
         {
           "code": "7519",
-          "description": "прокат домов на колёсах, аксессуары к наземному транспорту"
+          "description": "motor home rentals, ground transport accessories"
         }
       ]
     },
     {
-      "title": "Дом и ремонт",
+      "title": "Home and repair",
       "list": [
         {
           "code": "1520",
-          "description": "генеральные подрядчики жилое и коммерческое строительство"
+          "description": "general contractors residential and commercial"
         },
         {
           "code": "1711",
-          "description": "генеральные подрядчики по вентиляции, теплоснабжению и водопроводу"
+          "description": "heating, plumbing, and air conditioning contractors"
         },
         {
           "code": "1731",
-          "description": "подрядчики по электричеству"
+          "description": "electrical contractors"
         },
         {
           "code": "1740",
-          "description": "изоляция, мозаика, штукатурные работы, каменная кладка, облицовка плиткой, кафелем"
+          "description": "insulation, mosaic, plastering, stonework, and tile setting"
         },
         {
           "code": "1750",
-          "description": "столярные работы"
+          "description": "carpentry contractors"
         },
         {
           "code": "1761",
-          "description": "кровельные и сайдинговые работы, обработка листового металла"
+          "description": "roofing, siding, and sheet metal work contractors"
         },
         {
           "code": "1771",
-          "description": "подрядчики бетонных работ"
+          "description": "concrete work contractors"
         },
         {
           "code": "1799",
-          "description": "контрактные услуги —  нигде более не классифицированные"
+          "description": "contractor services — not elsewhere classified"
         },
         {
           "code": "2791",
-          "description": "набор текстов, шрифтов, таблиц и относящиеся к этому услуги"
+          "description": "typesetting, platemaking, and related services"
         },
         {
           "code": "2842",
-          "description": "специальная обработка, полировка, санитария"
+          "description": "specialty cleaning, polishing, and sanitation"
         },
         {
           "code": "5021",
-          "description": "офисная и торговая мебель"
+          "description": "office and commercial furniture"
         },
         {
           "code": "5039",
-          "description": "строительные материалы —  нигде более не классифицированные"
+          "description": "construction materials — not elsewhere classified"
         },
         {
           "code": "5046",
-          "description": "коммерческое оборудование —  нигде более не классифицированное"
+          "description": "commercial equipment — not elsewhere classified"
         },
         {
           "code": "5051",
-          "description": "центры и офисы работ по металлу"
+          "description": "metal service centers and offices"
         },
         {
           "code": "5065",
-          "description": "электрические части и оборудование"
+          "description": "electrical parts and equipment"
         },
         {
           "code": "5072",
-          "description": "оборудование и сопутствующие материалы для технического обеспечения"
+          "description": "hardware equipment and supplies"
         },
         {
           "code": "5074",
-          "description": "оборудование для водопровода и отопительной системы"
+          "description": "plumbing and heating equipment"
         },
         {
           "code": "5085",
-          "description": "промышленное оборудование —  нигде более не классифицированное"
+          "description": "industrial supplies — not elsewhere classified"
         },
         {
           "code": "5198",
-          "description": "лакокрасочная продукция и сопровождающие товары"
+          "description": "paint, varnish, and supplies"
         },
         {
           "code": "5200",
-          "description": "товары для дома"
+          "description": "home supply warehouse stores"
         },
         {
           "code": "5211",
-          "description": "лесо- и строительный материал"
+          "description": "lumber and building materials stores"
         },
         {
           "code": "5231",
-          "description": "розничная продажа стекла, красок и обоев"
+          "description": "glass, paint, and wallpaper stores"
         },
         {
           "code": "5251",
-          "description": "скобяные товары в розницу"
+          "description": "hardware stores"
         },
         {
           "code": "5261",
-          "description": "садовые принадлежности (в том числе для ухода за газонами) в розницу"
+          "description": "lawn and garden supply stores"
         },
         {
           "code": "5712–5714",
-          "description": "оборудование, мебель и бытовые принадлежности (кроме электрооборудования), покрытия для пола, ткани, обивочный материал, гардины и портьеры, жалюзи (соответственно)"
+          "description": "equipment, furniture and home furnishings (except electrical), floor coverings, fabrics, upholstery, curtains and draperies, blinds (respectively)"
         },
         {
           "code": "5718",
-          "description": "продажа каминов, экранов для каминов и аксессуаров"
+          "description": "fireplace, fireplace screens, and accessories stores"
         },
         {
           "code": "5719",
-          "description": "различные специализированные магазины бытовых принадлежностей"
+          "description": "miscellaneous home furnishing specialty stores"
         },
         {
           "code": "5722",
-          "description": "бытовое оборудование"
+          "description": "household appliance stores"
         },
         {
           "code": "7622",
-          "description": "ремонт электроники"
+          "description": "electronics repair shops"
         },
         {
           "code": "7623",
-          "description": "ремонт кондиционеров и холодильников"
+          "description": "air conditioning and refrigeration repair shops"
         },
         {
           "code": "7629",
-          "description": "ремонт электрооборудования и малой бытовой техники"
+          "description": "electrical and small appliance repair shops"
         },
         {
           "code": "7641",
-          "description": "мебель, обивка, ремонт и реставрация"
+          "description": "furniture, upholstery, repair, and restoration"
         },
         {
           "code": "7692",
-          "description": "ремонт с помощью сварки"
+          "description": "welding repair"
         },
         {
           "code": "7699",
-          "description": "ремонтные услуги —  нигде болеене классифицированные"
+          "description": "repair services — not elsewhere classified"
         }
       ]
     },
     {
-      "title": "Железнодорожные билеты",
+      "title": "Train tickets",
       "list": [
         {
           "code": "4011",
-          "description": "железные дороги, перевозка грузов"
+          "description": "railroads, freight"
         },
         {
           "code": "4112",
-          "description": "пассажирские железнодорожные перевозки"
+          "description": "passenger railways"
         }
       ]
     },
     {
-      "title": "Животные",
+      "title": "Animals",
       "list": [
         {
           "code": "0742",
-          "description": "ветеринарные услуги"
+          "description": "veterinary services"
         },
         {
           "code": "5995",
-          "description": "зоомагазины"
+          "description": "pet shops"
         }
       ]
     },
     {
-      "title": "Искусство",
+      "title": "Art",
       "list": [
         {
           "code": "5932",
-          "description": "антикварные магазины, продажа, ремонт и услугиреставрации"
+          "description": "antique shops, sales, repairs, and restoration services"
         },
         {
           "code": "5937",
-          "description": "магазины репродукций и антиквариата"
+          "description": "art dealers and galleries"
         },
         {
           "code": "5970–5973",
-          "description": "магазины художественных и ремесленных изделий, галереи и художественные посредники, магазины монет и марок (филателические и нумизматические), магазины религиозных товаров (соответственно)"
+          "description": "art and craft stores, galleries and art dealers, coin and stamp stores (philatelic and numismatic), religious goods stores (respectively)"
         }
       ]
     },
     {
-      "title": "Кино",
+      "title": "Cinema",
       "list": [
         {
           "code": "7829",
-          "description": "производство фото/видео"
+          "description": "photo/video production"
         },
         {
           "code": "7832",
-          "description": "кинотеатры"
+          "description": "movie theaters"
         },
         {
           "code": "7841",
-          "description": "видеопрокат"
+          "description": "video rental"
         }
       ]
     },
     {
-      "title": "Красота",
+      "title": "Beauty",
       "list": [
         {
           "code": "5977",
-          "description": "магазины косметики"
+          "description": "cosmetic stores"
         },
         {
           "code": "7230",
-          "description": "парикмахерские и салоны красоты"
+          "description": "barber and beauty shops"
         },
         {
           "code": "7297",
-          "description": "массажные салоны"
+          "description": "massage parlors"
         },
         {
           "code": "7298",
-          "description": "салоны красоты и здоровья"
+          "description": "health and beauty spas"
         }
       ]
     },
     {
-      "title": "Медицинские услуги",
+      "title": "Medical services",
       "list": [
         {
           "code": "4119",
-          "description": "услуги скорой помощи"
+          "description": "ambulance services"
         },
         {
           "code": "5047",
-          "description": "стоматологическое / лабораторное/ медицинское / офтальмологическое оборудование и материалы для больниц"
+          "description": "dental/laboratory/medical/ophthalmic hospital equipment and supplies"
         },
         {
           "code": "5975",
-          "description": "слуховые аппараты, продажа, сервис, снабжение"
+          "description": "hearing aids sales, service, and supply"
         },
         {
           "code": "5976",
-          "description": "ортопедические товары"
+          "description": "orthopedic goods"
         },
         {
           "code": "8011",
-          "description": "доктора —  нигде более не классифицированные"
+          "description": "doctors — not elsewhere classified"
         },
         {
           "code": "8021",
-          "description": "дантисты, ортодонты"
+          "description": "dentists, orthodontists"
         },
         {
           "code": "8031",
-          "description": "остеопаты"
+          "description": "osteopaths"
         },
         {
           "code": "8041–8044",
-          "description": "хиропрактики, оптометристы, офтальмологи, оптика, оптические товары и очки, оптика, оптические товары и очки (соответственно)"
+          "description": "chiropractors, optometrists, ophthalmologists, opticians, optical goods and eyeglasses, opticians, optical goods and eyeglasses (respectively)"
         },
         {
           "code": "8049",
-          "description": "ортопеды"
+          "description": "podiatrists"
         },
         {
           "code": "8050",
-          "description": "услуги персонального ухода"
+          "description": "personal care services"
         },
         {
           "code": "8062",
-          "description": "больницы"
+          "description": "hospitals"
         },
         {
           "code": "8071",
-          "description": "стоматологические и медицинские лаборатории"
+          "description": "dental and medical laboratories"
         },
         {
           "code": "8099",
-          "description": "медицинские работники, медицинские услуги —  нигде более не классифицированные"
+          "description": "medical practitioners, medical services — not elsewhere classified"
         }
       ]
     },
     {
-      "title": "Музыка",
+      "title": "Music",
       "list": [
         {
           "code": "5733",
-          "description": "продажа музыкальных инструментов"
+          "description": "musical instrument sales"
         },
         {
           "code": "5735",
-          "description": "магазины звукозаписи"
+          "description": "record stores"
         }
       ]
     },
     {
-      "title": "Наличные",
+      "title": "Cash",
       "list": [
         {
           "code": "6010",
-          "description": "финансовые учреждения, снятие наличных вручную"
+          "description": "financial institutions, manual cash disbursements"
         },
         {
           "code": "6011",
-          "description": "финансовые учреждения, снятие наличных автоматически"
+          "description": "financial institutions, automated cash disbursements"
         }
       ]
     },
     {
-      "title": "НКО",
+      "title": "NGO",
       "list": [
         {
           "code": "8398",
-          "description": "благотворительные и общественные службы, сбор средств"
+          "description": "charitable and social service organizations, fundraising"
         },
         {
           "code": "8641",
-          "description": "гражданские, социальные и братские ассоциации"
+          "description": "civic, social, and fraternal associations"
         },
         {
           "code": "8651",
-          "description": "политические организации"
+          "description": "political organizations"
         },
         {
           "code": "8661",
-          "description": "религиозные организации"
+          "description": "religious organizations"
         },
         {
           "code": "8675",
-          "description": "автомобильные ассоциации"
+          "description": "automobile associations"
         },
         {
           "code": "8699",
-          "description": "членские организации —  нигде более не классифицированные"
+          "description": "membership organizations — not elsewhere classified"
         },
         {
           "code": "8734",
-          "description": "испытательные лаборатории (немедицинские)"
+          "description": "testing laboratories (non-medical)"
         },
         {
           "code": "8911",
-          "description": "архитектурные, инженерные и геодезические услуги"
+          "description": "architectural, engineering, and surveying services"
         },
         {
           "code": "8931",
-          "description": "бухгалтерский учёт, аудит и бухгалтерские услуги"
+          "description": "accounting, auditing, and bookkeeping services"
         },
         {
           "code": "8999",
-          "description": "профессиональные услуги —  нигде более не классифицированные"
+          "description": "professional services — not elsewhere classified"
         }
       ]
     },
     {
-      "title": "Образование",
+      "title": "Education",
       "list": [
         {
           "code": "8211",
-          "description": "начальная и средняя школы"
+          "description": "elementary and secondary schools"
         },
         {
           "code": "8220",
-          "description": "колледжи, университеты"
+          "description": "colleges, universities"
         },
         {
           "code": "8241",
-          "description": "дистанционные школы"
+          "description": "correspondence schools"
         },
         {
           "code": "8244",
-          "description": "бизнес-/секретарские школы"
+          "description": "business and secretarial schools"
         },
         {
           "code": "8249",
-          "description": "профессиональные/торговые школы"
+          "description": "vocational and trade schools"
         },
         {
           "code": "8299",
-          "description": "образовательные услуги"
+          "description": "educational services"
         }
       ]
     },
     {
-      "title": "Одежда, обувь",
+      "title": "Clothing, footwear",
       "list": [
         {
           "code": "5094",
-          "description": "драгоценные камни и металлы, часы и ювелирные изделия"
+          "description": "precious stones and metals, watches and jewelry"
         },
         {
           "code": "5137",
-          "description": "мужская, женская и детская спецодежда"
+          "description": "men's, women's, and children's uniforms and commercial clothing"
         },
         {
           "code": "5139",
-          "description": "спецобувь"
+          "description": "commercial footwear"
         },
         {
           "code": "5611",
-          "description": "мужская одежда и аксессуары, включая одежду для мальчиков"
+          "description": "men's clothing and accessories, including boys' clothing"
         },
         {
           "code": "5621",
-          "description": "готовая женская одежда"
+          "description": "women's ready-to-wear"
         },
         {
           "code": "5631",
-          "description": "аксессуары для женщин"
+          "description": "women's accessories"
         },
         {
           "code": "5641",
-          "description": "детская одежда, включая одежду для самых маленьких"
+          "description": "children's and infants' wear stores"
         },
         {
           "code": "5651",
-          "description": "одежда для всей семьи"
+          "description": "family clothing stores"
         },
         {
           "code": "5661",
-          "description": "обувные магазины"
+          "description": "shoe stores"
         },
         {
           "code": "5681",
-          "description": "изготовление и продажа меховых изделий"
+          "description": "furriers and fur shops"
         },
         {
           "code": "5691",
-          "description": "магазины мужской и женской одежды"
+          "description": "men's and women's clothing stores"
         },
         {
           "code": "5697–5699",
-          "description": "услуги по переделке, починке и пошиву одежды, парики и накладки из искусственных волос, различные магазины одежды и аксессуаров"
+          "description": "clothing alteration, repair, and tailoring services, wigs and toupees, miscellaneous apparel and accessory shops"
         },
         {
           "code": "5931",
-          "description": "секонд-хенды, магазины б/у товаров, комиссионки"
+          "description": "second-hand stores, used merchandise stores, consignment shops"
         },
         {
           "code": "5944",
-          "description": "часы, ювелирные и серебряные изделия"
+          "description": "watch, clock, jewelry, and silverware stores"
         },
         {
           "code": "5949",
-          "description": "магазины ткани, ниток, рукоделия, шитья"
+          "description": "fabric, needlework, piece goods, and sewing stores"
         },
         {
           "code": "5950",
-          "description": "магазины хрусталя и изделий из стекла"
+          "description": "crystal and glassware stores"
         }
       ]
     },
     {
-      "title": "Отели",
+      "title": "Hotels",
       "list": [
         {
           "code": "3501–3827",
-          "description": "коды конкретных отелей, например 3501 Holiday Inns"
+          "description": "codes for specific hotels, e.g. 3501 Holiday Inns"
         },
         {
           "code": "7011",
-          "description": "отели и мотели —  нигде более не классифицированные"
+          "description": "hotels and motels — not elsewhere classified"
         },
         {
           "code": "7012",
-          "description": "таймшер"
+          "description": "timeshare"
         },
         {
           "code": "7032",
-          "description": "рекреационные и спортивные лагеря"
+          "description": "recreational and sporting camps"
         },
         {
           "code": "7033",
-          "description": "кемпинги и трейлер-парки"
+          "description": "campgrounds and trailer parks"
         }
       ]
     },
     {
-      "title": "Платежи в бюджет",
+      "title": "Government payments",
       "list": [
         {
           "code": "9211",
-          "description": "судебные выплаты, включая алименты и детскую поддержку"
+          "description": "court costs, including alimony and child support"
         },
         {
           "code": "9222",
-          "description": "штрафы"
+          "description": "fines"
         },
         {
           "code": "9223",
-          "description": "платежи по залогам и облигациям"
+          "description": "bail and bond payments"
         },
         {
           "code": "9311–9314",
-          "description": "налоговые платежи"
+          "description": "tax payments"
         },
         {
           "code": "9399",
-          "description": "правительственные услуги —  нигде более не классифицированные"
+          "description": "government services — not elsewhere classified"
         },
         {
           "code": "9402",
-          "description": "почтовые услуги (только правительственные)"
+          "description": "postal services (government only)"
         },
         {
           "code": "9405",
-          "description": "внутриправительственные закупки только правительственные"
+          "description": "intra-government purchases government only"
         },
         {
           "code": "9950",
-          "description": "покупки внутри компании"
+          "description": "intra-company purchases"
         }
       ]
     },
     {
-      "title": "Развлечения",
+      "title": "Entertainment",
       "list": [
         {
           "code": "7911",
-          "description": "танцклубы, танцшколы и студии"
+          "description": "dance halls, schools, and studios"
         },
         {
           "code": "7922",
-          "description": "театральные продюсеры (кроме кинофильмов), билетные агентства"
+          "description": "theatrical producers (except motion pictures), ticket agencies"
         },
         {
           "code": "7929",
-          "description": "музыкальные группы, оркестры и прочие развлекательные услуги"
+          "description": "bands, orchestras, and miscellaneous entertainers"
         },
         {
           "code": "7932",
-          "description": "бильярд-клубы"
+          "description": "billiard and pool establishments"
         },
         {
           "code": "7933",
-          "description": "боулинг-клубы"
+          "description": "bowling alleys"
         },
         {
           "code": "7941",
-          "description": "атлетические поля, коммерческие виды спорта, профессиональные спортивные клубы, промоутеры спорта"
+          "description": "athletic fields, commercial sports, professional sports clubs, and sports promoters"
         },
         {
           "code": "7991–7994",
-          "description": "туристические аттракционы и шоу, публичные поля для гольфа, принадлежности для видеоигр, галереи/учреждения видеоигр (соответственно)"
+          "description": "tourist attractions and exhibits, public golf courses, video game supplies, video game arcades/establishments (respectively)"
         },
         {
           "code": "7996–7999",
-          "description": "парки аттракционов, карнавалы, цирки, клубы, загородные клубы, членство (отдых, спорт), частные поля для гольфа, океанариумы, дельфинарии, зоопарки и морские парки, услуги отдыха —  нигде более не классифицированные"
+          "description": "amusement parks, carnivals, circuses, clubs, country clubs, membership (recreation, sports), private golf courses, aquariums, dolphinariums, zoos and seaquariums, recreation services — not elsewhere classified"
         }
       ]
     },
     {
-      "title": "Разные товары",
+      "title": "Miscellaneous goods",
       "list": [
         {
           "code": "5099",
-          "description": "потребительские товары длительного пользования"
+          "description": "durable goods"
         },
         {
           "code": "5131",
-          "description": "штучные товары, галантерея и другие текстильные товары"
+          "description": "piece goods, notions, and other dry goods"
         },
         {
           "code": "5169",
-          "description": "химикалии и смежные вещества, не классифицированные ранее"
+          "description": "chemicals and allied products, not elsewhere classified"
         },
         {
           "code": "5310",
-          "description": "магазины, торгующие по сниженным ценам"
+          "description": "discount stores"
         },
         {
           "code": "5311",
-          "description": "универмаги"
+          "description": "department stores"
         },
         {
           "code": "5331",
-          "description": "универсальные магазины"
+          "description": "variety stores"
         },
         {
           "code": "5732",
-          "description": "продажа электронного оборудования"
+          "description": "electronics stores"
         },
         {
           "code": "5734",
-          "description": "продажа компьютерного программного обеспечения"
+          "description": "computer software stores"
         },
         {
           "code": "5933",
-          "description": "ломбарды"
+          "description": "pawn shops"
         },
         {
           "code": "5935",
-          "description": "магазины сбора и использования утильсырья (переработанной продукции или брака)"
+          "description": "salvage and wrecking yards"
         },
         {
           "code": "5943",
-          "description": "магазины офисных, школьных принадлежностей, канцтоваров"
+          "description": "office, school supply, and stationery stores"
         },
         {
           "code": "5945",
-          "description": "игрушки, игры и хобби-товары"
+          "description": "toy, game, and hobby shops"
         },
         {
           "code": "5948",
-          "description": "магазины кожаных изделий, дорожных принадлежностей"
+          "description": "leather goods and luggage stores"
         },
         {
           "code": "5978",
-          "description": "магазины печатающих устройств, аренда, продажа, услуги"
+          "description": "typewriter stores, rental, sales, service"
         },
         {
           "code": "5993",
-          "description": "табачные магазины"
+          "description": "cigar stores and stands"
         },
         {
           "code": "5996",
-          "description": "плавательные бассейны продажа и снабжение"
+          "description": "swimming pools sales and service"
         },
         {
           "code": "5997",
-          "description": "магазины электрических бритвенных принадлежностей, распродажа и услуги"
+          "description": "electric razor stores, sales and service"
         },
         {
           "code": "5998",
-          "description": "магазины палаток и навесов"
+          "description": "tent and awning shops"
         },
         {
           "code": "5999",
-          "description": "различные магазины и специальные розничные магазины"
+          "description": "miscellaneous and specialty retail stores"
         },
         {
           "code": "7278",
-          "description": "услуги покупок/шопинга"
+          "description": "buying/shopping services"
         }
       ]
     },
     {
-      "title": "Рестораны",
+      "title": "Restaurants",
       "list": [
         {
           "code": "5811",
-          "description": "поставщики провизии"
+          "description": "caterers"
         },
         {
           "code": "5812",
-          "description": "места общественного питания, рестораны"
+          "description": "eating places, restaurants"
         },
         {
           "code": "5813",
-          "description": "бары, коктейль-бары, дискотеки, ночные клубы и таверны, места продажи алкогольных напитков"
+          "description": "bars, cocktail lounges, discotheques, nightclubs, and taverns, drinking places (alcoholic beverages)"
         }
       ]
     },
     {
-      "title": "Связь, телеком",
+      "title": "Communications, telecom",
       "list": [
         {
           "code": "4812",
-          "description": "телекоммуникационное оборудование, включая продажу телефонов"
+          "description": "telecommunication equipment including telephone sales"
         },
         {
           "code": "4813",
-          "description": "торговые точки телеком клавишного ввода"
+          "description": "telecom key-entry merchants"
         },
         {
           "code": "4814",
-          "description": "телекоммуникационные услуги"
+          "description": "telecommunication services"
         },
         {
           "code": "4815",
-          "description": "МастерФон телефонные услуги, ежемесячное составление телефонных счетов"
+          "description": "MasterPhone telephone services, monthly telephone bills"
         },
         {
           "code": "4816",
-          "description": "компьютерные сети, информационные услуги"
+          "description": "computer network/information services"
         },
         {
           "code": "4821",
-          "description": "услуги телеграфа"
+          "description": "telegraph services"
         },
         {
           "code": "4829",
-          "description": "денежные переводы"
+          "description": "money orders"
         },
         {
           "code": "4899",
-          "description": "кабельные и другие платные телевизионные услуги"
+          "description": "cable and other pay television services"
         },
         {
           "code": "7372",
-          "description": "программирование, обработка данных, проектирование интегрированных систем"
+          "description": "computer programming, data processing, and integrated systems design"
         },
         {
           "code": "7375",
-          "description": "информационно-поисковые услуги"
+          "description": "information retrieval services"
         }
       ]
     },
     {
-      "title": "Сервис-услуги",
+      "title": "Service-services",
       "list": [
         {
           "code": "763",
-          "description": "сельскохозяйственные кооперативы"
+          "description": "agricultural co-operatives"
         },
         {
           "code": "780",
-          "description": "услуги садоводства и ландшафтного дизайна"
+          "description": "horticultural and landscaping services"
         },
         {
           "code": "4214",
-          "description": "агентства по автотранспортным перевозкам"
+          "description": "motor freight carriers and trucking"
         },
         {
           "code": "4215",
-          "description": "услуги курьера, по воздуху и на земле, агентства по отправке грузов"
+          "description": "courier services, air and ground, freight forwarders"
         },
         {
           "code": "4225",
-          "description": "складское хранение общественного пользования"
+          "description": "public warehousing"
         },
         {
           "code": "5199",
-          "description": "товары недлительного пользования —  нигде более не классифицированные"
+          "description": "non-durable goods — not elsewhere classified"
         },
         {
           "code": "5960",
-          "description": "прямой маркетинг, страховые услуги"
+          "description": "direct marketing, insurance services"
         },
         {
           "code": "5961",
-          "description": "заказы по почте, включая заказы по каталогу"
+          "description": "mail order, including catalog orders"
         },
         {
           "code": "5962",
-          "description": "прямой маркетинг услуги, относящиеся к туризму"
+          "description": "direct marketing travel-related arrangement services"
         },
         {
           "code": "5963",
-          "description": "продажа «от двери до двери»"
+          "description": "door-to-door sales"
         },
         {
           "code": "5964",
-          "description": "прямой маркетинг торговля по каталогам"
+          "description": "direct marketing catalog merchant"
         },
         {
           "code": "5965",
-          "description": "прямой маркетинг комбинированный каталог и розничные продавцы"
+          "description": "direct marketing combination catalog and retail merchant"
         },
         {
           "code": "5966",
-          "description": "прямой маркетинг исходящий телемаркетинг"
+          "description": "direct marketing outbound telemarketing merchant"
         },
         {
           "code": "5967",
-          "description": "прямой маркетинг входящий телемаркетинг"
+          "description": "direct marketing inbound telemarketing merchant"
         },
         {
           "code": "5968",
-          "description": "прямой маркетинг торговые точки подписки"
+          "description": "direct marketing subscription merchant"
         },
         {
           "code": "5969",
-          "description": "прямой маркетинг другие торговые точки прямого маркетинга (нигде более не классифицированные)"
+          "description": "direct marketing other direct marketers (not elsewhere classified)"
         },
         {
           "code": "7210",
-          "description": "услуги по уборке и прачечной"
+          "description": "cleaning and laundry services"
         },
         {
           "code": "7211",
-          "description": "услуги прачечной семейные и коммерческие"
+          "description": "laundry services family and commercial"
         },
         {
           "code": "7216",
-          "description": "химчистка"
+          "description": "dry cleaners"
         },
         {
           "code": "7217",
-          "description": "чистка ковров и обивок"
+          "description": "carpet and upholstery cleaning"
         },
         {
           "code": "7221",
-          "description": "фотостудии"
+          "description": "photographic studios"
         },
         {
           "code": "7251",
-          "description": "чистка шляп, ремонт и чистка обуви"
+          "description": "hat cleaning, shoe repair, and shoe shine parlors"
         },
         {
           "code": "7311",
-          "description": "рекламные услуги"
+          "description": "advertising services"
         },
         {
           "code": "7321",
-          "description": "потребительские кредитные агентства"
+          "description": "consumer credit reporting agencies"
         },
         {
           "code": "7342",
-          "description": "истребление насекомых и дезинфекция"
+          "description": "exterminating and disinfecting services"
         },
         {
           "code": "7349",
-          "description": "уборка и чистка помещений"
+          "description": "cleaning and maintenance, janitorial services"
         },
         {
           "code": "7361",
-          "description": "агентства по трудоустройству, временные справочные службы"
+          "description": "employment agencies, temporary help services"
         },
         {
           "code": "7392",
-          "description": "услуги по консультированию, управлению и связям с общественностью"
+          "description": "management, consulting, and public relations services"
         },
         {
           "code": "7393",
-          "description": "детективные агентства, охранные агентства"
+          "description": "detective agencies, protective agencies, security services"
         },
         {
           "code": "7399",
-          "description": "бизнес-услуги —  нигде более не классифицированные"
+          "description": "business services — not elsewhere classified"
         },
         {
           "code": "8111",
-          "description": "адвокаты, юридические услуги"
+          "description": "attorneys, legal services"
         }
       ]
     },
     {
-      "title": "Спорттовары",
+      "title": "Sporting goods",
       "list": [
         {
           "code": "5655",
-          "description": "спортивная одежда, одежда для верховой езды и езды на мотоцикле"
+          "description": "sporting apparel, riding and motorcycle apparel"
         },
         {
           "code": "5940",
-          "description": "веломагазины, продажа и обслуживание"
+          "description": "bicycle shops, sales and service"
         },
         {
           "code": "5941",
-          "description": "спорттовары"
+          "description": "sporting goods stores"
         }
       ]
     },
     {
-      "title": "Сувениры",
+      "title": "Souvenirs",
       "list": [
         {
           "code": "5947",
-          "description": "магазины открыток, подарков, новинок и сувениров"
+          "description": "card, gift, novelty, and souvenir shops"
         }
       ]
     },
     {
-      "title": "Супермаркеты",
+      "title": "Supermarkets",
       "list": [
         {
           "code": "5300",
-          "description": "оптовые магазины"
+          "description": "wholesale clubs"
         },
         {
           "code": "5411",
-          "description": "бакалейные магазины, супермаркеты"
+          "description": "grocery stores, supermarkets"
         },
         {
           "code": "5412",
-          "description": "гибридные супермаркеты"
+          "description": "hybrid supermarkets"
         },
         {
           "code": "5422",
-          "description": "продажа свежего и мороженого мяса"
+          "description": "freezer and locker meat provisioners"
         },
         {
           "code": "5441",
-          "description": "кондитерские"
+          "description": "candy, nut, and confectionery stores"
         },
         {
           "code": "5451",
-          "description": "продажа молочных продуктов в розницу"
+          "description": "dairy products stores"
         },
         {
           "code": "5462",
-          "description": "булочные"
+          "description": "bakeries"
         },
         {
           "code": "5499",
-          "description": "различные продовольственные магазины"
+          "description": "miscellaneous food stores"
         },
         {
           "code": "5715",
-          "description": "оптовые продавцы алкоголя"
+          "description": "wholesale sellers of alcohol"
         },
         {
           "code": "5921",
-          "description": "магазины с продажей спиртных напитков навынос"
+          "description": "package stores, beer, wine, and liquor"
         }
       ]
     },
     {
-      "title": "Топливо",
+      "title": "Fuel",
       "list": [
         {
           "code": "5172",
-          "description": "нефть и нефтепродукты"
+          "description": "petroleum and petroleum products"
         },
         {
           "code": "5541",
-          "description": "заправочные станции (с вспомогательными услугами или без)"
+          "description": "service stations (with or without ancillary services)"
         },
         {
           "code": "5542",
-          "description": "автоматические заправочные станции"
+          "description": "automated fuel dispensers"
         },
         {
           "code": "5983",
-          "description": "поставщики топлива уголь, мазут, сжиженная нефть, древесина"
+          "description": "fuel dealers coal, fuel oil, liquefied petroleum, wood"
         }
       ]
     },
     {
-      "title": "Транспорт",
+      "title": "Transport",
       "list": [
         {
           "code": "4121",
-          "description": "лимузины и такси"
+          "description": "limousines and taxis"
         },
         {
           "code": "4131",
-          "description": "автобусные линии"
+          "description": "bus lines"
         },
         {
           "code": "4457",
-          "description": "аренда и наём судов"
+          "description": "boat rentals and leasing"
         },
         {
           "code": "4468",
-          "description": "пристани для яхт, их обслуживание и поставка"
+          "description": "marinas, marine service, and supplies"
         },
         {
           "code": "4784",
-          "description": "дорожный и мостовой сборы, пошлины"
+          "description": "bridge and road fees, tolls"
         },
         {
           "code": "4789",
-          "description": "услуги пассажирских перевозок —  нигде более не классифицированные"
+          "description": "transportation services — not elsewhere classified"
         },
         {
           "code": "5013",
-          "description": "поставщики грузовиков и запчастей"
+          "description": "truck and utility trailer rentals"
         },
         {
           "code": "5271",
-          "description": "продажа жилых фургонов"
+          "description": "recreational and utility trailer sales"
         },
         {
           "code": "5551",
-          "description": "продажа лодок"
+          "description": "boat dealers"
         },
         {
           "code": "5561",
-          "description": "дома-автоприцепы, жилые неразборные и грузовые прицепы"
+          "description": "motor home dealers"
         },
         {
           "code": "5592",
-          "description": "продажа домов на колёсах"
+          "description": "recreational vehicle dealers"
         },
         {
           "code": "5598",
-          "description": "продажа снегоходов"
+          "description": "snowmobile dealers"
         },
         {
           "code": "5599",
-          "description": "продажа различного рода автомобилей, авиа- и с/х оборудования —  нигде более не классифицированная"
+          "description": "miscellaneous automotive, aircraft, and farm equipment dealers — not elsewhere classified"
         },
         {
           "code": "7511",
-          "description": "стоянка грузового транспорта"
+          "description": "truck stop"
         },
         {
           "code": "7523",
-          "description": "паркинги и гаражи"
+          "description": "parking lots and garages"
         }
       ]
     },
     {
-      "title": "Турагентства",
+      "title": "Travel agencies",
       "list": [
         {
           "code": "4411",
-          "description": "круизные линии"
+          "description": "cruise lines"
         },
         {
           "code": "4722",
-          "description": "туристические агентства и организаторы экскурсий"
+          "description": "tourist agencies and tour operators"
         },
         {
           "code": "4723",
-          "description": "пакетные туроператоры (только для Германии)"
+          "description": "package tour operators (Germany only)"
         }
       ]
     },
     {
-      "title": "Финансовые услуги",
+      "title": "Financial services",
       "list": [
         {
           "code": "6012",
-          "description": "финансовые учреждения торговля и услуги"
+          "description": "financial institutions merchandise and services"
         },
         {
           "code": "6050",
-          "description": "финансовые учреждения квазикеш (электронные деньги)"
+          "description": "financial institutions quasi-cash (electronic money)"
         },
         {
           "code": "6051",
-          "description": "нефинансовые учреждения квазикеш"
+          "description": "non-financial institutions quasi-cash"
         },
         {
           "code": "6211",
-          "description": "ценные бумаги брокеры/дилеры"
+          "description": "securities brokers/dealers"
         },
         {
           "code": "6300",
-          "description": "продажа страхования, андеррайтинг, премии"
+          "description": "insurance sales, underwriting, and premiums"
         },
         {
           "code": "6381",
-          "description": "страховые премии"
+          "description": "insurance premiums"
         },
         {
           "code": "6399",
-          "description": "страхование —  нигде более не классифицированное"
+          "description": "insurance — not elsewhere classified"
         },
         {
           "code": "6513",
-          "description": "агенты недвижимости и менеджеры аренда"
+          "description": "real estate agents and managers rentals"
         },
         {
           "code": "6529–6538",
-          "description": "коды некоторых финансовых организаций, денежных переводов, финансовых учреждений, денежные переводы внутри и между странами"
+          "description": "codes for some financial organizations, money transfers, financial institutions, domestic and international money transfers"
         },
         {
           "code": "6539",
-          "description": "транзакции по финансированию (исключая MoneySend)"
+          "description": "funding transactions (excluding MoneySend)"
         },
         {
           "code": "6540",
-          "description": "транзакции по финансированию POI (за исключением MoneySend)"
+          "description": "POI funding transactions (excluding MoneySend)"
         },
         {
           "code": "6611",
-          "description": "переплата (авансовые платежи)"
+          "description": "overpayment (advance payments)"
         },
         {
           "code": "6760",
-          "description": "облигации сберегательного займа"
+          "description": "savings bonds"
         },
         {
           "code": "7322",
-          "description": "агентства взыскания долгов"
+          "description": "debt collection agencies"
         },
         {
           "code": "9411",
-          "description": "платежи по государственному займу"
+          "description": "government loan payments"
         }
       ]
     },
     {
-      "title": "Фото/видео",
+      "title": "Photo/video",
       "list": [
         {
           "code": "5946",
-          "description": "магазины фотооборудования и фотоприборов"
+          "description": "camera and photographic supply stores"
         },
         {
           "code": "7332",
-          "description": "услуги синьки и фотокопирования"
+          "description": "blueprinting and photocopying services"
         },
         {
           "code": "7333",
-          "description": "коммерческое искусство, графика, фотография"
+          "description": "commercial art, graphics, photography"
         },
         {
           "code": "7338",
-          "description": "быстрое копирование, репродуцирование и услуги по созданию чертежей"
+          "description": "quick copy, reproduction, and blueprinting services"
         },
         {
           "code": "7339",
-          "description": "услуги стенографии и секретарского дела"
+          "description": "stenographic and secretarial support services"
         },
         {
           "code": "7395",
-          "description": "фотостудии, фотолаборатории"
+          "description": "photofinishing laboratories, photo developing"
         }
       ]
     },
     {
-      "title": "Цветы",
+      "title": "Flowers",
       "list": [
         {
           "code": "5193",
-          "description": "принадлежности для флористов, питомник и цветы"
+          "description": "florist supplies, nursery stock, and flowers"
         },
         {
           "code": "5992",
-          "description": "флористика"
+          "description": "florists"
         }
       ]
     },
     {
-      "title": "Частные услуги",
+      "title": "Private services",
       "list": [
         {
           "code": "7261",
-          "description": "похоронные службы и крематории"
+          "description": "funeral services and crematories"
         },
         {
           "code": "7273",
-          "description": "знакомства"
+          "description": "dating services"
         },
         {
           "code": "7276",
-          "description": "служба налоговой подготовки"
+          "description": "tax preparation service"
         },
         {
           "code": "7277",
-          "description": "долги, брак, личные вопросы консультирование"
+          "description": "debt, marriage, personal counseling services"
         },
         {
           "code": "7299",
-          "description": "различные услуги —  нигде более не классифицированные"
+          "description": "miscellaneous personal services — not elsewhere classified"
         }
       ]
     },
@@ -1258,7 +1258,7 @@
       "list": [
         {
           "code": "5309",
-          "description": "беспошлинные магазины Duty Free"
+          "description": "duty free stores"
         }
       ]
     }
