@@ -286,5 +286,29 @@
     "title": "White Noise 5 (60 min)",
     "sound": "sound/white_noise/White_Noise_60min_5",
     "image": "sound/white_noise/img_cat.png"
+  },
+  {
+    "cat": "snow_blizzard",
+    "title": "Ambient Blizzard Sounds 30 minutes",
+    "sound": "sound/snow_blizzard/snow_blizzard_1",
+    "image": "sound/snow_blizzard/img_cat.png"
+  },
+  {
+    "cat": "snow_blizzard",
+    "title": "Blizzard Storm Sounds Relaxing Winter",
+    "sound": "sound/snow_blizzard/snow_blizzard_2",
+    "image": "sound/snow_blizzard/img_cat.png"
+  },
+  {
+    "cat": "snow_blizzard",
+    "title": "Cozy Winter Hut Ambience Fireplace, Blizzard, Snowstorm & Wind Sounds",
+    "sound": "sound/snow_blizzard/snow_blizzard_3",
+    "image": "sound/snow_blizzard/img_cat.png"
+  },
+  {
+    "cat": "snow_blizzard",
+    "title": "Blizzard, Snowstorm & Wind Sounds",
+    "sound": "sound/snow_blizzard/snow_blizzard_4",
+    "image": "sound/snow_blizzard/img_cat.png"
   }
 ]
