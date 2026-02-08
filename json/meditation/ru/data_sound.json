@@ -1,313 +1,313 @@
 [
   {
     "cat": "ambient",
-    "title": "Ambient Light",
+    "title": "Окружение",
     "sound": "sound/ambient/ambient_light",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Beach Serenity",
+    "title": "Безмятежность на пляже",
     "sound": "sound/ambient/beach_serenity",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "By The Fire",
+    "title": "У камина",
     "sound": "sound/ambient/by_the_fire",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Calmness",
+    "title": "Спокойствие",
     "sound": "sound/ambient/calmness",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Cinelax",
+    "title": "Кинорелакс",
     "sound": "sound/ambient/cinelax",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Deep Meditation",
+    "title": "Глубокая медитация",
     "sound": "sound/ambient/deep_meditation",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Deeper Meaning",
+    "title": "Глубокий смысл",
     "sound": "sound/ambient/deeper_meaning",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Forestal",
+    "title": "Лесной",
     "sound": "sound/ambient/forestal",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Frozen In Time",
+    "title": "Застывший во времени",
     "sound": "sound/ambient/frozen_in_time",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Horizon",
+    "title": "Горизонт",
     "sound": "sound/ambient/horizon",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Noisescape",
+    "title": "Звуковой пейзаж",
     "sound": "sound/ambient/noisescape",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Quiet Time",
+    "title": "Время тишины",
     "sound": "sound/ambient/quiet_time",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Serenity In The Woods",
+    "title": "Безмятежность в лесу",
     "sound": "sound/ambient/serenity_in_the_woods",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Soft And Fragile",
+    "title": "Мягкий и хрупкий",
     "sound": "sound/ambient/soft_and_fragile",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Tranquil Reflections",
+    "title": "Спокойные размышления",
     "sound": "sound/ambient/tranquil_reflections",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Tranquility",
+    "title": "Безмятежность",
     "sound": "sound/ambient/tranquility",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Wonder",
+    "title": "Чудо",
     "sound": "sound/ambient/wonder",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "ambient",
-    "title": "Smooth Meditation Study Beat Instrumental",
+    "title": "Спокойный бит для медитации",
     "sound": "sound/ambient/Smooth_Meditation_Study_Beat_Instrumental",
     "image": "sound/ambient/img_cat.png"
   },
   {
     "cat": "forest",
-    "title": "Forest 1",
+    "title": "Лес",
     "sound": "sound/forest/forest_1",
     "image": "sound/forest/img_cat.png"
   },
   {
     "cat": "forest",
-    "title": "Forest 2",
+    "title": "В лесу",
     "sound": "sound/forest/forest_2",
     "image": "sound/forest/img_cat.png"
   },
   {
     "cat": "forest",
-    "title": "Forest 3",
+    "title": "Летний лес",
     "sound": "sound/forest/forest_3",
     "image": "sound/forest/img_cat.png"
   },
   {
     "cat": "forest",
-    "title": "Forest 4",
+    "title": "Дневной лес",
     "sound": "sound/forest/forest_4",
     "image": "sound/forest/img_cat.png"
   },
   {
     "cat": "forest",
-    "title": "Forest 5",
+    "title": "Пение птиц в лесу",
     "sound": "sound/forest/forest_5",
     "image": "sound/forest/img_cat.png"
   },
   {
     "cat": "forest",
-    "title": "Forest 6",
+    "title": "Лес",
     "sound": "sound/forest/forest_6",
     "image": "sound/forest/img_cat.png"
   },
   {
     "cat": "forest",
-    "title": "Forest 7",
+    "title": "Лес",
     "sound": "sound/forest/forest_7",
     "image": "sound/forest/img_cat.png"
   },
   {
     "cat": "forest",
-    "title": "Forest 8",
+    "title": "Лес",
     "sound": "sound/forest/forest_8",
     "image": "sound/forest/img_cat.png"
   },
   {
     "cat": "night",
-    "title": "Night 1",
+    "title": "Ночь и сверчки",
     "sound": "sound/night/night_1",
     "image": "sound/night/img_cat.png"
   },
   {
     "cat": "night",
-    "title": "Night 2",
+    "title": "Звук сверчков ночью",
     "sound": "sound/night/night_2",
     "image": "sound/night/img_cat.png"
   },
   {
     "cat": "night",
-    "title": "Night 3",
+    "title": "Летняя ночь",
     "sound": "sound/night/night_3",
     "image": "sound/night/img_cat.png"
   },
   {
     "cat": "ocean_wave",
-    "title": "Ocean 1",
+    "title": "Океан и волны",
     "sound": "sound/ocean_wave/ocean_1",
     "image": "sound/ocean_wave/img_cat.png"
   },
   {
     "cat": "ocean_wave",
-    "title": "Ocean 2",
+    "title": "Шум океана",
     "sound": "sound/ocean_wave/ocean_2",
     "image": "sound/ocean_wave/img_cat.png"
   },
   {
     "cat": "ocean_wave",
-    "title": "Ocean 3",
+    "title": "Волны океана",
     "sound": "sound/ocean_wave/ocean_3",
     "image": "sound/ocean_wave/img_cat.png"
   },
   {
     "cat": "ocean_wave",
-    "title": "Ocean 4",
+    "title": "Океан",
     "sound": "sound/ocean_wave/ocean_4",
     "image": "sound/ocean_wave/img_cat.png"
   },
   {
     "cat": "rain",
-    "title": "Heavy Rain",
+    "title": "Сильный дождь",
     "sound": "sound/rain/heavy-rain",
     "image": "sound/rain/img_cat.png"
   },
   {
     "cat": "rain",
-    "title": "Rain Fall",
+    "title": "Шум дождя",
     "sound": "sound/rain/rain-fall",
     "image": "sound/rain/img_cat.png"
   },
   {
     "cat": "rain",
-    "title": "Rain In Nature",
+    "title": "Дождь на природе",
     "sound": "sound/rain/rain-in-nature",
     "image": "sound/rain/img_cat.png"
   },
   {
     "cat": "rain",
-    "title": "Rain Light",
+    "title": "Небольшой дождь",
     "sound": "sound/rain/rain-light",
     "image": "sound/rain/img_cat.png"
   },
   {
     "cat": "rain",
-    "title": "Rain Storm Ambience",
+    "title": "Атмосфера грозы",
     "sound": "sound/rain/rain-storm-ambience",
     "image": "sound/rain/img_cat.png"
   },
   {
     "cat": "rain_thunderstorm",
-    "title": "Thunderstorm 1",
+    "title": "Гроза и дождь",
     "sound": "sound/rain_thunderstorm/thunderstorm_1",
     "image": "sound/rain_thunderstorm/img_cat.png"
   },
   {
     "cat": "rain_thunderstorm",
-    "title": "Thunderstorm 2",
+    "title": "Шум грозы и мелкий дождь",
     "sound": "sound/rain_thunderstorm/thunderstorm_2",
     "image": "sound/rain_thunderstorm/img_cat.png"
   },
   {
     "cat": "rain_thunderstorm",
-    "title": "Thunderstorm 3",
+    "title": "Идет ливень и шум грозы",
     "sound": "sound/rain_thunderstorm/thunderstorm_3",
     "image": "sound/rain_thunderstorm/img_cat.png"
   },
   {
     "cat": "rain_thunderstorm",
-    "title": "Thunderstorm 4",
+    "title": "Легкий дождь и отдаленный шум грозы",
     "sound": "sound/rain_thunderstorm/thunderstorm_4",
     "image": "sound/rain_thunderstorm/img_cat.png"
   },
   {
     "cat": "rain_thunderstorm",
-    "title": "Thunderstorm 5",
+    "title": "Дождь и гроза",
     "sound": "sound/rain_thunderstorm/thunderstorm_5",
     "image": "sound/rain_thunderstorm/img_cat.png"
   },
   {
     "cat": "white_noise",
-    "title": "White Noise 1 (60 min)",
+    "title": "Белый шум 1 (60 мин)",
     "sound": "sound/white_noise/White_Noise_60min_1",
     "image": "sound/white_noise/img_cat.png"
   },
   {
     "cat": "white_noise",
-    "title": "White Noise 2 (60 min)",
+    "title": "Белый шум 2 (60 мин)",
     "sound": "sound/white_noise/White_Noise_60min_2",
     "image": "sound/white_noise/img_cat.png"
   },
   {
     "cat": "white_noise",
-    "title": "White Noise 3 (60 min)",
+    "title": "Белый шум 3 (60 мин)",
     "sound": "sound/white_noise/White_Noise_60min_3",
     "image": "sound/white_noise/img_cat.png"
   },
   {
     "cat": "white_noise",
-    "title": "White Noise 4 (60 min)",
+    "title": "Белый шум 4 (60 мин)",
     "sound": "sound/white_noise/White_Noise_60min_4",
     "image": "sound/white_noise/img_cat.png"
   },
   {
     "cat": "white_noise",
-    "title": "White Noise 5 (60 min)",
+    "title": "Белый шум 5 (60 мин)",
     "sound": "sound/white_noise/White_Noise_60min_5",
     "image": "sound/white_noise/img_cat.png"
   },
   {
     "cat": "snow_blizzard",
-    "title": "Ambient Blizzard",
+    "title": "Звуки метели",
     "sound": "sound/snow_blizzard/snow_blizzard_1",
     "image": "sound/snow_blizzard/img_cat.png"
   },
   {
     "cat": "snow_blizzard",
-    "title": "Blizzard Storm Relaxing Winter",
+    "title": "Зимняя метель",
     "sound": "sound/snow_blizzard/snow_blizzard_2",
     "image": "sound/snow_blizzard/img_cat.png"
   },
   {
     "cat": "snow_blizzard",
-    "title": "Fireplace, Blizzard, Snowstorm & Wind",
+    "title": "Камин, метель и ветер",
     "sound": "sound/snow_blizzard/snow_blizzard_3",
     "image": "sound/snow_blizzard/img_cat.png"
   },
   {
     "cat": "snow_blizzard",
-    "title": "Blizzard, Snowstorm & Wind Sounds",
+    "title": "Звуки метели и ветра",
     "sound": "sound/snow_blizzard/snow_blizzard_4",
     "image": "sound/snow_blizzard/img_cat.png"
   }
