@@ -1,0 +1,36 @@
+{
+  "wallpaper": [
+    {
+      "imgMin": "img/min/gradient-1.jpg",
+      "imgBig": "img/big/gradient-1.png"
+    },
+    {
+      "imgMin": "img/min/gradient-2.jpg",
+      "imgBig": "img/big/gradient-2.png"
+    },
+    {
+      "imgMin": "img/min/gradient-3.jpg",
+      "imgBig": "img/big/gradient-3.png"
+    },
+    {
+      "imgMin": "img/min/gradient-4.jpg",
+      "imgBig": "img/big/gradient-4.png"
+    },
+    {
+      "imgMin": "img/min/gradient-5.jpg",
+      "imgBig": "img/big/gradient-5.png"
+    },
+    {
+      "imgMin": "img/min/gradient-6.jpg",
+      "imgBig": "img/big/gradient-6.png"
+    },
+    {
+      "imgMin": "img/min/gradient-7.jpg",
+      "imgBig": "img/big/gradient-7.png"
+    },
+    {
+      "imgMin": "img/min/gradient-8.jpg",
+      "imgBig": "img/big/gradient-8.png"
+    }
+  ]
+}
