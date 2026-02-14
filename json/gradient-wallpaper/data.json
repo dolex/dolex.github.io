@@ -1,6 +1,10 @@
 {
   "wallpaper": [
     {
+      "imgMin": "img/min/gradient-0.jpg",
+      "imgBig": "img/big/gradient-0.png"
+    },
+    {
       "imgMin": "img/min/gradient-1.jpg",
       "imgBig": "img/big/gradient-1.png"
     },
