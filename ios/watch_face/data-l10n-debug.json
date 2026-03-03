@@ -4,7 +4,7 @@
             {
                 "id": 1,
                 "isHidden": true,
-                "category": "live",
+                "category": "live-copy",
                 "categoryTitle": [
                     { "lang": "ar", "value": "مباشر" },
                     { "lang": "ca_off", "value": "En directe" },
