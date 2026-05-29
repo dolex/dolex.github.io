@@ -1,162 +1,532 @@
 [
     {
         "id": 0,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-0.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-0.png"
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-0.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-0.jpg"
     },
     {
         "id": 1,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-1.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-1.png"
-    },
-    {
-        "id": 10,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-10.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-10.png"
-    },
-    {
-        "id": 11,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-11.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-11.png"
-    },
-    {
-        "id": 12,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-12.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-12.png"
-    },
-    {
-        "id": 13,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-13.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-13.png"
-    },
-    {
-        "id": 14,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-14.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-14.png"
-    },
-    {
-        "id": 15,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-15.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-15.png"
-    },
-    {
-        "id": 16,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-16.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-16.png"
-    },
-    {
-        "id": 17,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-17.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-17.png"
-    },
-    {
-        "id": 18,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-18.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-18.png"
-    },
-    {
-        "id": 19,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-19.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-19.png"
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-1.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-1.jpg"
     },
     {
         "id": 2,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-2.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-2.png"
-    },
-    {
-        "id": 20,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-20.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-20.png"
-    },
-    {
-        "id": 21,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-21.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-21.png"
-    },
-    {
-        "id": 22,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-22.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-22.png"
-    },
-    {
-        "id": 23,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-23.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-23.png"
-    },
-    {
-        "id": 24,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-24.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-24.png"
-    },
-    {
-        "id": 25,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-25.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-25.png"
-    },
-    {
-        "id": 26,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-26.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-26.png"
-    },
-    {
-        "id": 27,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-27.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-27.png"
-    },
-    {
-        "id": 28,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-28.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-28.png"
-    },
-    {
-        "id": 29,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-29.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-29.png"
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-2.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-2.jpg"
     },
     {
         "id": 3,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-3.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-3.png"
-    },
-    {
-        "id": 30,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-30.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-30.png"
-    },
-    {
-        "id": 31,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-31.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-31.png"
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-3.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-3.jpg"
     },
     {
         "id": 4,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-4.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-4.png"
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-4.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-4.jpg"
     },
     {
         "id": 5,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-5.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-5.png"
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-5.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-5.jpg"
     },
     {
         "id": 6,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-6.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-6.png"
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-6.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-6.jpg"
     },
     {
         "id": 7,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-7.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-7.png"
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-7.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-7.jpg"
     },
     {
         "id": 8,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-8.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-8.png"
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-8.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-8.jpg"
     },
     {
         "id": 9,
-        "bigImg": "https://dolex.github.io/json/app.darkwallpaper/big/big-9.png",
-        "minImg": "https://dolex.github.io/json/app.darkwallpaper/min/min-9.png"
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-9.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-9.jpg"
+    },
+    {
+        "id": 10,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-10.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-10.jpg"
+    },
+    {
+        "id": 11,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-11.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-11.jpg"
+    },
+    {
+        "id": 12,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-12.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-12.jpg"
+    },
+    {
+        "id": 13,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-13.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-13.jpg"
+    },
+    {
+        "id": 14,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-14.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-14.jpg"
+    },
+    {
+        "id": 15,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-15.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-15.jpg"
+    },
+    {
+        "id": 16,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-16.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-16.jpg"
+    },
+    {
+        "id": 17,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-17.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-17.jpg"
+    },
+    {
+        "id": 18,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-18.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-18.jpg"
+    },
+    {
+        "id": 19,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-19.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-19.jpg"
+    },
+    {
+        "id": 20,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-20.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-20.jpg"
+    },
+    {
+        "id": 21,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-21.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-21.jpg"
+    },
+    {
+        "id": 22,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-22.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-22.jpg"
+    },
+    {
+        "id": 23,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-23.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-23.jpg"
+    },
+    {
+        "id": 24,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-24.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-24.jpg"
+    },
+    {
+        "id": 25,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-25.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-25.jpg"
+    },
+    {
+        "id": 26,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-26.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-26.jpg"
+    },
+    {
+        "id": 27,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-27.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-27.jpg"
+    },
+    {
+        "id": 28,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-28.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-28.jpg"
+    },
+    {
+        "id": 29,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-29.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-29.jpg"
+    },
+    {
+        "id": 30,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-30.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-30.jpg"
+    },
+    {
+        "id": 31,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-31.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-31.jpg"
+    },
+    {
+        "id": 32,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-32.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-32.jpg"
+    },
+    {
+        "id": 33,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-33.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-33.jpg"
+    },
+    {
+        "id": 34,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-34.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-34.jpg"
+    },
+    {
+        "id": 35,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-35.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-35.jpg"
+    },
+    {
+        "id": 36,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-36.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-36.jpg"
+    },
+    {
+        "id": 37,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-37.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-37.png"
+    },
+    {
+        "id": 38,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-38.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-38.png"
+    },
+    {
+        "id": 39,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-39.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-39.png"
+    },
+    {
+        "id": 40,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-40.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-40.png"
+    },
+    {
+        "id": 41,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-41.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-41.png"
+    },
+    {
+        "id": 42,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-42.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-42.png"
+    },
+    {
+        "id": 43,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-43.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-43.png"
+    },
+    {
+        "id": 44,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-44.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-44.png"
+    },
+    {
+        "id": 45,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-45.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-45.png"
+    },
+    {
+        "id": 46,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-46.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-46.png"
+    },
+    {
+        "id": 47,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-47.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-47.png"
+    },
+    {
+        "id": 48,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-48.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-48.png"
+    },
+    {
+        "id": 49,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-49.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-49.png"
+    },
+    {
+        "id": 50,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-50.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-50.png"
+    },
+    {
+        "id": 51,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-51.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-51.png"
+    },
+    {
+        "id": 52,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-52.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-52.png"
+    },
+    {
+        "id": 53,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-53.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-53.png"
+    },
+    {
+        "id": 54,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-54.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-54.png"
+    },
+    {
+        "id": 55,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-55.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-55.png"
+    },
+    {
+        "id": 56,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-56.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-56.png"
+    },
+    {
+        "id": 57,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-57.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-57.png"
+    },
+    {
+        "id": 58,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-58.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-58.png"
+    },
+    {
+        "id": 59,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-59.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-59.png"
+    },
+    {
+        "id": 60,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-60.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-60.png"
+    },
+    {
+        "id": 61,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-61.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-61.png"
+    },
+    {
+        "id": 62,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-62.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-62.png"
+    },
+    {
+        "id": 63,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-63.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-63.png"
+    },
+    {
+        "id": 64,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-64.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-64.png"
+    },
+    {
+        "id": 65,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-65.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-65.png"
+    },
+    {
+        "id": 66,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-66.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-66.png"
+    },
+    {
+        "id": 67,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-67.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-67.png"
+    },
+    {
+        "id": 68,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-68.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-68.png"
+    },
+    {
+        "id": 69,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-69.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-69.jpg"
+    },
+    {
+        "id": 70,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-70.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-70.jpg"
+    },
+    {
+        "id": 71,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-71.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-71.jpg"
+    },
+    {
+        "id": 72,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-72.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-72.jpg"
+    },
+    {
+        "id": 73,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-73.jpg",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-73.jpg"
+    },
+    {
+        "id": 74,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-74.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-74.png"
+    },
+    {
+        "id": 75,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-75.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-75.png"
+    },
+    {
+        "id": 76,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-76.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-76.png"
+    },
+    {
+        "id": 77,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-77.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-77.png"
+    },
+    {
+        "id": 78,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-78.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-78.png"
+    },
+    {
+        "id": 79,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-79.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-79.png"
+    },
+    {
+        "id": 80,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-80.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-80.png"
+    },
+    {
+        "id": 81,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-81.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-81.png"
+    },
+    {
+        "id": 82,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-82.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-82.png"
+    },
+    {
+        "id": 83,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-83.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-83.png"
+    },
+    {
+        "id": 84,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-84.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-84.png"
+    },
+    {
+        "id": 85,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-85.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-85.png"
+    },
+    {
+        "id": 86,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-86.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-86.png"
+    },
+    {
+        "id": 87,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-87.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-87.png"
+    },
+    {
+        "id": 88,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-88.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-88.png"
+    },
+    {
+        "id": 89,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-89.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-89.png"
+    },
+    {
+        "id": 90,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-90.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-90.png"
+    },
+    {
+        "id": 91,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-91.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-91.png"
+    },
+    {
+        "id": 92,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-92.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-92.png"
+    },
+    {
+        "id": 93,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-93.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-93.png"
+    },
+    {
+        "id": 94,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-94.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-94.png"
+    },
+    {
+        "id": 95,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-95.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-95.png"
+    },
+    {
+        "id": 96,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-96.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-96.png"
+    },
+    {
+        "id": 97,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-97.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-97.png"
+    },
+    {
+        "id": 98,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-98.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-98.png"
+    },
+    {
+        "id": 99,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-99.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-99.png"
+    },
+    {
+        "id": 100,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-100.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-100.png"
+    },
+    {
+        "id": 101,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-101.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-101.png"
+    },
+    {
+        "id": 102,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-102.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-102.png"
+    },
+    {
+        "id": 103,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-103.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-103.png"
+    },
+    {
+        "id": 104,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-104.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-104.png"
+    },
+    {
+        "id": 105,
+        "bigImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/big/big-105.png",
+        "minImg": "https://dolex.github.io/json/wallpaper/app.darkwallpaper/app.darkwallpaper/min/min-105.png"
     }
 ]
