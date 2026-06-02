@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "minOrig": "image_thumb_1.jpg",
+    "bigBG": "bg_heavy_1.jpg",
+    "bigFGR": "foreground_layer_1.png"
+  },
+  {
+    "id": 2,
+    "minOrig": "image_thumb_2.jpg",
+    "bigBG": "bg_heavy_2.jpg",
+    "bigFGR": "foreground_layer_2.png"
+  },
+  {
+    "id": 3,
+    "minOrig": "image_thumb_3.jpg",
+    "bigBG": "bg_heavy_3.jpg",
+    "bigFGR": "foreground_layer_3.png"
+  }
+]
