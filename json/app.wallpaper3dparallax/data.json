@@ -1,20 +1,14 @@
 [
   {
     "id": 1,
-    "minOrig": "image_thumb_1.jpg",
-    "bigBG": "bg_heavy_1.jpg",
-    "bigFGR": "foreground_layer_1.png"
+    "minOrig": "wallpapers/1/min.jpg",
+    "bigBG": "wallpapers/1/bg.png",
+    "bigFGR": "wallpapers/1/frg.png"
   },
   {
     "id": 2,
-    "minOrig": "image_thumb_2.jpg",
-    "bigBG": "bg_heavy_2.jpg",
-    "bigFGR": "foreground_layer_2.png"
-  },
-  {
-    "id": 3,
-    "minOrig": "image_thumb_3.jpg",
-    "bigBG": "bg_heavy_3.jpg",
-    "bigFGR": "foreground_layer_3.png"
+    "minOrig": "wallpapers/2/min.jpg",
+    "bigBG": "wallpapers/2/bg.png",
+    "bigFGR": "wallpapers/2/frg.png"
   }
 ]
