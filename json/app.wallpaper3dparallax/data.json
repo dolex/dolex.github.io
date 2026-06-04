@@ -40,5 +40,101 @@
     "minOrig": "wallpapers/7/min.jpg",
     "bigBG": "wallpapers/7/bg.png",
     "bigFGR": "wallpapers/7/frg.png"
+  },
+  {
+    "id": 8,
+    "minOrig": "wallpapers/8/min.jpg",
+    "bigBG": "wallpapers/8/bg.png",
+    "bigFGR": "wallpapers/8/frg.png"
+  },
+  {
+    "id": 9,
+    "minOrig": "wallpapers/9/min.jpg",
+    "bigBG": "wallpapers/9/bg.png",
+    "bigFGR": "wallpapers/9/frg.png"
+  },
+  {
+    "id": 10,
+    "minOrig": "wallpapers/10/min.jpg",
+    "bigBG": "wallpapers/10/bg.png",
+    "bigFGR": "wallpapers/10/frg.png"
+  },
+  {
+    "id": 11,
+    "minOrig": "wallpapers/11/min.jpg",
+    "bigBG": "wallpapers/11/bg.png",
+    "bigFGR": "wallpapers/11/frg.png"
+  },
+  {
+    "id": 12,
+    "minOrig": "wallpapers/12/min.jpg",
+    "bigBG": "wallpapers/12/bg.png",
+    "bigFGR": "wallpapers/12/frg.png"
+  },
+  {
+    "id": 13,
+    "minOrig": "wallpapers/13/min.jpg",
+    "bigBG": "wallpapers/13/bg.png",
+    "bigFGR": "wallpapers/13/frg.png"
+  },
+  {
+    "id": 14,
+    "minOrig": "wallpapers/14/min.jpg",
+    "bigBG": "wallpapers/14/bg.png",
+    "bigFGR": "wallpapers/14/frg.png"
+  },
+  {
+    "id": 15,
+    "minOrig": "wallpapers/15/min.jpg",
+    "bigBG": "wallpapers/15/bg.png",
+    "bigFGR": "wallpapers/15/frg.png"
+  },
+  {
+    "id": 16,
+    "minOrig": "wallpapers/16/min.jpg",
+    "bigBG": "wallpapers/16/bg.png",
+    "bigFGR": "wallpapers/16/frg.png"
+  },
+  {
+    "id": 17,
+    "minOrig": "wallpapers/17/min.jpg",
+    "bigBG": "wallpapers/17/bg.png",
+    "bigFGR": "wallpapers/17/frg.png"
+  },
+  {
+    "id": 18,
+    "minOrig": "wallpapers/18/min.jpg",
+    "bigBG": "wallpapers/18/bg.png",
+    "bigFGR": "wallpapers/18/frg.png"
+  },
+  {
+    "id": 19,
+    "minOrig": "wallpapers/19/min.jpg",
+    "bigBG": "wallpapers/19/bg.png",
+    "bigFGR": "wallpapers/19/frg.png"
+  },
+  {
+    "id": 20,
+    "minOrig": "wallpapers/20/min.jpg",
+    "bigBG": "wallpapers/20/bg.png",
+    "bigFGR": "wallpapers/20/frg.png"
+  },
+  {
+    "id": 21,
+    "minOrig": "wallpapers/21/min.jpg",
+    "bigBG": "wallpapers/21/bg.png",
+    "bigFGR": "wallpapers/21/frg.png"
+  },
+  {
+    "id": 22,
+    "minOrig": "wallpapers/22/min.jpg",
+    "bigBG": "wallpapers/22/bg.png",
+    "bigFGR": "wallpapers/22/frg.png"
+  },
+  {
+    "id": 23,
+    "minOrig": "wallpapers/23/min.jpg",
+    "bigBG": "wallpapers/23/bg.png",
+    "bigFGR": "wallpapers/23/frg.png"
   }
 ]
