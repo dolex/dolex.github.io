@@ -136,5 +136,35 @@
     "minOrig": "wallpapers/23/min.jpg",
     "bigBG": "wallpapers/23/bg.png",
     "bigFGR": "wallpapers/23/frg.png"
+  },
+  {
+    "id": 24,
+    "minOrig": "wallpapers/24/min.jpg",
+    "bigBG": "wallpapers/24/bg.png",
+    "bigFGR": "wallpapers/24/frg.png"
+  },
+  {
+    "id": 25,
+    "minOrig": "wallpapers/25/min.jpg",
+    "bigBG": "wallpapers/25/bg.png",
+    "bigFGR": "wallpapers/25/frg.png"
+  },
+  {
+    "id": 26,
+    "minOrig": "wallpapers/26/min.jpg",
+    "bigBG": "wallpapers/26/bg.png",
+    "bigFGR": "wallpapers/26/frg.png"
+  },
+  {
+    "id": 27,
+    "minOrig": "wallpapers/27/min.jpg",
+    "bigBG": "wallpapers/27/bg.png",
+    "bigFGR": "wallpapers/27/frg.png"
+  },
+  {
+    "id": 28,
+    "minOrig": "wallpapers/28/min.jpg",
+    "bigBG": "wallpapers/28/bg.png",
+    "bigFGR": "wallpapers/28/frg.png"
   }
 ]
