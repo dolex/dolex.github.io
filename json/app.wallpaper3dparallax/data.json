@@ -10,5 +10,11 @@
     "minOrig": "wallpapers/2/min.jpg",
     "bigBG": "wallpapers/2/bg.png",
     "bigFGR": "wallpapers/2/frg.png"
+  },
+  {
+    "id": 3,
+    "minOrig": "wallpapers/3/min.jpg",
+    "bigBG": "wallpapers/3/bg.png",
+    "bigFGR": "wallpapers/3/frg.png"
   }
 ]
