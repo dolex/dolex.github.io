@@ -292,5 +292,23 @@
     "minOrig": "wallpapers/49/min.jpg",
     "bigBG": "wallpapers/49/bg.png",
     "bigFGR": "wallpapers/49/frg.png"
+  },
+  {
+    "id": 50,
+    "minOrig": "wallpapers/50/min.jpg",
+    "bigBG": "wallpapers/50/bg.png",
+    "bigFGR": "wallpapers/50/frg.png"
+  },
+  {
+    "id": 51,
+    "minOrig": "wallpapers/51/min.jpg",
+    "bigBG": "wallpapers/51/bg.png",
+    "bigFGR": "wallpapers/51/frg.png"
+  },
+  {
+    "id": 52,
+    "minOrig": "wallpapers/52/min.jpg",
+    "bigBG": "wallpapers/52/bg.png",
+    "bigFGR": "wallpapers/52/frg.png"
   }
 ]
