@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "minOrig": "wallpapers/1/min.jpg",
+    "bigBG": "wallpapers/1/bg.png",
+    "bigFGR": "wallpapers/1/frg.png"
+  },
+  {
+    "id": 2,
+    "minOrig": "wallpapers/2/min.jpg",
+    "bigBG": "wallpapers/2/bg.png",
+    "bigFGR": "wallpapers/2/frg.png"
+  },
+  {
+    "id": 3,
+    "minOrig": "wallpapers/3/min.jpg",
+    "bigBG": "wallpapers/3/bg.png",
+    "bigFGR": "wallpapers/3/frg.png"
+  },
+  {
+    "id": 4,
+    "minOrig": "wallpapers/4/min.jpg",
+    "bigBG": "wallpapers/4/bg.png",
+    "bigFGR": "wallpapers/4/frg.png"
+  },
+  {
+    "id": 5,
+    "minOrig": "wallpapers/5/min.jpg",
+    "bigBG": "wallpapers/5/bg.png",
+    "bigFGR": "wallpapers/5/frg.png"
+  },
+  {
+    "id": 6,
+    "minOrig": "wallpapers/6/min.jpg",
+    "bigBG": "wallpapers/6/bg.png",
+    "bigFGR": "wallpapers/6/frg.png"
+  },
+  {
+    "id": 7,
+    "minOrig": "wallpapers/7/min.jpg",
+    "bigBG": "wallpapers/7/bg.png",
+    "bigFGR": "wallpapers/7/frg.png"
+  },
+  {
+    "id": 8,
+    "minOrig": "wallpapers/8/min.jpg",
+    "bigBG": "wallpapers/8/bg.png",
+    "bigFGR": "wallpapers/8/frg.png"
+  },
+  {
+    "id": 9,
+    "minOrig": "wallpapers/9/min.jpg",
+    "bigBG": "wallpapers/9/bg.png",
+    "bigFGR": "wallpapers/9/frg.png"
+  },
+  {
+    "id": 10,
+    "minOrig": "wallpapers/10/min.jpg",
+    "bigBG": "wallpapers/10/bg.png",
+    "bigFGR": "wallpapers/10/frg.png"
+  },
+  {
+    "id": 11,
+    "minOrig": "wallpapers/11/min.jpg",
+    "bigBG": "wallpapers/11/bg.png",
+    "bigFGR": "wallpapers/11/frg.png"
+  },
+  {
+    "id": 12,
+    "minOrig": "wallpapers/12/min.jpg",
+    "bigBG": "wallpapers/12/bg.png",
+    "bigFGR": "wallpapers/12/frg.png"
+  },
+  {
+    "id": 13,
+    "minOrig": "wallpapers/13/min.jpg",
+    "bigBG": "wallpapers/13/bg.png",
+    "bigFGR": "wallpapers/13/frg.png"
+  },
+  {
+    "id": 14,
+    "minOrig": "wallpapers/14/min.jpg",
+    "bigBG": "wallpapers/14/bg.png",
+    "bigFGR": "wallpapers/14/frg.png"
+  },
+  {
+    "id": 15,
+    "minOrig": "wallpapers/15/min.jpg",
+    "bigBG": "wallpapers/15/bg.png",
+    "bigFGR": "wallpapers/15/frg.png"
+  },
+  {
+    "id": 16,
+    "minOrig": "wallpapers/16/min.jpg",
+    "bigBG": "wallpapers/16/bg.png",
+    "bigFGR": "wallpapers/16/frg.png"
+  },
+  {
+    "id": 17,
+    "minOrig": "wallpapers/17/min.jpg",
+    "bigBG": "wallpapers/17/bg.png",
+    "bigFGR": "wallpapers/17/frg.png"
+  },
+  {
+    "id": 18,
+    "minOrig": "wallpapers/18/min.jpg",
+    "bigBG": "wallpapers/18/bg.png",
+    "bigFGR": "wallpapers/18/frg.png"
+  },
+  {
+    "id": 19,
+    "minOrig": "wallpapers/19/min.jpg",
+    "bigBG": "wallpapers/19/bg.png",
+    "bigFGR": "wallpapers/19/frg.png"
+  },
+  {
+    "id": 20,
+    "minOrig": "wallpapers/20/min.jpg",
+    "bigBG": "wallpapers/20/bg.png",
+    "bigFGR": "wallpapers/20/frg.png"
+  },
+  {
+    "id": 21,
+    "minOrig": "wallpapers/21/min.jpg",
+    "bigBG": "wallpapers/21/bg.png",
+    "bigFGR": "wallpapers/21/frg.png"
+  },
+  {
+    "id": 22,
+    "minOrig": "wallpapers/22/min.jpg",
+    "bigBG": "wallpapers/22/bg.png",
+    "bigFGR": "wallpapers/22/frg.png"
+  },
+  {
+    "id": 23,
+    "minOrig": "wallpapers/23/min.jpg",
+    "bigBG": "wallpapers/23/bg.png",
+    "bigFGR": "wallpapers/23/frg.png"
+  },
+  {
+    "id": 24,
+    "minOrig": "wallpapers/24/min.jpg",
+    "bigBG": "wallpapers/24/bg.png",
+    "bigFGR": "wallpapers/24/frg.png"
+  },
+  {
+    "id": 25,
+    "minOrig": "wallpapers/25/min.jpg",
+    "bigBG": "wallpapers/25/bg.png",
+    "bigFGR": "wallpapers/25/frg.png"
+  },
+  {
+    "id": 26,
+    "minOrig": "wallpapers/26/min.jpg",
+    "bigBG": "wallpapers/26/bg.png",
+    "bigFGR": "wallpapers/26/frg.png"
+  },
+  {
+    "id": 27,
+    "minOrig": "wallpapers/27/min.jpg",
+    "bigBG": "wallpapers/27/bg.png",
+    "bigFGR": "wallpapers/27/frg.png"
+  },
+  {
+    "id": 28,
+    "minOrig": "wallpapers/28/min.jpg",
+    "bigBG": "wallpapers/28/bg.png",
+    "bigFGR": "wallpapers/28/frg.png"
+  },
+  {
+    "id": 29,
+    "minOrig": "wallpapers/29/min.jpg",
+    "bigBG": "wallpapers/29/bg.png",
+    "bigFGR": "wallpapers/29/frg.png"
+  },
+  {
+    "id": 30,
+    "minOrig": "wallpapers/30/min.jpg",
+    "bigBG": "wallpapers/30/bg.png",
+    "bigFGR": "wallpapers/30/frg.png"
+  },
+  {
+    "id": 31,
+    "minOrig": "wallpapers/31/min.jpg",
+    "bigBG": "wallpapers/31/bg.png",
+    "bigFGR": "wallpapers/31/frg.png"
+  },
+  {
+    "id": 32,
+    "minOrig": "wallpapers/32/min.jpg",
+    "bigBG": "wallpapers/32/bg.png",
+    "bigFGR": "wallpapers/32/frg.png"
+  },
+  {
+    "id": 33,
+    "minOrig": "wallpapers/33/min.jpg",
+    "bigBG": "wallpapers/33/bg.png",
+    "bigFGR": "wallpapers/33/frg.png"
+  },
+  {
+    "id": 34,
+    "minOrig": "wallpapers/34/min.jpg",
+    "bigBG": "wallpapers/34/bg.png",
+    "bigFGR": "wallpapers/34/frg.png"
+  },
+  {
+    "id": 35,
+    "minOrig": "wallpapers/35/min.jpg",
+    "bigBG": "wallpapers/35/bg.png",
+    "bigFGR": "wallpapers/35/frg.png"
+  },
+  {
+    "id": 36,
+    "minOrig": "wallpapers/36/min.jpg",
+    "bigBG": "wallpapers/36/bg.png",
+    "bigFGR": "wallpapers/36/frg.png"
+  },
+  {
+    "id": 37,
+    "minOrig": "wallpapers/37/min.jpg",
+    "bigBG": "wallpapers/37/bg.png",
+    "bigFGR": "wallpapers/37/frg.png"
+  },
+  {
+    "id": 38,
+    "minOrig": "wallpapers/38/min.jpg",
+    "bigBG": "wallpapers/38/bg.png",
+    "bigFGR": "wallpapers/38/frg.png"
+  },
+  {
+    "id": 39,
+    "minOrig": "wallpapers/39/min.jpg",
+    "bigBG": "wallpapers/39/bg.png",
+    "bigFGR": "wallpapers/39/frg.png"
+  },
+  {
+    "id": 40,
+    "minOrig": "wallpapers/40/min.jpg",
+    "bigBG": "wallpapers/40/bg.png",
+    "bigFGR": "wallpapers/40/frg.png"
+  },
+  {
+    "id": 41,
+    "minOrig": "wallpapers/41/min.jpg",
+    "bigBG": "wallpapers/41/bg.png",
+    "bigFGR": "wallpapers/41/frg.png"
+  },
+  {
+    "id": 42,
+    "minOrig": "wallpapers/42/min.jpg",
+    "bigBG": "wallpapers/42/bg.png",
+    "bigFGR": "wallpapers/42/frg.png"
+  },
+  {
+    "id": 43,
+    "minOrig": "wallpapers/43/min.jpg",
+    "bigBG": "wallpapers/43/bg.png",
+    "bigFGR": "wallpapers/43/frg.png"
+  },
+  {
+    "id": 44,
+    "minOrig": "wallpapers/44/min.jpg",
+    "bigBG": "wallpapers/44/bg.png",
+    "bigFGR": "wallpapers/44/frg.png"
+  },
+  {
+    "id": 45,
+    "minOrig": "wallpapers/45/min.jpg",
+    "bigBG": "wallpapers/45/bg.png",
+    "bigFGR": "wallpapers/45/frg.png"
+  },
+  {
+    "id": 46,
+    "minOrig": "wallpapers/46/min.jpg",
+    "bigBG": "wallpapers/46/bg.png",
+    "bigFGR": "wallpapers/46/frg.png"
+  },
+  {
+    "id": 47,
+    "minOrig": "wallpapers/47/min.jpg",
+    "bigBG": "wallpapers/47/bg.png",
+    "bigFGR": "wallpapers/47/frg.png"
+  },
+  {
+    "id": 48,
+    "minOrig": "wallpapers/48/min.jpg",
+    "bigBG": "wallpapers/48/bg.png",
+    "bigFGR": "wallpapers/48/frg.png"
+  },
+  {
+    "id": 49,
+    "minOrig": "wallpapers/49/min.jpg",
+    "bigBG": "wallpapers/49/bg.png",
+    "bigFGR": "wallpapers/49/frg.png"
+  },
+  {
+    "id": 51,
+    "minOrig": "wallpapers/51/min.jpg",
+    "bigBG": "wallpapers/51/bg.png",
+    "bigFGR": "wallpapers/51/frg.png"
+  },
+  {
+    "id": 52,
+    "minOrig": "wallpapers/52/min.jpg",
+    "bigBG": "wallpapers/52/bg.png",
+    "bigFGR": "wallpapers/52/frg.png"
+  }
+]
