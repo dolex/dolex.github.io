@@ -345,11 +345,6 @@
         "soundMeme": "/sound-mp3/plankton-augh.mp3"
     },
     {
-        "id": 70,
-        "name": "Shut your fckin mouth",
-        "soundMeme": "/sound-mp3/shut-your-fckin-mouth.mp3"
-    },
-    {
         "id": 71,
         "name": "POU ESTOURADO",
         "soundMeme": "/sound-mp3/pou-estourado.mp3"
@@ -440,11 +435,6 @@
         "soundMeme": "/sound-mp3/rat-dance-music.mp3"
     },
     {
-        "id": 89,
-        "name": "BLYYAAAAAAAAAAAAT",
-        "soundMeme": "/sound-mp3/blyyaaaaaaaaaaaat.mp3"
-    },
-    {
         "id": 90,
         "name": "Buenas tardes grupo",
         "soundMeme": "/sound-mp3/buenas-tardes-grupo.mp3"
@@ -513,11 +503,6 @@
         "id": 103,
         "name": "Mbappe dictador",
         "soundMeme": "/sound-mp3/mbappe-dictador.mp3"
-    },
-    {
-        "id": 104,
-        "name": "shut the fu up",
-        "soundMeme": "/sound-mp3/shut-the-fu-up.mp3"
     },
     {
         "id": 105,
