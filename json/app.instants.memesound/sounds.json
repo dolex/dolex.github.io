@@ -620,11 +620,6 @@
         "soundMeme": "/sound-mp3/lightsaber-on.mp3"
     },
     {
-        "id": 128,
-        "name": "Lightsaber ON",
-        "soundMeme": "/sound-mp3/lightsaber-on-2.mp3"
-    },
-    {
         "id": 129,
         "name": "Freddy beatbox",
         "soundMeme": "/sound-mp3/freddy-beatbox.mp3"
