@@ -513,55 +513,5 @@
         "id": 103,
         "bigImg": "orig/lbw_103.jpg",
         "minImg": "min/lbw_103.jpg"
-    },
-    {
-        "id": 104,
-        "bigImg": "orig/lbw_104.jpg",
-        "minImg": "min/lbw_104.jpg"
-    },
-    {
-        "id": 105,
-        "bigImg": "orig/lbw_105.jpg",
-        "minImg": "min/lbw_105.jpg"
-    },
-    {
-        "id": 106,
-        "bigImg": "orig/lbw_106.jpg",
-        "minImg": "min/lbw_106.jpg"
-    },
-    {
-        "id": 107,
-        "bigImg": "orig/lbw_107.jpg",
-        "minImg": "min/lbw_107.jpg"
-    },
-    {
-        "id": 108,
-        "bigImg": "orig/lbw_108.jpg",
-        "minImg": "min/lbw_108.jpg"
-    },
-    {
-        "id": 109,
-        "bigImg": "orig/lbw_109.jpg",
-        "minImg": "min/lbw_109.jpg"
-    },
-    {
-        "id": 110,
-        "bigImg": "orig/lbw_110.jpg",
-        "minImg": "min/lbw_110.jpg"
-    },
-    {
-        "id": 111,
-        "bigImg": "orig/lbw_111.jpg",
-        "minImg": "min/lbw_111.jpg"
-    },
-    {
-        "id": 112,
-        "bigImg": "orig/lbw_112.jpg",
-        "minImg": "min/lbw_112.jpg"
-    },
-    {
-        "id": 113,
-        "bigImg": "orig/lbw_113.jpg",
-        "minImg": "min/lbw_113.jpg"
     }
 ]
