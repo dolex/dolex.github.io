@@ -1,0 +1,1609 @@
+{
+  "categories": [
+    { "id": "smart_home", "name": "Умный дом", "icon": "home" },
+    { "id": "music", "name": "Музыка", "icon": "music_note" },
+    { "id": "weather", "name": "Погода", "icon": "wb_sunny" },
+    { "id": "entertainment", "name": "Развлечения", "icon": "videogame_asset" },
+    { "id": "tools", "name": "Инструменты", "icon": "build" },
+    {
+      "id": "getting_started",
+      "name": "Начало работы",
+      "icon": "settings_voice"
+    },
+    {
+      "id": "basic_commands",
+      "name": "Основные команды",
+      "icon": "record_voice_over"
+    },
+    { "id": "volume", "name": "Громкость", "icon": "volume_up" },
+    {
+      "id": "smart_home_phone",
+      "name": "Умный дом и телефон",
+      "icon": "phone_iphone"
+    },
+    { "id": "tricks", "name": "Фишки и секреты", "icon": "auto_awesome" },
+    { "id": "reminders", "name": "Напоминания и будильники", "icon": "alarm" },
+    { "id": "calendar", "name": "Календарь и время", "icon": "calendar_today" },
+    { "id": "news", "name": "Новости и радио", "icon": "radio" },
+    {
+      "id": "transport",
+      "name": "Транспорт и навигация",
+      "icon": "directions_car"
+    },
+    { "id": "shopping", "name": "Покупки и заказы", "icon": "shopping_cart" },
+    { "id": "education", "name": "Обучение и перевод", "icon": "school" },
+    { "id": "health", "name": "Здоровье и спорт", "icon": "fitness_center" },
+    { "id": "cooking", "name": "Кухня и рецепты", "icon": "restaurant" },
+    { "id": "kids", "name": "Дети и сказки", "icon": "child_care" },
+    { "id": "security", "name": "Безопасность", "icon": "security" },
+    { "id": "travel", "name": "Путешествия", "icon": "flight" },
+    { "id": "finance", "name": "Финансы", "icon": "account_balance_wallet" },
+    { "id": "gadgets", "name": "Гаджеты", "icon": "devices" },
+    { "id": "productivity", "name": "Продуктивность", "icon": "task_alt" },
+    { "id": "social", "name": "Общение", "icon": "chat" },
+    { "id": "photo_video", "name": "Фото и видео", "icon": "photo_camera" },
+    { "id": "books", "name": "Книги", "icon": "menu_book" },
+    { "id": "hobbies", "name": "Хобби", "icon": "palette" },
+    { "id": "auto", "name": "Авто", "icon": "directions_car" },
+    { "id": "pets", "name": "Питомцы", "icon": "pets" },
+    { "id": "fashion", "name": "Мода и красота", "icon": "checkroom" },
+    { "id": "events", "name": "События и билеты", "icon": "local_activity" },
+    { "id": "government", "name": "Госуслуги", "icon": "account_balance" },
+    { "id": "games", "name": "Игры", "icon": "sports_esports" },
+    { "id": "eco", "name": "Экология", "icon": "eco" }
+  ],
+  "commands": [
+    {
+      "id": "sh_1",
+      "categoryId": "smart_home",
+      "title": "Включи свет в гостиной",
+      "description": "Включает освещение в указанной комнате.",
+      "variations": [
+        {
+          "text": "Алиса, включи свет",
+          "voice": "voice/smart_home/sh_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, зажги свет в гостиной",
+          "voice": "voice/smart_home/sh_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, включи люстру",
+          "voice": "voice/smart_home/sh_1/variation_3.wav"
+        }
+      ],
+      "tips": "Для работы этой команды у вас должна быть настроена умная лампочка или реле в приложении Дом с Алисой."
+    },
+    {
+      "id": "sh_2",
+      "categoryId": "smart_home",
+      "title": "Установи температуру 22 градуса",
+      "description": "Управление кондиционером или обогревателем.",
+      "variations": [
+        {
+          "text": "Алиса, сделай теплее",
+          "voice": "voice/smart_home/sh_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, поставь кондиционер на 20 градусов",
+          "voice": "voice/smart_home/sh_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, выключи обогрев",
+          "voice": "voice/smart_home/sh_2/variation_3.wav"
+        }
+      ],
+      "tips": "Команда работает с умными термостатами, кондиционерами и ИК-пультами."
+    },
+    {
+      "id": "m_1",
+      "categoryId": "music",
+      "title": "Включи спокойную музыку",
+      "description": "Запуск подборки музыки под настроение.",
+      "variations": [
+        {
+          "text": "Алиса, включи джаз",
+          "voice": "voice/music/m_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, поставь что-нибудь веселое",
+          "voice": "voice/music/m_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, включи мою любимую музыку",
+          "voice": "voice/music/m_1/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса обучается на ваших предпочтениях в Яндекс Музыке."
+    },
+    {
+      "id": "m_2",
+      "categoryId": "music",
+      "title": "Что сейчас играет?",
+      "description": "Узнать название текущего трека и исполнителя.",
+      "variations": [
+        {
+          "text": "Алиса, кто поет?",
+          "voice": "voice/music/m_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, название песни",
+          "voice": "voice/music/m_2/variation_2.wav"
+        }
+      ],
+      "tips": "Вы можете сразу лайкнуть песню, сказав 'Алиса, лайк'."
+    },
+    {
+      "id": "w_1",
+      "categoryId": "weather",
+      "title": "Какая погода завтра?",
+      "description": "Прогноз погоды на следующий день.",
+      "variations": [
+        {
+          "text": "Алиса, будет ли дождь?",
+          "voice": "voice/weather/w_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, погода на выходные",
+          "voice": "voice/weather/w_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, какая температура на улице?",
+          "voice": "voice/weather/w_1/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса использует данные Яндекс Погоды с точностью до района."
+    },
+    {
+      "id": "w_2",
+      "categoryId": "weather",
+      "title": "Нужен ли зонт сегодня?",
+      "description": "Проверка вероятности осадков.",
+      "variations": [
+        {
+          "text": "Алиса, возьми зонт?",
+          "voice": "voice/weather/w_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, когда закончится дождь?",
+          "voice": "voice/weather/w_2/variation_2.wav"
+        }
+      ],
+      "tips": "Алиса подскажет, если в ближайший час ожидаются осадки."
+    },
+    {
+      "id": "e_1",
+      "categoryId": "entertainment",
+      "title": "Давай поиграем в города",
+      "description": "Запуск классической игры в города.",
+      "variations": [
+        {
+          "text": "Алиса, поиграем?",
+          "voice": "voice/entertainment/e_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, расскажи сказку",
+          "voice": "voice/entertainment/e_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, подбери игру",
+          "voice": "voice/entertainment/e_1/variation_3.wav"
+        }
+      ],
+      "tips": "У Алисы сотни встроенных навыков-игр для детей и взрослых."
+    },
+    {
+      "id": "e_2",
+      "categoryId": "entertainment",
+      "title": "Расскажи анекдот",
+      "description": "Минутка юмора от Алисы.",
+      "variations": [
+        {
+          "text": "Алиса, рассмеши меня",
+          "voice": "voice/entertainment/e_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, расскажи шутку",
+          "voice": "voice/entertainment/e_2/variation_2.wav"
+        }
+      ],
+      "tips": "Можно попросить анекдот на специфическую тему, например про программистов."
+    },
+    {
+      "id": "t_1",
+      "categoryId": "tools",
+      "title": "Поставь таймер на 10 минут",
+      "description": "Создание обратного отсчета.",
+      "variations": [
+        {
+          "text": "Алиса, засеки 5 минут",
+          "voice": "voice/tools/t_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, напомни выключить плиту через полчаса",
+          "voice": "voice/tools/t_1/variation_2.wav"
+        }
+      ],
+      "tips": "Таймеры отлично подходят для готовки. Можно ставить несколько таймеров одновременно."
+    },
+    {
+      "id": "t_2",
+      "categoryId": "tools",
+      "title": "Переведи 'Hello' на русский",
+      "description": "Быстрый перевод слов и фраз.",
+      "variations": [
+        {
+          "text": "Алиса, как будет по-английски 'Яблоко'?",
+          "voice": "voice/tools/t_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, переведи с немецкого...",
+          "voice": "voice/tools/t_2/variation_2.wav"
+        }
+      ],
+      "tips": "Алиса использует технологии Яндекс Переводчика."
+    },
+    {
+      "id": "gs_1",
+      "categoryId": "getting_started",
+      "title": "Как включить и настроить Алису",
+      "description": "Пошаговое начало работы с умной колонкой.",
+      "variations": [
+        {
+          "text": "Алиса, привет",
+          "voice": "voice/getting_started/gs_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, давай познакомимся",
+          "voice": "voice/getting_started/gs_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, как тебя настроить",
+          "voice": "voice/getting_started/gs_1/variation_3.wav"
+        }
+      ],
+      "tips": "Подключите колонку к сети, установите приложение Дом с Алисой и войдите в свой Яндекс-аккаунт."
+    },
+    {
+      "id": "gs_2",
+      "categoryId": "getting_started",
+      "title": "Подключение к Wi-Fi",
+      "description": "Настройка интернета для умной колонки.",
+      "variations": [
+        {
+          "text": "Алиса, подключи Wi-Fi",
+          "voice": "voice/getting_started/gs_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, настрой сеть",
+          "voice": "voice/getting_started/gs_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, смени Wi-Fi",
+          "voice": "voice/getting_started/gs_2/variation_3.wav"
+        }
+      ],
+      "tips": "Wi-Fi можно настроить в приложении Дом с Алисой. Для старых моделей может понадобиться режим сопряжения."
+    },
+    {
+      "id": "gs_3",
+      "categoryId": "getting_started",
+      "title": "Проверка связи с колонкой",
+      "description": "Убедиться, что Алиса слышит и отвечает.",
+      "variations": [
+        {
+          "text": "Алиса, ты меня слышишь?",
+          "voice": "voice/getting_started/gs_3/variation_1.wav"
+        },
+        {
+          "text": "Алиса, проверка связи",
+          "voice": "voice/getting_started/gs_3/variation_2.wav"
+        },
+        {
+          "text": "Алиса, скажи что-нибудь",
+          "voice": "voice/getting_started/gs_3/variation_3.wav"
+        }
+      ],
+      "tips": "Если Алиса не отвечает, проверьте питание, Wi-Fi и не выключен ли микрофон."
+    },
+    {
+      "id": "bc_1",
+      "categoryId": "basic_commands",
+      "title": "Что умеет Алиса",
+      "description": "Список основных возможностей.",
+      "variations": [
+        {
+          "text": "Алиса, что ты умеешь?",
+          "voice": "voice/basic_commands/bc_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, покажи команды",
+          "voice": "voice/basic_commands/bc_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, помощь",
+          "voice": "voice/basic_commands/bc_1/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса показывает подсказки в приложении и сама предлагает навыки."
+    },
+    {
+      "id": "bc_2",
+      "categoryId": "basic_commands",
+      "title": "Остановить ответ или действие",
+      "description": "Прервать речь или музыку.",
+      "variations": [
+        {
+          "text": "Алиса, стоп",
+          "voice": "voice/basic_commands/bc_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, хватит",
+          "voice": "voice/basic_commands/bc_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, отмена",
+          "voice": "voice/basic_commands/bc_2/variation_3.wav"
+        }
+      ],
+      "tips": "Команда 'стоп' работает для музыки, таймеров, сказок и подкастов."
+    },
+    {
+      "id": "bc_3",
+      "categoryId": "basic_commands",
+      "title": "Повторить последний ответ",
+      "description": "Попросить Алису повторить фразу.",
+      "variations": [
+        {
+          "text": "Алиса, повтори",
+          "voice": "voice/basic_commands/bc_3/variation_1.wav"
+        },
+        {
+          "text": "Алиса, что ты сказала?",
+          "voice": "voice/basic_commands/bc_3/variation_2.wav"
+        },
+        {
+          "text": "Алиса, еще раз",
+          "voice": "voice/basic_commands/bc_3/variation_3.wav"
+        }
+      ],
+      "tips": "Если ответ был длинным, можно сказать 'Алиса, продолжи'."
+    },
+    {
+      "id": "vol_1",
+      "categoryId": "volume",
+      "title": "Сделать громче",
+      "description": "Увеличить громкость колонки.",
+      "variations": [
+        {
+          "text": "Алиса, громче",
+          "voice": "voice/volume/vol_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, прибавь звук",
+          "voice": "voice/volume/vol_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, громкость на 7",
+          "voice": "voice/volume/vol_1/variation_3.wav"
+        }
+      ],
+      "tips": "Уровень можно задавать числом от 0 до 10 в большинстве колонок."
+    },
+    {
+      "id": "vol_2",
+      "categoryId": "volume",
+      "title": "Сделать тише",
+      "description": "Уменьшить громкость колонки.",
+      "variations": [
+        {
+          "text": "Алиса, тише",
+          "voice": "voice/volume/vol_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, убавь звук",
+          "voice": "voice/volume/vol_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, громкость 2",
+          "voice": "voice/volume/vol_2/variation_3.wav"
+        }
+      ],
+      "tips": "Ночью удобно сказать 'Алиса, тише на 50 процентов'."
+    },
+    {
+      "id": "vol_3",
+      "categoryId": "volume",
+      "title": "Выключить или включить звук",
+      "description": "Управление mute и возвратом звука.",
+      "variations": [
+        {
+          "text": "Алиса, выключи звук",
+          "voice": "voice/volume/vol_3/variation_1.wav"
+        },
+        {
+          "text": "Алиса, включи звук",
+          "voice": "voice/volume/vol_3/variation_2.wav"
+        },
+        { "text": "Алиса, mute", "voice": "voice/volume/vol_3/variation_3.wav" }
+      ],
+      "tips": "На некоторых колонках есть физическая кнопка отключения микрофона — она не равна выключению звука."
+    },
+    {
+      "id": "shp_1",
+      "categoryId": "smart_home_phone",
+      "title": "Управление умным домом голосом",
+      "description": "Включение и выключение устройств.",
+      "variations": [
+        {
+          "text": "Алиса, включи свет в спальне",
+          "voice": "voice/smart_home_phone/shp_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, выключи розетку",
+          "voice": "voice/smart_home_phone/shp_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, поставь чайник",
+          "voice": "voice/smart_home_phone/shp_1/variation_3.wav"
+        }
+      ],
+      "tips": "Устройства должны быть добавлены в приложение Дом с Алисой и привязаны к комнатам."
+    },
+    {
+      "id": "shp_2",
+      "categoryId": "smart_home_phone",
+      "title": "Позвонить с телефона",
+      "description": "Совершение звонка через Алису.",
+      "variations": [
+        {
+          "text": "Алиса, позвони маме",
+          "voice": "voice/smart_home_phone/shp_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, набери номер 123",
+          "voice": "voice/smart_home_phone/shp_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, позвони по громкой связи",
+          "voice": "voice/smart_home_phone/shp_2/variation_3.wav"
+        }
+      ],
+      "tips": "Функция работает на смартфоне с приложением Яндекс и разрешением на звонки."
+    },
+    {
+      "id": "shp_3",
+      "categoryId": "smart_home_phone",
+      "title": "Найти телефон",
+      "description": "Поиск потерянного смартфона.",
+      "variations": [
+        {
+          "text": "Алиса, найди телефон",
+          "voice": "voice/smart_home_phone/shp_3/variation_1.wav"
+        },
+        {
+          "text": "Алиса, позвони на мой телефон",
+          "voice": "voice/smart_home_phone/shp_3/variation_2.wav"
+        },
+        {
+          "text": "Алиса, где мой телефон?",
+          "voice": "voice/smart_home_phone/shp_3/variation_3.wav"
+        }
+      ],
+      "tips": "Команда доступна, если телефон связан с Алисой и находится рядом."
+    },
+    {
+      "id": "tr_1",
+      "categoryId": "tricks",
+      "title": "Секретные фразы и пасхалки",
+      "description": "Забавные ответы на необычные вопросы.",
+      "variations": [
+        {
+          "text": "Алиса, сколько тебе лет?",
+          "voice": "voice/tricks/tr_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, ты человек?",
+          "voice": "voice/tricks/tr_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, расскажи секрет",
+          "voice": "voice/tricks/tr_1/variation_3.wav"
+        }
+      ],
+      "tips": "Попробуйте спросить 'Алиса, что ты делаешь?' или 'Алиса, спой песенку про кота'."
+    },
+    {
+      "id": "tr_2",
+      "categoryId": "tricks",
+      "title": "Режим сна и утренний сценарий",
+      "description": "Автоматизация вечерних и утренних действий.",
+      "variations": [
+        {
+          "text": "Алиса, включи режим сна",
+          "voice": "voice/tricks/tr_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, доброе утро",
+          "voice": "voice/tricks/tr_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, я ушел",
+          "voice": "voice/tricks/tr_2/variation_3.wav"
+        }
+      ],
+      "tips": "Сценарии настраиваются в приложении Дом с Алисой."
+    },
+    {
+      "id": "tr_3",
+      "categoryId": "tricks",
+      "title": "Игры с Алисой",
+      "description": "Быстрый запуск развлечений.",
+      "variations": [
+        {
+          "text": "Алиса, давай играть",
+          "voice": "voice/tricks/tr_3/variation_1.wav"
+        },
+        {
+          "text": "Алиса, включи викторину",
+          "voice": "voice/tricks/tr_3/variation_2.wav"
+        },
+        {
+          "text": "Алиса, загадай загадку",
+          "voice": "voice/tricks/tr_3/variation_3.wav"
+        }
+      ],
+      "tips": "Многие игры работают без экрана и подходят для детей."
+    },
+    {
+      "id": "rem_1",
+      "categoryId": "reminders",
+      "title": "Поставить напоминание",
+      "description": "Создание голосового напоминания.",
+      "variations": [
+        {
+          "text": "Алиса, напомни позвонить врачу завтра в 10",
+          "voice": "voice/reminders/rem_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, напомни выпить воду",
+          "voice": "voice/reminders/rem_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, список дел",
+          "voice": "voice/reminders/rem_1/variation_3.wav"
+        }
+      ],
+      "tips": "Напоминания синхронизируются с Яндекс-календарем и приложением."
+    },
+    {
+      "id": "rem_2",
+      "categoryId": "reminders",
+      "title": "Будильник",
+      "description": "Установка будильника на колонке.",
+      "variations": [
+        {
+          "text": "Алиса, поставь будильник на 7 утра",
+          "voice": "voice/reminders/rem_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, разбуди меня в 6:30",
+          "voice": "voice/reminders/rem_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, отмени будильник",
+          "voice": "voice/reminders/rem_2/variation_3.wav"
+        }
+      ],
+      "tips": "На колонках с экраном можно выбрать мелодию и громкость будильника."
+    },
+    {
+      "id": "cal_1",
+      "categoryId": "calendar",
+      "title": "Какие планы на сегодня",
+      "description": "Просмотр событий календаря.",
+      "variations": [
+        {
+          "text": "Алиса, что у меня сегодня?",
+          "voice": "voice/calendar/cal_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, какие встречи завтра?",
+          "voice": "voice/calendar/cal_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, покажи календарь",
+          "voice": "voice/calendar/cal_1/variation_3.wav"
+        }
+      ],
+      "tips": "Нужно разрешить Алисе доступ к календарю в приложении."
+    },
+    {
+      "id": "cal_2",
+      "categoryId": "calendar",
+      "title": "Добавить встречу",
+      "description": "Создание события в календаре.",
+      "variations": [
+        {
+          "text": "Алиса, добавь встречу в 15:00",
+          "voice": "voice/calendar/cal_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, запиши на четверг",
+          "voice": "voice/calendar/cal_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, создай событие",
+          "voice": "voice/calendar/cal_2/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса уточнит время, место и название, если они не названы."
+    },
+    {
+      "id": "news_1",
+      "categoryId": "news",
+      "title": "Включи новости",
+      "description": "Краткая сводка новостей.",
+      "variations": [
+        {
+          "text": "Алиса, включи новости",
+          "voice": "voice/news/news_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, что нового?",
+          "voice": "voice/news/news_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, новости спорта",
+          "voice": "voice/news/news_1/variation_3.wav"
+        }
+      ],
+      "tips": "Можно выбрать источник и тему в настройках новостей."
+    },
+    {
+      "id": "news_2",
+      "categoryId": "news",
+      "title": "Радио и подкасты",
+      "description": "Запуск радиостанций и подкастов.",
+      "variations": [
+        {
+          "text": "Алиса, включи радио",
+          "voice": "voice/news/news_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, включи Европу Плюс",
+          "voice": "voice/news/news_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, поставь подкаст",
+          "voice": "voice/news/news_2/variation_3.wav"
+        }
+      ],
+      "tips": "Скажите 'Алиса, следующий выпуск', чтобы переключить подкаст."
+    },
+    {
+      "id": "nav_1",
+      "categoryId": "transport",
+      "title": "Построй маршрут",
+      "description": "Навигация и пробки.",
+      "variations": [
+        {
+          "text": "Алиса, построй маршрут до дома",
+          "voice": "voice/transport/nav_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, сколько ехать до работы?",
+          "voice": "voice/transport/nav_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, пробки на дорогах",
+          "voice": "voice/transport/nav_1/variation_3.wav"
+        }
+      ],
+      "tips": "Работает в приложении Яндекс Карты и на устройствах с экраном."
+    },
+    {
+      "id": "nav_2",
+      "categoryId": "transport",
+      "title": "Такси и транспорт",
+      "description": "Заказ такси и информация о транспорте.",
+      "variations": [
+        {
+          "text": "Алиса, вызови такси",
+          "voice": "voice/transport/nav_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, когда автобус?",
+          "voice": "voice/transport/nav_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, ближайшая остановка",
+          "voice": "voice/transport/nav_2/variation_3.wav"
+        }
+      ],
+      "tips": "Для заказа такси может потребоваться подтверждение в приложении."
+    },
+    {
+      "id": "shop_1",
+      "categoryId": "shopping",
+      "title": "Добавь в корзину",
+      "description": "Покупки в Яндекс Лавке и Маркете.",
+      "variations": [
+        {
+          "text": "Алиса, добавь молоко в корзину",
+          "voice": "voice/shopping/shop_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, что в корзине?",
+          "voice": "voice/shopping/shop_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, закажи пиццу",
+          "voice": "voice/shopping/shop_1/variation_3.wav"
+        }
+      ],
+      "tips": "Перед заказом проверьте адрес и способ оплаты в приложении."
+    },
+    {
+      "id": "shop_2",
+      "categoryId": "shopping",
+      "title": "Список покупок",
+      "description": "Ведение списка покупок.",
+      "variations": [
+        {
+          "text": "Алиса, добавь хлеб в список покупок",
+          "voice": "voice/shopping/shop_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, покажи список покупок",
+          "voice": "voice/shopping/shop_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, удали молоко из списка",
+          "voice": "voice/shopping/shop_2/variation_3.wav"
+        }
+      ],
+      "tips": "Список покупок доступен в приложении Яндекс."
+    },
+    {
+      "id": "edu_1",
+      "categoryId": "education",
+      "title": "Перевод слов",
+      "description": "Быстрый перевод на разные языки.",
+      "variations": [
+        {
+          "text": "Алиса, переведи на английский слово дом",
+          "voice": "voice/education/edu_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, как по-испански спасибо?",
+          "voice": "voice/education/edu_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, перевод фразы",
+          "voice": "voice/education/edu_1/variation_3.wav"
+        }
+      ],
+      "tips": "Для сложных фраз лучше говорить четко и указывать язык."
+    },
+    {
+      "id": "edu_2",
+      "categoryId": "education",
+      "title": "Объясни и расскажи",
+      "description": "Помощь с учебой и фактами.",
+      "variations": [
+        {
+          "text": "Алиса, объясни теорему Пифагора",
+          "voice": "voice/education/edu_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, расскажи про космос",
+          "voice": "voice/education/edu_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, сколько будет 15 умножить на 8?",
+          "voice": "voice/education/edu_2/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса может решать примеры, но сложные вычисления лучше проверять."
+    },
+    {
+      "id": "health_1",
+      "categoryId": "health",
+      "title": "Здоровье и самочувствие",
+      "description": "Простые советы и трекеры.",
+      "variations": [
+        {
+          "text": "Алиса, как улучшить сон?",
+          "voice": "voice/health/health_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, посчитай калории",
+          "voice": "voice/health/health_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, включи медитацию",
+          "voice": "voice/health/health_1/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса не заменяет врача. При симптомах обращайтесь к специалисту."
+    },
+    {
+      "id": "health_2",
+      "categoryId": "health",
+      "title": "Спорт и тренировка",
+      "description": "Запуск упражнений и таймеров.",
+      "variations": [
+        {
+          "text": "Алиса, включи тренировку",
+          "voice": "voice/health/health_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, поставь таймер на планку",
+          "voice": "voice/health/health_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, сколько шагов я прошел?",
+          "voice": "voice/health/health_2/variation_3.wav"
+        }
+      ],
+      "tips": "Данные о шагах доступны при синхронизации с телефоном."
+    },
+    {
+      "id": "cook_1",
+      "categoryId": "cooking",
+      "title": "Рецепт блюда",
+      "description": "Пошаговый рецепт от Алисы.",
+      "variations": [
+        {
+          "text": "Алиса, как приготовить борщ?",
+          "voice": "voice/cooking/cook_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, рецепт пасты",
+          "voice": "voice/cooking/cook_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, что приготовить из курицы?",
+          "voice": "voice/cooking/cook_1/variation_3.wav"
+        }
+      ],
+      "tips": "Скажите 'Алиса, следующий шаг', чтобы листать рецепт."
+    },
+    {
+      "id": "cook_2",
+      "categoryId": "cooking",
+      "title": "Кухонный таймер",
+      "description": "Таймеры для готовки.",
+      "variations": [
+        {
+          "text": "Алиса, поставь таймер на 20 минут",
+          "voice": "voice/cooking/cook_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, таймер для духовки",
+          "voice": "voice/cooking/cook_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, сколько варить яйца?",
+          "voice": "voice/cooking/cook_2/variation_3.wav"
+        }
+      ],
+      "tips": "Можно запускать несколько таймеров и называть их: 'таймер на пасту'."
+    },
+    {
+      "id": "kids_1",
+      "categoryId": "kids",
+      "title": "Сказка на ночь",
+      "description": "Запуск детских сказок.",
+      "variations": [
+        {
+          "text": "Алиса, расскажи сказку про колобка",
+          "voice": "voice/kids/kids_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, включи сказку на ночь",
+          "voice": "voice/kids/kids_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, расскажи историю про динозавров",
+          "voice": "voice/kids/kids_1/variation_3.wav"
+        }
+      ],
+      "tips": "В приложении можно включить детский режим и ограничить контент."
+    },
+    {
+      "id": "kids_2",
+      "categoryId": "kids",
+      "title": "Детские игры и песни",
+      "description": "Развлечения для детей.",
+      "variations": [
+        {
+          "text": "Алиса, включи детские песни",
+          "voice": "voice/kids/kids_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, поиграй с ребенком",
+          "voice": "voice/kids/kids_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, загадай загадку про животных",
+          "voice": "voice/kids/kids_2/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса умеет считать, учить буквы и играть в слова."
+    },
+    {
+      "id": "sec_1",
+      "categoryId": "security",
+      "title": "Проверка безопасности",
+      "description": "Статус датчиков и камер.",
+      "variations": [
+        {
+          "text": "Алиса, все ли дома?",
+          "voice": "voice/security/sec_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, покажи камеру",
+          "voice": "voice/security/sec_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, статус охраны",
+          "voice": "voice/security/sec_1/variation_3.wav"
+        }
+      ],
+      "tips": "Нужны совместимые датчики, камеры и привязанная система безопасности."
+    },
+    {
+      "id": "sec_2",
+      "categoryId": "security",
+      "title": "Тревога и уведомления",
+      "description": "Настройка оповещений.",
+      "variations": [
+        {
+          "text": "Алиса, включи охрану",
+          "voice": "voice/security/sec_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, выключи охрану",
+          "voice": "voice/security/sec_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, что нового в безопасности?",
+          "voice": "voice/security/sec_2/variation_3.wav"
+        }
+      ],
+      "tips": "Для критичных сценариев проверьте уведомления в приложении."
+    },
+    {
+      "id": "trv_1",
+      "categoryId": "travel",
+      "title": "Найди билеты на поезд",
+      "description": "Поиск билетов и расписания.",
+      "variations": [
+        {
+          "text": "Алиса, найди билеты на поезд",
+          "voice": "voice/travel/trv_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, когда поезд до Москвы?",
+          "voice": "voice/travel/trv_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, расписание электричек",
+          "voice": "voice/travel/trv_1/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса может подсказать расписание и помочь перейти к покупке билетов."
+    },
+    {
+      "id": "trv_2",
+      "categoryId": "travel",
+      "title": "Забронируй отель",
+      "description": "Помощь с поиском и бронированием жилья.",
+      "variations": [
+        {
+          "text": "Алиса, найди отель",
+          "voice": "voice/travel/trv_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, забронируй гостиницу",
+          "voice": "voice/travel/trv_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, сколько стоит отель в Сочи?",
+          "voice": "voice/travel/trv_2/variation_3.wav"
+        }
+      ],
+      "tips": "Для бронирования потребуется подтверждение в приложении или на сайте."
+    },
+    {
+      "id": "fin_1",
+      "categoryId": "finance",
+      "title": "Курс валют",
+      "description": "Актуальные курсы валют.",
+      "variations": [
+        {
+          "text": "Алиса, курс доллара",
+          "voice": "voice/finance/fin_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, сколько стоит евро?",
+          "voice": "voice/finance/fin_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, курс биткоина",
+          "voice": "voice/finance/fin_1/variation_3.wav"
+        }
+      ],
+      "tips": "Курсы обновляются автоматически, но могут отличаться от банковских."
+    },
+    {
+      "id": "fin_2",
+      "categoryId": "finance",
+      "title": "Баланс и платежи",
+      "description": "Проверка баланса и оплата услуг.",
+      "variations": [
+        {
+          "text": "Алиса, сколько денег на карте?",
+          "voice": "voice/finance/fin_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, оплати телефон",
+          "voice": "voice/finance/fin_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, переведи деньги",
+          "voice": "voice/finance/fin_2/variation_3.wav"
+        }
+      ],
+      "tips": "Требуется привязка карты и подтверждение операций в приложении."
+    },
+    {
+      "id": "gad_1",
+      "categoryId": "gadgets",
+      "title": "Управление гаджетами",
+      "description": "Проверка и поиск устройств.",
+      "variations": [
+        {
+          "text": "Алиса, заряди телефон?",
+          "voice": "voice/gadgets/gad_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, найди наушники",
+          "voice": "voice/gadgets/gad_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, статус часов",
+          "voice": "voice/gadgets/gad_1/variation_3.wav"
+        }
+      ],
+      "tips": "Работает с поддерживаемыми устройствами и аксессуарами."
+    },
+    {
+      "id": "gad_2",
+      "categoryId": "gadgets",
+      "title": "Настройка устройств",
+      "description": "Подключение и параметры гаджетов.",
+      "variations": [
+        {
+          "text": "Алиса, подключи наушники",
+          "voice": "voice/gadgets/gad_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, настрой колонку",
+          "voice": "voice/gadgets/gad_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, обнови устройство",
+          "voice": "voice/gadgets/gad_2/variation_3.wav"
+        }
+      ],
+      "tips": "Некоторые настройки доступны только в приложении производителя."
+    },
+    {
+      "id": "prod_1",
+      "categoryId": "productivity",
+      "title": "Создай задачу",
+      "description": "Добавление задач и дел.",
+      "variations": [
+        {
+          "text": "Алиса, добавь задачу купить хлеб",
+          "voice": "voice/productivity/prod_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, создай напоминание",
+          "voice": "voice/productivity/prod_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, список дел",
+          "voice": "voice/productivity/prod_1/variation_3.wav"
+        }
+      ],
+      "tips": "Задачи можно синхронизировать с Яндекс-календарем."
+    },
+    {
+      "id": "prod_2",
+      "categoryId": "productivity",
+      "title": "Помодоро и фокус",
+      "description": "Таймер для работы и концентрации.",
+      "variations": [
+        {
+          "text": "Алиса, включи помодоро",
+          "voice": "voice/productivity/prod_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, таймер на 25 минут",
+          "voice": "voice/productivity/prod_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, режим фокуса",
+          "voice": "voice/productivity/prod_2/variation_3.wav"
+        }
+      ],
+      "tips": "Используйте короткие перерывы, чтобы меньше уставать."
+    },
+    {
+      "id": "soc_1",
+      "categoryId": "social",
+      "title": "Отправь сообщение",
+      "description": "Сообщения через Алису.",
+      "variations": [
+        {
+          "text": "Алиса, напиши маме",
+          "voice": "voice/social/soc_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, отправь сообщение",
+          "voice": "voice/social/soc_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, что ответили?",
+          "voice": "voice/social/soc_1/variation_3.wav"
+        }
+      ],
+      "tips": "Нужно разрешение на доступ к контактам и мессенджерам."
+    },
+    {
+      "id": "soc_2",
+      "categoryId": "social",
+      "title": "Позвони в мессенджер",
+      "description": "Звонки через приложения.",
+      "variations": [
+        {
+          "text": "Алиса, позвони в WhatsApp",
+          "voice": "voice/social/soc_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, набери в Telegram",
+          "voice": "voice/social/soc_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, видеозвонок",
+          "voice": "voice/social/soc_2/variation_3.wav"
+        }
+      ],
+      "tips": "Список поддерживаемых мессенджеров зависит от устройства и приложения."
+    },
+    {
+      "id": "pv_1",
+      "categoryId": "photo_video",
+      "title": "Сделай фото",
+      "description": "Управление камерой.",
+      "variations": [
+        {
+          "text": "Алиса, сделай фото",
+          "voice": "voice/photo_video/pv_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, включи камеру",
+          "voice": "voice/photo_video/pv_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, сними видео",
+          "voice": "voice/photo_video/pv_1/variation_3.wav"
+        }
+      ],
+      "tips": "Работает на устройствах с камерой и соответствующими разрешениями."
+    },
+    {
+      "id": "pv_2",
+      "categoryId": "photo_video",
+      "title": "Найди фото",
+      "description": "Поиск в галерее.",
+      "variations": [
+        {
+          "text": "Алиса, покажи фото",
+          "voice": "voice/photo_video/pv_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, найди фото кота",
+          "voice": "voice/photo_video/pv_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, что на фото?",
+          "voice": "voice/photo_video/pv_2/variation_3.wav"
+        }
+      ],
+      "tips": "Для поиска по галерее нужно разрешение на доступ к медиафайлам."
+    },
+    {
+      "id": "book_1",
+      "categoryId": "books",
+      "title": "Включи аудиокнигу",
+      "description": "Запуск аудиокниг.",
+      "variations": [
+        {
+          "text": "Алиса, включи аудиокнигу",
+          "voice": "voice/books/book_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, почитай книгу",
+          "voice": "voice/books/book_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, продолжи книгу",
+          "voice": "voice/books/book_1/variation_3.wav"
+        }
+      ],
+      "tips": "Аудиокниги доступны в Яндекс Книгах и некоторых навыках."
+    },
+    {
+      "id": "book_2",
+      "categoryId": "books",
+      "title": "Найди книгу",
+      "description": "Поиск литературы и рекомендаций.",
+      "variations": [
+        {
+          "text": "Алиса, найди книгу",
+          "voice": "voice/books/book_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, что почитать?",
+          "voice": "voice/books/book_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, книги про космос",
+          "voice": "voice/books/book_2/variation_3.wav"
+        }
+      ],
+      "tips": "Можно попросить подборку по жанру, автору или настроению."
+    },
+    {
+      "id": "hob_1",
+      "categoryId": "hobbies",
+      "title": "Идеи для хобби",
+      "description": "Вдохновение и советы.",
+      "variations": [
+        {
+          "text": "Алиса, чем заняться?",
+          "voice": "voice/hobbies/hob_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, идеи для творчества",
+          "voice": "voice/hobbies/hob_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, научи рисовать",
+          "voice": "voice/hobbies/hob_1/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса может предложить простые занятия и упражнения."
+    },
+    {
+      "id": "hob_2",
+      "categoryId": "hobbies",
+      "title": "Рукоделие",
+      "description": "Помощь в рукоделии и творчестве.",
+      "variations": [
+        {
+          "text": "Алиса, как связать шарф?",
+          "voice": "voice/hobbies/hob_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, схема вышивки",
+          "voice": "voice/hobbies/hob_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, оригами",
+          "voice": "voice/hobbies/hob_2/variation_3.wav"
+        }
+      ],
+      "tips": "Для сложных схем лучше использовать пошаговые видео и инструкции."
+    },
+    {
+      "id": "auto_1",
+      "categoryId": "auto",
+      "title": "Информация об авто",
+      "description": "Помощь водителю.",
+      "variations": [
+        {
+          "text": "Алиса, когда ТО?",
+          "voice": "voice/auto/auto_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, где заправка?",
+          "voice": "voice/auto/auto_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, цена бензина",
+          "voice": "voice/auto/auto_1/variation_3.wav"
+        }
+      ],
+      "tips": "Цены на топливо и расположение заправок зависят от региона."
+    },
+    {
+      "id": "auto_2",
+      "categoryId": "auto",
+      "title": "Маршрут и парковка",
+      "description": "Навигация для автомобилистов.",
+      "variations": [
+        {
+          "text": "Алиса, построй маршрут",
+          "voice": "voice/auto/auto_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, найди парковку",
+          "voice": "voice/auto/auto_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, объезд пробок",
+          "voice": "voice/auto/auto_2/variation_3.wav"
+        }
+      ],
+      "tips": "Функции навигации лучше работают в Яндекс Картах."
+    },
+    {
+      "id": "pet_1",
+      "categoryId": "pets",
+      "title": "Советы по питомцам",
+      "description": "Уход за домашними животными.",
+      "variations": [
+        {
+          "text": "Алиса, как ухаживать за котом?",
+          "voice": "voice/pets/pet_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, чем кормить собаку?",
+          "voice": "voice/pets/pet_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, когда гулять с собакой?",
+          "voice": "voice/pets/pet_1/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса даёт общие советы, но при проблемах со здоровьем нужен ветеринар."
+    },
+    {
+      "id": "pet_2",
+      "categoryId": "pets",
+      "title": "Напомни о питомце",
+      "description": "Напоминания, связанные с животными.",
+      "variations": [
+        {
+          "text": "Алиса, напомни купить корм",
+          "voice": "voice/pets/pet_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, запись к ветеринару",
+          "voice": "voice/pets/pet_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, дай таблетку коту",
+          "voice": "voice/pets/pet_2/variation_3.wav"
+        }
+      ],
+      "tips": "Напоминания можно повторять ежедневно или по дням недели."
+    },
+    {
+      "id": "fash_1",
+      "categoryId": "fashion",
+      "title": "Подбери образ",
+      "description": "Советы по стилю.",
+      "variations": [
+        {
+          "text": "Алиса, что надеть?",
+          "voice": "voice/fashion/fash_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, подбери образ",
+          "voice": "voice/fashion/fash_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, какой цвет подходит?",
+          "voice": "voice/fashion/fash_1/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса учитывает повод, погоду и ваши предпочтения."
+    },
+    {
+      "id": "fash_2",
+      "categoryId": "fashion",
+      "title": "Красота и уход",
+      "description": "Советы по уходу и красоте.",
+      "variations": [
+        {
+          "text": "Алиса, как ухаживать за кожей?",
+          "voice": "voice/fashion/fash_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, макияж на вечер",
+          "voice": "voice/fashion/fash_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, стрижка под лицо",
+          "voice": "voice/fashion/fash_2/variation_3.wav"
+        }
+      ],
+      "tips": "Для индивидуальных рекомендаций лучше обратиться к специалисту."
+    },
+    {
+      "id": "ev_1",
+      "categoryId": "events",
+      "title": "Найди мероприятие",
+      "description": "События и афиша.",
+      "variations": [
+        {
+          "text": "Алиса, куда сходить?",
+          "voice": "voice/events/ev_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, афиша на выходные",
+          "voice": "voice/events/ev_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, концерты в Москве",
+          "voice": "voice/events/ev_1/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса может показать события по городу и дате."
+    },
+    {
+      "id": "ev_2",
+      "categoryId": "events",
+      "title": "Купи билеты",
+      "description": "Покупка и бронирование билетов.",
+      "variations": [
+        {
+          "text": "Алиса, купи билеты в кино",
+          "voice": "voice/events/ev_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, забронируй места",
+          "voice": "voice/events/ev_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, билеты на концерт",
+          "voice": "voice/events/ev_2/variation_3.wav"
+        }
+      ],
+      "tips": "Перед покупкой проверьте дату, время и места."
+    },
+    {
+      "id": "gov_1",
+      "categoryId": "government",
+      "title": "Госуслуги",
+      "description": "Доступ к популярным сервисам.",
+      "variations": [
+        {
+          "text": "Алиса, запиши в МФЦ",
+          "voice": "voice/government/gov_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, проверь штрафы",
+          "voice": "voice/government/gov_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, статус заявления",
+          "voice": "voice/government/gov_1/variation_3.wav"
+        }
+      ],
+      "tips": "Для получения услуг может потребоваться подтверждённая учётная запись."
+    },
+    {
+      "id": "gov_2",
+      "categoryId": "government",
+      "title": "Документы и справки",
+      "description": "Помощь с документами.",
+      "variations": [
+        {
+          "text": "Алиса, как получить справку?",
+          "voice": "voice/government/gov_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, где получить паспорт?",
+          "voice": "voice/government/gov_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, налоги",
+          "voice": "voice/government/gov_2/variation_3.wav"
+        }
+      ],
+      "tips": "Алиса подскажет порядок действий, но не заменяет официальные органы."
+    },
+    {
+      "id": "game_1",
+      "categoryId": "games",
+      "title": "Игры и киберспорт",
+      "description": "Новости и матчи.",
+      "variations": [
+        {
+          "text": "Алиса, когда матч?",
+          "voice": "voice/games/game_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, счет игры",
+          "voice": "voice/games/game_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, новости киберспорта",
+          "voice": "voice/games/game_1/variation_3.wav"
+        }
+      ],
+      "tips": "Актуальность данных зависит от подключённых источников."
+    },
+    {
+      "id": "game_2",
+      "categoryId": "games",
+      "title": "Запусти игру",
+      "description": "Игры на устройстве.",
+      "variations": [
+        {
+          "text": "Алиса, включи игру",
+          "voice": "voice/games/game_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, запусти викторину",
+          "voice": "voice/games/game_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, игра в слова",
+          "voice": "voice/games/game_2/variation_3.wav"
+        }
+      ],
+      "tips": "Многие голосовые игры не требуют экрана."
+    },
+    {
+      "id": "eco_1",
+      "categoryId": "eco",
+      "title": "Экология дома",
+      "description": "Советы по экологичным привычкам.",
+      "variations": [
+        {
+          "text": "Алиса, как сортировать мусор?",
+          "voice": "voice/eco/eco_1/variation_1.wav"
+        },
+        {
+          "text": "Алиса, экономия воды",
+          "voice": "voice/eco/eco_1/variation_2.wav"
+        },
+        {
+          "text": "Алиса, экопривычки",
+          "voice": "voice/eco/eco_1/variation_3.wav"
+        }
+      ],
+      "tips": "Начните с простых привычек: сортировка, экономия света и воды."
+    },
+    {
+      "id": "eco_2",
+      "categoryId": "eco",
+      "title": "Погода и природа",
+      "description": "Экология и состояние окружающей среды.",
+      "variations": [
+        {
+          "text": "Алиса, качество воздуха",
+          "voice": "voice/eco/eco_2/variation_1.wav"
+        },
+        {
+          "text": "Алиса, когда цветение?",
+          "voice": "voice/eco/eco_2/variation_2.wav"
+        },
+        {
+          "text": "Алиса, уровень воды",
+          "voice": "voice/eco/eco_2/variation_3.wav"
+        }
+      ],
+      "tips": "Данные о качестве воздуха и природных явлениях зависят от региона."
+    }
+  ]
+}
