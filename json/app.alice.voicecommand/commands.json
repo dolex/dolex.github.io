@@ -233,7 +233,7 @@
       "description": "Быстрый перевод слов и фраз.",
       "variations": [
         {
-          "text": "Алиса, как будет по-английски 'Яблоко'?",
+          "text": "Алиса, как будет по-английски 'яблоко'?",
           "voice": "voice/tools/t_2/variation_1.wav"
         },
         {
@@ -271,7 +271,7 @@
       "description": "Настройка интернета для умной колонки.",
       "variations": [
         {
-          "text": "Алиса, подключи Wi-Fi",
+          "text": "Алиса, подключи Вай-Фай",
           "voice": "voice/getting_started/gs_2/variation_1.wav"
         },
         {
@@ -279,7 +279,7 @@
           "voice": "voice/getting_started/gs_2/variation_2.wav"
         },
         {
-          "text": "Алиса, смени Wi-Fi",
+          "text": "Алиса, смени Вай-Фай",
           "voice": "voice/getting_started/gs_2/variation_3.wav"
         }
       ],
@@ -386,6 +386,10 @@
         {
           "text": "Алиса, громкость на 7",
           "voice": "voice/volume/vol_1/variation_3.wav"
+        },
+        {
+          "text": "Алиса, громкость на максимум",
+          "voice": "voice/volume/vol_1/variation_4.wav"
         }
       ],
       "tips": "Уровень можно задавать числом от 0 до 10 в большинстве колонок."
@@ -407,6 +411,10 @@
         {
           "text": "Алиса, громкость 2",
           "voice": "voice/volume/vol_2/variation_3.wav"
+        },
+        {
+          "text": "Алиса, выключи звук",
+          "voice": "voice/volume/vol_2/variation_4.wav"
         }
       ],
       "tips": "Ночью удобно сказать 'Алиса, тише на 50 процентов'."
@@ -425,7 +433,10 @@
           "text": "Алиса, включи звук",
           "voice": "voice/volume/vol_3/variation_2.wav"
         },
-        { "text": "Алиса, mute", "voice": "voice/volume/vol_3/variation_3.wav" }
+        {
+          "text": "Алиса, мьют",
+          "voice": "voice/volume/vol_3/variation_3.wav"
+        }
       ],
       "tips": "На некоторых колонках есть физическая кнопка отключения микрофона — она не равна выключению звука."
     },
@@ -1171,16 +1182,20 @@
       "description": "Звонки через приложения.",
       "variations": [
         {
-          "text": "Алиса, позвони в WhatsApp",
+          "text": "Алиса, позвони в Макс",
           "voice": "voice/social/soc_2/variation_1.wav"
         },
         {
-          "text": "Алиса, набери в Telegram",
+          "text": "Алиса, позвони Вконтакте",
           "voice": "voice/social/soc_2/variation_2.wav"
         },
         {
-          "text": "Алиса, видеозвонок",
+          "text": "Алиса, набери в Телеграм",
           "voice": "voice/social/soc_2/variation_3.wav"
+        },
+        {
+          "text": "Алиса, видеозвонок",
+          "voice": "voice/social/soc_2/variation_4.wav"
         }
       ],
       "tips": "Список поддерживаемых мессенджеров зависит от устройства и приложения."
